@@ -1,0 +1,5 @@
+/* Callout dla tresci tylko dla MG: > [!mg] */
+.callout[data-callout="mg"] {
+  --callout-color: 170, 40, 40;
+  --callout-icon: lucide-eye-off;
+}

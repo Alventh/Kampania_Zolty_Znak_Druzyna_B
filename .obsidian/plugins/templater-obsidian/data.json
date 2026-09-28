@@ -1,0 +1,84 @@
+{
+  "data_version": 2,
+  "command_timeout": 5,
+  "templates_folder": "_Szablony",
+  "templates_pairs": [],
+  "trigger_on_file_creation_mode": "folder",
+  "auto_jump_to_cursor": false,
+  "jump_to_cursor_after_file_name": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "folder_templates": [
+    {
+      "folder": "Postacie",
+      "template": "_Szablony/Szablon - Postać.md"
+    },
+    {
+      "folder": "Lokacje",
+      "template": "_Szablony/Szablon - Lokacja.md"
+    },
+    {
+      "folder": "Rodziny",
+      "template": "_Szablony/Szablon - Rodzina.md"
+    },
+    {
+      "folder": "Organizacje",
+      "template": "_Szablony/Szablon - Organizacja.md"
+    },
+    {
+      "folder": "Przedmioty",
+      "template": "_Szablony/Szablon - Przedmiot.md"
+    },
+    {
+      "folder": "Notatki",
+      "template": "_Szablony/Szablon - Notatka.md"
+    },
+    {
+      "folder": "Wydarzenia",
+      "template": "_Szablony/Szablon - Wydarzenie.md"
+    },
+    {
+      "folder": "Kalendarze",
+      "template": "_Szablony/Szablon - Kalendarz.md"
+    },
+    {
+      "folder": "Osie czasu",
+      "template": "_Szablony/Szablon - Oś czasu.md"
+    },
+    {
+      "folder": "Rasy",
+      "template": "_Szablony/Szablon - Rasa.md"
+    },
+    {
+      "folder": "Stworzenia",
+      "template": "_Szablony/Szablon - Stworzenie.md"
+    },
+    {
+      "folder": "Zadania",
+      "template": "_Szablony/Szablon - Zadanie.md"
+    },
+    {
+      "folder": "Dzienniki",
+      "template": "_Szablony/Szablon - Dziennik.md"
+    },
+    {
+      "folder": "Zdolności",
+      "template": "_Szablony/Szablon - Zdolność.md"
+    },
+    {
+      "folder": "Mapy",
+      "template": "_Szablony/Szablon - Mapa.md"
+    },
+    {
+      "folder": "Tagi",
+      "template": "_Szablony/Szablon - Tag.md"
+    }
+  ],
+  "file_templates": [],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [],
+  "startup_templates": [],
+  "intellisense_render": "1",
+  "ignore_folders_on_creation": []
+}
