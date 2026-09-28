@@ -6,13 +6,13 @@ właściciel: "[[Dobroczyńca]]"
 lokacja:
 cena:
 rozmiar:
-waga:
-twórcy: ["[[Dobroczyńca]]"]
 tagi: []
 prywatne: false
 obraz: "[[Artefakt Z Cripple Creek.png]]"
 aliases: []
 kanka_id: 6934596
+waga:
+twórcy: ["[[Dobroczyńca]]"]
 ---
 
 ![[Artefakt Z Cripple Creek.png|300]]

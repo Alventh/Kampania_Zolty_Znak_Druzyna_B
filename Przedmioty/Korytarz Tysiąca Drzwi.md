@@ -6,14 +6,14 @@ właściciel: "[[Borys Schmidt]]"
 lokacja:
 cena:
 rozmiar:
-waga:
-twórcy: ["[[Borys Schmidt]]"]
 tagi: []
 prywatne: true
 obraz: "[[Korytarz Tysiąca Drzwi.jpg]]"
 aliases: []
-tags: ["mg"]
 kanka_id: 6933039
+waga:
+twórcy: ["[[Borys Schmidt]]"]
+tags: ["mg"]
 ---
 
 ![[Korytarz Tysiąca Drzwi.jpg|300]]

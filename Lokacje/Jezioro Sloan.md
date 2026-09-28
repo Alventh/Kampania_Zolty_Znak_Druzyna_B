@@ -6,8 +6,8 @@ tagi: []
 prywatne: true
 obraz: "[[Jezioro Sloan.png]]"
 aliases: []
-tags: ["mg"]
 kanka_id: 6938328
+tags: ["mg"]
 ---
 
 ![[Jezioro Sloan.png|300]]

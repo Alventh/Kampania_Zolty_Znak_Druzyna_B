@@ -6,13 +6,13 @@ właściciel:
 lokacja:
 cena:
 rozmiar:
-waga:
-twórcy: ["[[Benjamin Smith]]"]
 tagi: []
 prywatne: false
 obraz: "[[Rękawica.png]]"
 aliases: []
 kanka_id: 8152873
+waga:
+twórcy: ["[[Benjamin Smith]]"]
 ---
 
 ![[Rękawica.png|300]]

@@ -2,10 +2,11 @@
 kategoria: "dziennik"
 typ:
 rodzic:
+data:
 data_w_grze:
 kalendarz:
-lokacja: "[[Wioska Arapaho]]"
 autor: "[[Opowieść Niibéíhei (Przepowiadający Deszcz) o pochodzeniu ludu Hinono'eino]]"
+lokacja: "[[Wioska Arapaho]]"
 tagi: []
 prywatne: false
 obraz:

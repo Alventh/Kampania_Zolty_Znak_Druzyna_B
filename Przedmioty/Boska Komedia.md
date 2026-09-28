@@ -6,13 +6,13 @@ właściciel:
 lokacja:
 cena:
 rozmiar:
-waga:
-twórcy: []
 tagi: []
 prywatne: false
 obraz: "[[Boska Komedia.png]]"
 aliases: []
 kanka_id: 7138399
+waga:
+twórcy: []
 ---
 
 ![[Boska Komedia.png|300]]

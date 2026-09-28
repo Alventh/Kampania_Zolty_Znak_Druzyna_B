@@ -6,14 +6,14 @@ właściciel:
 lokacja:
 cena:
 rozmiar:
-waga:
-twórcy: []
 tagi: []
 prywatne: true
 obraz: "[[Obrazy.png]]"
 aliases: []
-tags: ["mg"]
 kanka_id: 6932982
+waga:
+twórcy: []
+tags: ["mg"]
 ---
 
 ![[Obrazy.png|300]]

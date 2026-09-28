@@ -5,13 +5,13 @@ rodzic:
 data_w_grze: "21 Sierpnia 1920"
 kalendarz: "[[Kalendarz]]"
 lokacja: "[[Cripple Creek]]"
-fc-calendar: "Kalendarz"
-fc-date: "1920-08-21"
 tagi: []
 prywatne: false
 obraz: "[[Przyjazd do Cripple Creek.png]]"
 aliases: []
 kanka_id: 6547721
+fc-calendar: "Kalendarz"
+fc-date: "1920-08-21"
 ---
 
 ![[Przyjazd do Cripple Creek.png|300]]

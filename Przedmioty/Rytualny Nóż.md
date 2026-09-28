@@ -6,13 +6,13 @@ właściciel: "[[Corbit]]"
 lokacja: "[[Dom Corbita]]"
 cena:
 rozmiar:
-waga:
-twórcy: ["[[Corbit]]"]
 tagi: []
 prywatne: false
 obraz: "[[Rytualny Nóż.png]]"
 aliases: []
 kanka_id: 6935859
+waga:
+twórcy: ["[[Corbit]]"]
 ---
 
 ![[Rytualny Nóż.png|300]]

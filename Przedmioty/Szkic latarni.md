@@ -6,14 +6,14 @@ właściciel: "[[Borys Schmidt]]"
 lokacja:
 cena:
 rozmiar:
-waga:
-twórcy: ["[[Borys Schmidt]]"]
 tagi: []
 prywatne: true
 obraz: "[[Szkic latarni.jpg]]"
 aliases: []
-tags: ["mg"]
 kanka_id: 6935928
+waga:
+twórcy: ["[[Borys Schmidt]]"]
+tags: ["mg"]
 ---
 
 ![[Szkic latarni.jpg|300]]

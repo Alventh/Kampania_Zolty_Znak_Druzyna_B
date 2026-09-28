@@ -6,13 +6,13 @@ właściciel:
 lokacja: "[[Farma Goździków]]"
 cena:
 rozmiar:
-waga:
-twórcy: []
 tagi: []
 prywatne: false
 obraz: "[[Zdjęcie z farmy goździków.png]]"
 aliases: []
 kanka_id: 8270070
+waga:
+twórcy: []
 ---
 
 ![[Zdjęcie z farmy goździków.png|300]]

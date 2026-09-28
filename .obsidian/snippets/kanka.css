@@ -1,5 +1,89 @@
+body {
+  --zz-accent: #c9a227;          /* złoto Żółtego Znaku */
+  --zz-accent-rgb: 201, 162, 39;
+  --zz-mg-rgb: 170, 40, 40;
+}
+
 /* Callout dla tresci tylko dla MG: > [!mg] */
 .callout[data-callout="mg"] {
-  --callout-color: 170, 40, 40;
+  --callout-color: var(--zz-mg-rgb);
   --callout-icon: lucide-eye-off;
 }
+.callout[data-callout="statblock"] {
+  --callout-color: var(--zz-accent-rgb);
+  --callout-icon: lucide-dices;
+}
+.callout[data-callout="stan"] {
+  --callout-color: 110, 150, 90;
+  --callout-icon: lucide-heart-pulse;
+}
+
+/* ---------- Ramka z portretem (widoki/infobox.js) ---------- */
+.zz-infobox {
+  float: right;
+  width: 300px;
+  margin: 0 0 1em 1.5em;
+  padding: 0.75em;
+  background: var(--background-secondary);
+  border: 1px solid var(--background-modifier-border);
+  border-top: 4px solid var(--zz-accent);
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+.zz-infobox.zz-private { border-top-color: rgb(var(--zz-mg-rgb)); }
+.zz-infobox-img {
+  display: block;
+  width: 100%;
+  max-height: 380px;
+  object-fit: cover;
+  object-position: top;
+  border-radius: 6px;
+}
+.zz-infobox.zz-dead .zz-infobox-img { filter: grayscale(1) contrast(0.9) brightness(0.85); }
+.zz-infobox-title {
+  margin: 0.6em 0 0;
+  text-align: center;
+  font-size: 1.25em;
+  font-weight: 700;
+  font-variant: small-caps;
+  letter-spacing: 0.03em;
+}
+.zz-infobox-sub {
+  text-align: center;
+  font-style: italic;
+  color: var(--text-muted);
+}
+.zz-badge {
+  margin: 0.4em auto 0;
+  width: fit-content;
+  padding: 0.1em 0.6em;
+  border-radius: 999px;
+  font-size: 0.8em;
+}
+.zz-badge-mg { background: rgba(var(--zz-mg-rgb), 0.2); color: rgb(var(--zz-mg-rgb)); }
+.zz-infobox table { width: 100%; margin: 0.6em 0 0; font-size: 0.9em; border-collapse: collapse; }
+.zz-infobox thead { display: none; }
+.zz-infobox td { border: none; border-top: 1px solid var(--background-modifier-border); padding: 0.3em 0.2em; vertical-align: top; }
+.zz-infobox td:first-child { width: 1%; white-space: nowrap; padding-right: 0.8em; font-weight: 600; color: var(--text-muted); }
+.zz-infobox ul { margin: 0; padding-left: 1.1em; }
+
+/* telefon / wąskie okno: ramka nad tekstem */
+@media (max-width: 700px) {
+  .zz-infobox { float: none; width: auto; margin: 0 0 1em; }
+}
+.is-mobile .zz-infobox { float: none; width: auto; margin: 0 0 1em; }
+.is-mobile .zz-infobox-img { max-height: 320px; }
+
+/* ---------- Karta postaci ---------- */
+.karta-postaci h2 {
+  font-variant: small-caps;
+  letter-spacing: 0.03em;
+  border-bottom: 1px solid rgba(var(--zz-accent-rgb), 0.6);
+  padding-bottom: 0.15em;
+}
+.karta-postaci h3 { color: var(--zz-accent); }
+/* sekcje pod ramką nie ściskają się obok niej */
+.karta-postaci .callout,
+.karta-postaci .block-language-dataviewjs:not(.zz-infobox) { clear: both; }
+.karta-postaci table td:has(.mb-input) { text-align: center; }
+.karta-postaci .mb-input-type-number input { width: 4.5em; text-align: center; }

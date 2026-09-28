@@ -6,13 +6,13 @@ właściciel: "[[Lilian Harding]]"
 lokacja:
 cena:
 rozmiar:
-waga:
-twórcy: ["[[Lilian Harding]]"]
 tagi: []
 prywatne: false
 obraz: "[[Lalka Lilian.png]]"
 aliases: []
 kanka_id: 6967538
+waga:
+twórcy: ["[[Lilian Harding]]"]
 ---
 
 ![[Lalka Lilian.png|300]]

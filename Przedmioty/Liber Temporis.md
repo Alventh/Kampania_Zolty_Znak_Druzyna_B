@@ -6,13 +6,13 @@ właściciel:
 lokacja:
 cena:
 rozmiar:
-waga:
-twórcy: []
 tagi: []
 prywatne: false
 obraz: "[[Liber Temporis.png]]"
 aliases: []
 kanka_id: 9260545
+waga:
+twórcy: []
 ---
 
 ![[Liber Temporis.png|300]]

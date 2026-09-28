@@ -6,13 +6,13 @@ właściciel: "[[Edward Herbert Tomson]]"
 lokacja: "[[Muzeum Natury i Nauki (lokacja)]]"
 cena:
 rozmiar:
-waga:
-twórcy: ["[[Edward Herbert Tomson]]"]
 tagi: []
 prywatne: false
 obraz: "[[Butelka z listem.png]]"
 aliases: []
 kanka_id: 6938323
+waga:
+twórcy: ["[[Edward Herbert Tomson]]"]
 ---
 
 ![[Butelka z listem.png|300]]

@@ -5,13 +5,13 @@ rodzic:
 data_w_grze: "0001-08-08"
 kalendarz: "[[Kalendarz]]"
 lokacja: "[[Ziemia]]"
-fc-calendar: "Kalendarz"
-fc-date: "0001-08-08"
 tagi: []
 prywatne: false
 obraz: "[[Pełnia Aldebaran.png]]"
 aliases: []
 kanka_id: 6934255
+fc-calendar: "Kalendarz"
+fc-date: "0001-08-08"
 ---
 
 ![[Pełnia Aldebaran.png|300]]

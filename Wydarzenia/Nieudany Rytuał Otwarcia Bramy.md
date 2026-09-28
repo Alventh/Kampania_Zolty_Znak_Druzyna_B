@@ -5,13 +5,13 @@ rodzic:
 data_w_grze: "8 Sierpnia 1819"
 kalendarz: "[[Kalendarz]]"
 lokacja: "[[Komnata pod posiadłością Bethania]]"
-fc-calendar: "Kalendarz"
-fc-date: "1815-08-08"
 tagi: []
 prywatne: false
 obraz: "[[Nieudany Rytuał Otwarcia Bramy.png]]"
 aliases: []
 kanka_id: 6934628
+fc-calendar: "Kalendarz"
+fc-date: "1815-08-08"
 ---
 
 ![[Nieudany Rytuał Otwarcia Bramy.png|300]]

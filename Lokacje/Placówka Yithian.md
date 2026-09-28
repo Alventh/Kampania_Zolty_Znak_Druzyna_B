@@ -6,8 +6,8 @@ tagi: []
 prywatne: true
 obraz:
 aliases: []
-tags: ["mg"]
 kanka_id: 7374807
+tags: ["mg"]
 ---
 
 > [!mg] Wpis prywatny w Kance — tylko dla MG

@@ -6,13 +6,13 @@ właściciel: "[[Borys Schmidt]]"
 lokacja:
 cena:
 rozmiar:
-waga:
-twórcy: ["[[Borys Schmidt]]"]
 tagi: []
 prywatne: false
 obraz: "[[Pęknięcie w skale.png]]"
 aliases: ["Pęknięcie w skale."]
 kanka_id: 7807271
+waga:
+twórcy: ["[[Borys Schmidt]]"]
 ---
 
 ![[Pęknięcie w skale.png|300]]

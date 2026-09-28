@@ -5,13 +5,13 @@ rodzic:
 data_w_grze: "1920-11-7"
 kalendarz: "[[Kalendarz]]"
 lokacja:
-fc-calendar: "Kalendarz"
-fc-date: "1920-11-07"
 tagi: []
 prywatne: false
 obraz:
 aliases: ["Lilian spotyka się z Axelem."]
 kanka_id: 6967692
+fc-calendar: "Kalendarz"
+fc-date: "1920-11-07"
 ---
 
 ## Opis

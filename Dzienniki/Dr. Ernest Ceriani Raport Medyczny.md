@@ -2,10 +2,11 @@
 kategoria: "dziennik"
 typ:
 rodzic:
+data:
 data_w_grze:
 kalendarz:
-lokacja: "[[Cripple Creek]]"
 autor: "[[Ernest Ceriani]]"
+lokacja: "[[Cripple Creek]]"
 tagi: []
 prywatne: false
 obraz:

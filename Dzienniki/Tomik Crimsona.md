@@ -2,10 +2,11 @@
 kategoria: "dziennik"
 typ:
 rodzic:
+data:
 data_w_grze:
 kalendarz:
-lokacja:
 autor:
+lokacja:
 tagi: []
 prywatne: false
 obraz:

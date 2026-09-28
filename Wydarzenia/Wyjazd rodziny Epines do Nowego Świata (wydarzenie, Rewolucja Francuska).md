@@ -5,13 +5,13 @@ rodzic: "[[Rewolucja Francuska]]"
 data_w_grze: "1789-10-21"
 kalendarz: "[[Kalendarz]]"
 lokacja: "[[Francja]]"
-fc-calendar: "Kalendarz"
-fc-date: "1789-10-21"
 tagi: []
 prywatne: false
 obraz:
 aliases: ["Wyjazd rodziny Epines do Nowego Świata"]
 kanka_id: 6571661
+fc-calendar: "Kalendarz"
+fc-date: "1789-10-21"
 ---
 
 ## Opis

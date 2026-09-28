@@ -6,13 +6,13 @@ właściciel:
 lokacja:
 cena:
 rozmiar:
-waga:
-twórcy: []
 tagi: []
 prywatne: false
 obraz: "[[SS Kaiser Wilhelm der Große.png]]"
 aliases: []
 kanka_id: 6932860
+waga:
+twórcy: []
 ---
 
 ![[SS Kaiser Wilhelm der Große.png|300]]

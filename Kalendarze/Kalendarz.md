@@ -2,6 +2,7 @@
 kategoria: "kalendarz"
 typ:
 rodzic:
+calendarium:
 tagi: []
 prywatne: false
 obraz: "[[Kalendarz.jpg]]"

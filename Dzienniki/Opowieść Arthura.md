@@ -2,17 +2,18 @@
 kategoria: "dziennik"
 typ:
 rodzic:
+data:
 data_w_grze: "1902-04-25"
 kalendarz: "[[Kalendarz]]"
-lokacja: "[[Denver]]"
 autor: "[[Arthur Holdem]]"
-fc-calendar: "Kalendarz"
-fc-date: "1902-04-25"
+lokacja: "[[Denver]]"
 tagi: []
 prywatne: false
 obraz:
 aliases: []
 kanka_id: 6934302
+fc-calendar: "Kalendarz"
+fc-date: "1902-04-25"
 ---
 
 ## Podsumowanie

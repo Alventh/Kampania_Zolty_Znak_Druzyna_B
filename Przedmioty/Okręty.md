@@ -6,13 +6,13 @@ właściciel:
 lokacja:
 cena:
 rozmiar:
-waga:
-twórcy: []
 tagi: []
 prywatne: false
 obraz: "[[Okręty.png]]"
 aliases: []
 kanka_id: 6932964
+waga:
+twórcy: []
 ---
 
 ![[Okręty.png|300]]

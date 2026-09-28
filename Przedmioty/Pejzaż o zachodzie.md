@@ -6,13 +6,13 @@ właściciel: "[[Borys Schmidt]]"
 lokacja: "[[Opera w Denver]]"
 cena:
 rozmiar:
-waga:
-twórcy: ["[[Borys Schmidt]]"]
 tagi: []
 prywatne: false
 obraz: "[[Pejzaż o zachodzie.png]]"
 aliases: ["Pejzaż o zachodzie."]
 kanka_id: 7807527
+waga:
+twórcy: ["[[Borys Schmidt]]"]
 ---
 
 ![[Pejzaż o zachodzie.png|300]]

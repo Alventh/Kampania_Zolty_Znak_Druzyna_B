@@ -6,13 +6,13 @@ właściciel: "[[Benjamin Smith]]"
 lokacja: "[[Denver]]"
 cena:
 rozmiar:
-waga:
-twórcy: ["[[Benjamin Smith]]"]
 tagi: []
 prywatne: false
 obraz: "[[Bransoleta z koniem.png]]"
 aliases: ["Bransoleta  z koniem"]
 kanka_id: 6934783
+waga:
+twórcy: ["[[Benjamin Smith]]"]
 ---
 
 ![[Bransoleta z koniem.png|300]]

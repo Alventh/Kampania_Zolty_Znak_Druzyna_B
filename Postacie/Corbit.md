@@ -15,10 +15,13 @@ tagi: []
 prywatne: false
 obraz: "[[Corbit.png]]"
 aliases: []
+cssclasses: ["karta-postaci"]
 kanka_id: 6547968
 ---
 
-![[Corbit.png|300]]
+```dataviewjs
+await dv.view("_Szablony/widoki/infobox")
+```
 
 ## Opis
 
@@ -34,6 +37,21 @@ Ostatecznie zniszczony przez [[Lilian Harding]] i [[Cole Phelps]] z [[Agencja De
 ## Osobowość
 
 
+> [!statblock]- Statystyki (CoC 7e)
+> | S | KON | BC | ZR | WYG | INT | MOC | WYK |
+> | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+> |  |  |  |  |  |  |  |  |
+>
+> **PW:**  · **PM:**  · **Poczytalność:**  · **Ruch:**  · **MO:**  · **Krzepa:** 
+>
+> | Umiejętność | % | ½ | ⅕ |
+> | --- | :-: | :-: | :-: |
+> |  |  |  |  |
+>
+> **Ataki:** 
+>
+> Rzut: `dice: 1d100` · Obrażenia: `dice: 1d3`
+
 ## Powiązania
 
 | Z kim | Relacja | Stosunek |
@@ -43,29 +61,8 @@ Ostatecznie zniszczony przez [[Lilian Harding]] i [[Cole Phelps]] z [[Agencja De
 > [!mg]- Tylko dla MG
 > 
 
-## Ekwipunek
+## Powiązane wpisy
 
-```dataview
-TABLE WITHOUT ID file.link AS "Nazwa", typ
-FROM "Przedmioty"
-WHERE właściciel = this.file.link AND kategoria != "indeks"
-SORT file.name
-```
-
-## Autor dzienników
-
-```dataview
-TABLE WITHOUT ID file.link AS "Nazwa", data
-FROM "Dzienniki"
-WHERE autor = this.file.link AND kategoria != "indeks"
-SORT file.name
-```
-
-## Zlecone zadania
-
-```dataview
-TABLE WITHOUT ID file.link AS "Nazwa", ukończone
-FROM "Zadania"
-WHERE zlecający = this.file.link AND kategoria != "indeks"
-SORT file.name
+```dataviewjs
+await dv.view("_Szablony/widoki/powiazania")
 ```

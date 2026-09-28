@@ -6,13 +6,13 @@ właściciel: "[[Dewey C. Bailey]]"
 lokacja: "[[Denver]]"
 cena:
 rozmiar:
-waga:
-twórcy: ["[[Dewey C. Bailey]]"]
 tagi: []
 prywatne: false
 obraz: "[[Zapiski Z Carcossy.png]]"
 aliases: []
 kanka_id: 6935345
+waga:
+twórcy: ["[[Dewey C. Bailey]]"]
 ---
 
 ![[Zapiski Z Carcossy.png|300]]

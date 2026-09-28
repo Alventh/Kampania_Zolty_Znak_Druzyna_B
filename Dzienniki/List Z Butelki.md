@@ -2,10 +2,11 @@
 kategoria: "dziennik"
 typ:
 rodzic:
+data:
 data_w_grze: "1791-05-03"
 kalendarz:
-lokacja: "[[Jezioro Sloan]]"
 autor: "[[Jean Dupont]]"
+lokacja: "[[Jezioro Sloan]]"
 tagi: []
 prywatne: false
 obraz: "[[Butelka z listem.png]]"

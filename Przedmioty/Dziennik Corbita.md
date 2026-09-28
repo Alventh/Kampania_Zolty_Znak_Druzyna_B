@@ -6,13 +6,13 @@ właściciel: "[[Corbit]]"
 lokacja: "[[Boston]]"
 cena:
 rozmiar:
-waga:
-twórcy: ["[[Corbit]]"]
 tagi: []
 prywatne: false
 obraz: "[[Dziennik Corbita.png]]"
 aliases: []
 kanka_id: 6547885
+waga:
+twórcy: ["[[Corbit]]"]
 ---
 
 ![[Dziennik Corbita.png|300]]

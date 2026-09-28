@@ -15,8 +15,13 @@ tagi: []
 prywatne: false
 obraz:
 aliases: []
+cssclasses: ["karta-postaci"]
 kanka_id: 9260543
 ---
+
+```dataviewjs
+await dv.view("_Szablony/widoki/infobox")
+```
 
 ## Opis
 
@@ -28,6 +33,21 @@ Rodzony brat [[Wilhelm Galloway]], stryj [[Leo Galloway]] oraz pradziadek [[Stan
 ## Osobowość
 
 
+> [!statblock]- Statystyki (CoC 7e)
+> | S | KON | BC | ZR | WYG | INT | MOC | WYK |
+> | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+> |  |  |  |  |  |  |  |  |
+>
+> **PW:**  · **PM:**  · **Poczytalność:**  · **Ruch:**  · **MO:**  · **Krzepa:** 
+>
+> | Umiejętność | % | ½ | ⅕ |
+> | --- | :-: | :-: | :-: |
+> |  |  |  |  |
+>
+> **Ataki:** 
+>
+> Rzut: `dice: 1d100` · Obrażenia: `dice: 1d3`
+
 ## Powiązania
 
 | Z kim | Relacja | Stosunek |
@@ -37,29 +57,8 @@ Rodzony brat [[Wilhelm Galloway]], stryj [[Leo Galloway]] oraz pradziadek [[Stan
 > [!mg]- Tylko dla MG
 > 
 
-## Ekwipunek
+## Powiązane wpisy
 
-```dataview
-TABLE WITHOUT ID file.link AS "Nazwa", typ
-FROM "Przedmioty"
-WHERE właściciel = this.file.link AND kategoria != "indeks"
-SORT file.name
-```
-
-## Autor dzienników
-
-```dataview
-TABLE WITHOUT ID file.link AS "Nazwa", data
-FROM "Dzienniki"
-WHERE autor = this.file.link AND kategoria != "indeks"
-SORT file.name
-```
-
-## Zlecone zadania
-
-```dataview
-TABLE WITHOUT ID file.link AS "Nazwa", ukończone
-FROM "Zadania"
-WHERE zlecający = this.file.link AND kategoria != "indeks"
-SORT file.name
+```dataviewjs
+await dv.view("_Szablony/widoki/powiazania")
 ```

@@ -2,17 +2,18 @@
 kategoria: "dziennik"
 typ:
 rodzic:
+data:
 data_w_grze: "1920-01-15"
 kalendarz: "[[Kalendarz]]"
-lokacja: "[[Denver]]"
 autor: "[[Adam H. Morrison]]"
-fc-calendar: "Kalendarz"
-fc-date: "1920-01-15"
+lokacja: "[[Denver]]"
 tagi: []
 prywatne: false
 obraz:
 aliases: []
 kanka_id: 6934505
+fc-calendar: "Kalendarz"
+fc-date: "1920-01-15"
 ---
 
 ## Podsumowanie

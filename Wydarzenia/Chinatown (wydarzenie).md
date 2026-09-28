@@ -5,13 +5,13 @@ rodzic:
 data_w_grze: "2 Listopada 1920"
 kalendarz: "[[Kalendarz]]"
 lokacja: "[[Chinatown (lokacja)]]"
-fc-calendar: "Kalendarz"
-fc-date: "1920-11-02"
 tagi: []
 prywatne: false
 obraz: "[[Chinatown (wydarzenie).png]]"
 aliases: ["Chinatown"]
 kanka_id: 6940217
+fc-calendar: "Kalendarz"
+fc-date: "1920-11-02"
 ---
 
 ![[Chinatown (wydarzenie).png|300]]

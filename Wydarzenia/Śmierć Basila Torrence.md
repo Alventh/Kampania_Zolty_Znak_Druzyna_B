@@ -5,13 +5,13 @@ rodzic:
 data_w_grze: "5 Listopada 1920"
 kalendarz: "[[Kalendarz]]"
 lokacja: "[[Denver]]"
-fc-calendar: "Kalendarz"
-fc-date: "1920-11-05"
 tagi: []
 prywatne: false
 obraz: "[[Śmierć Basila Torrence.png]]"
 aliases: []
 kanka_id: 6940174
+fc-calendar: "Kalendarz"
+fc-date: "1920-11-05"
 ---
 
 ![[Śmierć Basila Torrence.png|300]]

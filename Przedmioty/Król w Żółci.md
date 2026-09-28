@@ -6,13 +6,13 @@ właściciel:
 lokacja: "[[Ziemia]]"
 cena:
 rozmiar:
-waga:
-twórcy: []
 tagi: []
 prywatne: false
 obraz: "[[Król w Żółci.png]]"
 aliases: []
 kanka_id: 6934594
+waga:
+twórcy: []
 ---
 
 ![[Król w Żółci.png|300]]

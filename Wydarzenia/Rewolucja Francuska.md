@@ -5,13 +5,13 @@ rodzic:
 data_w_grze: "14 Lipca 1789"
 kalendarz: "[[Kalendarz]]"
 lokacja: "[[Francja]]"
-fc-calendar: "Kalendarz"
-fc-date: "1789-07-14"
 tagi: []
 prywatne: false
 obraz: "[[Rewolucja Francuska.jpg]]"
 aliases: []
 kanka_id: 6571650
+fc-calendar: "Kalendarz"
+fc-date: "1789-07-14"
 ---
 
 ![[Rewolucja Francuska.jpg|300]]

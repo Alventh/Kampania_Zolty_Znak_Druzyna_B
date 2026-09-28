@@ -6,13 +6,13 @@ właściciel:
 lokacja: "[[Opera w Denver]]"
 cena:
 rozmiar:
-waga:
-twórcy: []
 tagi: []
 prywatne: false
 obraz: "[[Scenariusz Basila Torrance.png]]"
 aliases: []
 kanka_id: 7807287
+waga:
+twórcy: []
 ---
 
 ![[Scenariusz Basila Torrance.png|300]]

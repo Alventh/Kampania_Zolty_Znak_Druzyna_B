@@ -15,11 +15,14 @@ tagi: []
 prywatne: true
 obraz: "[[Jaques Epines.webp]]"
 aliases: []
-tags: ["mg"]
+cssclasses: ["karta-postaci"]
 kanka_id: 6571673
+tags: ["mg"]
 ---
 
-![[Jaques Epines.webp|300]]
+```dataviewjs
+await dv.view("_Szablony/widoki/infobox")
+```
 
 > [!mg] Wpis prywatny w Kance — tylko dla MG
 
@@ -41,6 +44,21 @@ Nieudana próba otwarcia bramy doprowadziła do [[Śmierć Jaques i Pierette Epi
 ## Osobowość
 
 
+> [!statblock]- Statystyki (CoC 7e)
+> | S | KON | BC | ZR | WYG | INT | MOC | WYK |
+> | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+> |  |  |  |  |  |  |  |  |
+>
+> **PW:**  · **PM:**  · **Poczytalność:**  · **Ruch:**  · **MO:**  · **Krzepa:** 
+>
+> | Umiejętność | % | ½ | ⅕ |
+> | --- | :-: | :-: | :-: |
+> |  |  |  |  |
+>
+> **Ataki:** 
+>
+> Rzut: `dice: 1d100` · Obrażenia: `dice: 1d3`
+
 ## Powiązania
 
 | Z kim | Relacja | Stosunek |
@@ -50,29 +68,8 @@ Nieudana próba otwarcia bramy doprowadziła do [[Śmierć Jaques i Pierette Epi
 > [!mg]- Tylko dla MG
 > 
 
-## Ekwipunek
+## Powiązane wpisy
 
-```dataview
-TABLE WITHOUT ID file.link AS "Nazwa", typ
-FROM "Przedmioty"
-WHERE właściciel = this.file.link AND kategoria != "indeks"
-SORT file.name
-```
-
-## Autor dzienników
-
-```dataview
-TABLE WITHOUT ID file.link AS "Nazwa", data
-FROM "Dzienniki"
-WHERE autor = this.file.link AND kategoria != "indeks"
-SORT file.name
-```
-
-## Zlecone zadania
-
-```dataview
-TABLE WITHOUT ID file.link AS "Nazwa", ukończone
-FROM "Zadania"
-WHERE zlecający = this.file.link AND kategoria != "indeks"
-SORT file.name
+```dataviewjs
+await dv.view("_Szablony/widoki/powiazania")
 ```

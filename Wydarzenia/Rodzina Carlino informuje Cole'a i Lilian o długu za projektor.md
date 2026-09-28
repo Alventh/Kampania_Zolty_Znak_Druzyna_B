@@ -5,13 +5,13 @@ rodzic:
 data_w_grze: "14.11.1920"
 kalendarz: "[[Kalendarz]]"
 lokacja: "[[Biuro Agencji Detektywistycznej]]"
-fc-calendar: "Kalendarz"
-fc-date: "1920-11-14"
 tagi: []
 prywatne: false
 obraz:
 aliases: []
 kanka_id: 7387279
+fc-calendar: "Kalendarz"
+fc-date: "1920-11-14"
 ---
 
 ## Opis

@@ -5,13 +5,13 @@ rodzic:
 data_w_grze: "25 Kwietnia 1902"
 kalendarz: "[[Kalendarz]]"
 lokacja: "[[Denver]]"
-fc-calendar: "Kalendarz"
-fc-date: "1902-04-25"
 tagi: []
 prywatne: false
 obraz: "[[Powstanie Kultu Hastura w Denver.png]]"
 aliases: []
 kanka_id: 6934309
+fc-calendar: "Kalendarz"
+fc-date: "1902-04-25"
 ---
 
 ![[Powstanie Kultu Hastura w Denver.png|300]]

@@ -6,14 +6,14 @@ właściciel:
 lokacja:
 cena:
 rozmiar:
-waga:
-twórcy: []
 tagi: []
 prywatne: true
 obraz: "[[Strażnik wiedzy.png]]"
 aliases: []
-tags: ["mg"]
 kanka_id: 6937154
+waga:
+twórcy: []
+tags: ["mg"]
 ---
 
 ![[Strażnik wiedzy.png|300]]

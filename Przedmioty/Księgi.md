@@ -6,13 +6,13 @@ właściciel:
 lokacja:
 cena:
 rozmiar:
-waga:
-twórcy: []
 tagi: []
 prywatne: false
 obraz: "[[Księgi.png]]"
 aliases: []
 kanka_id: 6547967
+waga:
+twórcy: []
 ---
 
 ![[Księgi.png|300]]

@@ -2,10 +2,11 @@
 kategoria: "dziennik"
 typ:
 rodzic:
+data:
 data_w_grze:
 kalendarz:
-lokacja: "[[Bethania]]"
 autor: "[[Ethan Epines]]"
+lokacja: "[[Bethania]]"
 tagi: []
 prywatne: false
 obraz: "[[Dziennik Ethana Epines.png]]"

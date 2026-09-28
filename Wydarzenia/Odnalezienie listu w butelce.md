@@ -5,13 +5,13 @@ rodzic:
 data_w_grze: "Ranek 9 Sierpnia 1920"
 kalendarz: "[[Kalendarz]]"
 lokacja: "[[Jezioro Sloan]]"
-fc-calendar: "Kalendarz"
-fc-date: "1920-08-09"
 tagi: []
 prywatne: false
 obraz: "[[Odnalezienie listu w butelce.png]]"
 aliases: []
 kanka_id: 6941756
+fc-calendar: "Kalendarz"
+fc-date: "1920-08-09"
 ---
 
 ![[Odnalezienie listu w butelce.png|300]]

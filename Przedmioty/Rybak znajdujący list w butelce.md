@@ -6,13 +6,13 @@ właściciel: "[[Borys Schmidt]]"
 lokacja:
 cena:
 rozmiar:
-waga:
-twórcy: ["[[Borys Schmidt]]"]
 tagi: []
 prywatne: false
 obraz: "[[Rybak znajdujący list w butelce.jpg]]"
 aliases: []
 kanka_id: 6945254
+waga:
+twórcy: ["[[Borys Schmidt]]"]
 ---
 
 ![[Rybak znajdujący list w butelce.jpg|300]]

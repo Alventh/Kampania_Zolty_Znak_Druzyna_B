@@ -6,13 +6,13 @@ właściciel:
 lokacja:
 cena:
 rozmiar:
-waga:
-twórcy: []
 tagi: []
 prywatne: false
 obraz:
 aliases: []
 kanka_id: 6935880
+waga:
+twórcy: []
 ---
 
 ## Opis

@@ -6,13 +6,13 @@ właściciel:
 lokacja:
 cena:
 rozmiar:
-waga:
-twórcy: []
 tagi: []
 prywatne: false
 obraz: "[[Montmartre.jpg]]"
 aliases: []
 kanka_id: 6932859
+waga:
+twórcy: []
 ---
 
 ![[Montmartre.jpg|300]]

@@ -5,13 +5,13 @@ rodzic:
 data_w_grze: "01 Lipca 1920"
 kalendarz: "[[Kalendarz]]"
 lokacja: "[[Kopalnia w Cripple Creek]]"
-fc-calendar: "Kalendarz"
-fc-date: "1920-07-01"
 tagi: []
 prywatne: false
 obraz: "[[Zamknięcie Kopalni.png]]"
 aliases: []
 kanka_id: 6940060
+fc-calendar: "Kalendarz"
+fc-date: "1920-07-01"
 ---
 
 ![[Zamknięcie Kopalni.png|300]]

@@ -15,10 +15,13 @@ tagi: []
 prywatne: false
 obraz: "[[Nathan S. Kline.png]]"
 aliases: []
+cssclasses: ["karta-postaci"]
 kanka_id: 6969414
 ---
 
-![[Nathan S. Kline.png|300]]
+```dataviewjs
+await dv.view("_Szablony/widoki/infobox")
+```
 
 ## Opis
 
@@ -30,6 +33,21 @@ Lekarz z [[Boulder]], znajomy [[Ernest Ceriani]]. To za jego sprawą, zgodził s
 ## Osobowość
 
 
+> [!statblock]- Statystyki (CoC 7e)
+> | S | KON | BC | ZR | WYG | INT | MOC | WYK |
+> | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+> |  |  |  |  |  |  |  |  |
+>
+> **PW:**  · **PM:**  · **Poczytalność:**  · **Ruch:**  · **MO:**  · **Krzepa:** 
+>
+> | Umiejętność | % | ½ | ⅕ |
+> | --- | :-: | :-: | :-: |
+> |  |  |  |  |
+>
+> **Ataki:** 
+>
+> Rzut: `dice: 1d100` · Obrażenia: `dice: 1d3`
+
 ## Powiązania
 
 | Z kim | Relacja | Stosunek |
@@ -39,29 +57,8 @@ Lekarz z [[Boulder]], znajomy [[Ernest Ceriani]]. To za jego sprawą, zgodził s
 > [!mg]- Tylko dla MG
 > 
 
-## Ekwipunek
+## Powiązane wpisy
 
-```dataview
-TABLE WITHOUT ID file.link AS "Nazwa", typ
-FROM "Przedmioty"
-WHERE właściciel = this.file.link AND kategoria != "indeks"
-SORT file.name
-```
-
-## Autor dzienników
-
-```dataview
-TABLE WITHOUT ID file.link AS "Nazwa", data
-FROM "Dzienniki"
-WHERE autor = this.file.link AND kategoria != "indeks"
-SORT file.name
-```
-
-## Zlecone zadania
-
-```dataview
-TABLE WITHOUT ID file.link AS "Nazwa", ukończone
-FROM "Zadania"
-WHERE zlecający = this.file.link AND kategoria != "indeks"
-SORT file.name
+```dataviewjs
+await dv.view("_Szablony/widoki/powiazania")
 ```
