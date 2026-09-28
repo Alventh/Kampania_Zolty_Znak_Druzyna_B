@@ -8,13 +8,15 @@ data_w_grze: "1814-01-23"
 kalendarz: "[[Kalendarz]]"
 autor: "[[Wilhelm Galloway]]"
 lokacja: "[[Cripple Creek]]"
+fc-calendar: "Kalendarz"
+fc-date: "1814-01-23"
+fc-end: "1814-02-24"
+fc-category: "Dzienniki"
 tagi: []
 prywatne: false
 image: "[[Dziennik Wilhelma Gallowaya.png]]"
 aliases: []
 kanka_id: 6934781
-fc-calendar: "Kalendarz"
-fc-date: "1814-01-23"
 ---
 
 ![[Dziennik Wilhelma Gallowaya.png|300]]

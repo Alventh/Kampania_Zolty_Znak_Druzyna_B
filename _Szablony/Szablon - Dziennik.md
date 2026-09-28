@@ -8,6 +8,10 @@ data_w_grze:
 kalendarz:
 autor:
 lokacja:
+fc-calendar: "Kalendarz"
+fc-date:
+fc-end:
+fc-category: "Dzienniki"
 tagi: []
 prywatne: false
 image:

@@ -5,9 +5,13 @@ typ:
 rodzic:
 data:
 data_w_grze: "1791-05-03"
-kalendarz:
+kalendarz: "[[Kalendarz]]"
 autor: "[[Jean Dupont]]"
 lokacja: "[[Jezioro Sloan]]"
+fc-calendar: "Kalendarz"
+fc-date: "1791-05-03"
+fc-end:
+fc-category: "Dzienniki"
 tagi: []
 prywatne: false
 image: "[[Butelka z listem.png]]"

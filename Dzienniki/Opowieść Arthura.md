@@ -8,13 +8,15 @@ data_w_grze: "1902-04-25"
 kalendarz: "[[Kalendarz]]"
 autor: "[[Arthur Holdem]]"
 lokacja: "[[Denver]]"
+fc-calendar: "Kalendarz"
+fc-date: "1902-04-25"
+fc-end:
+fc-category: "Dzienniki"
 tagi: []
 prywatne: false
 image:
 aliases: []
 kanka_id: 6934302
-fc-calendar: "Kalendarz"
-fc-date: "1902-04-25"
 ---
 
 ## Podsumowanie

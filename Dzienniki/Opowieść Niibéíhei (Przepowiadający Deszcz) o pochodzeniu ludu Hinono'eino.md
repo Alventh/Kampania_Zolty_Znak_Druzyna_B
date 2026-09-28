@@ -8,6 +8,10 @@ data_w_grze:
 kalendarz:
 autor: "[[Opowieść Niibéíhei (Przepowiadający Deszcz) o pochodzeniu ludu Hinono'eino]]"
 lokacja: "[[Wioska Arapaho]]"
+fc-calendar: "Kalendarz"
+fc-date:
+fc-end:
+fc-category: "Dzienniki"
 tagi: []
 prywatne: false
 image:

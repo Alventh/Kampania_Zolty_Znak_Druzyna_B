@@ -6,13 +6,15 @@ rodzic:
 data_w_grze: "Noc 21 Sierpnia 1920"
 kalendarz: "[[Kalendarz]]"
 lokacja: "[[Cripple Creek]]"
+fc-calendar: "Kalendarz"
+fc-date: "1920-08-21"
+fc-end:
+fc-category: "Wydarzenia"
 tagi: []
 prywatne: false
 image: "[[Trzęsienie ziemi.png]]"
 aliases: []
 kanka_id: 6940085
-fc-calendar: "Kalendarz"
-fc-date: "1920-08-21"
 ---
 
 ![[Trzęsienie ziemi.png|300]]

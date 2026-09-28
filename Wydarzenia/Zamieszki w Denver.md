@@ -6,13 +6,15 @@ rodzic:
 data_w_grze: "od 1 do 9 Sierpnia 1920"
 kalendarz: "[[Kalendarz]]"
 lokacja: "[[Denver]]"
+fc-calendar: "Kalendarz"
+fc-date: "1920-08-01"
+fc-end:
+fc-category: "Wydarzenia"
 tagi: []
 prywatne: false
 image: "[[Zamieszki w Denver.png]]"
 aliases: ["Zamieszki W Denver"]
 kanka_id: 6937542
-fc-calendar: "Kalendarz"
-fc-date: "1920-08-01"
 ---
 
 ![[Zamieszki w Denver.png|300]]

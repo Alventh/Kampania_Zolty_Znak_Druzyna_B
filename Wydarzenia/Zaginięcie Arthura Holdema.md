@@ -6,13 +6,15 @@ rodzic:
 data_w_grze: "20:00 01 Sierpnia 1920"
 kalendarz: "[[Kalendarz]]"
 lokacja: "[[Denver]]"
+fc-calendar: "Kalendarz"
+fc-date: "1920-08-01"
+fc-end:
+fc-category: "Wydarzenia"
 tagi: []
 prywatne: false
 image: "[[Zaginięcie Arthura Holdema.png]]"
 aliases: []
 kanka_id: 6941804
-fc-calendar: "Kalendarz"
-fc-date: "1920-08-01"
 ---
 
 ![[Zaginięcie Arthura Holdema.png|300]]

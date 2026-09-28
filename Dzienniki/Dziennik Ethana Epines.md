@@ -4,10 +4,14 @@ kategoria: "dziennik"
 typ:
 rodzic:
 data:
-data_w_grze:
-kalendarz:
+data_w_grze: "1815-09-15 – 1819-08-08"
+kalendarz: "[[Kalendarz]]"
 autor: "[[Ethan Epines]]"
 lokacja: "[[Bethania]]"
+fc-calendar: "Kalendarz"
+fc-date: "1815-09-15"
+fc-end: "1819-08-08"
+fc-category: "Dzienniki"
 tagi: []
 prywatne: false
 image: "[[Dziennik Ethana Epines.png]]"

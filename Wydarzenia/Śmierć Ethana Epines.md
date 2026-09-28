@@ -6,13 +6,15 @@ rodzic:
 data_w_grze: "25 Sierpnia 1920"
 kalendarz: "[[Kalendarz]]"
 lokacja: "[[Komnata pod posiadłością Bethania]]"
+fc-calendar: "Kalendarz"
+fc-date: "1920-08-25"
+fc-end:
+fc-category: "Wydarzenia"
 tagi: []
 prywatne: false
 image: "[[Śmierć Basila Torrance.png]]"
 aliases: []
 kanka_id: 6934629
-fc-calendar: "Kalendarz"
-fc-date: "1920-08-25"
 ---
 
 ![[Śmierć Basila Torrance.png|300]]

@@ -6,13 +6,15 @@ rodzic:
 data_w_grze: "21 Października 1789"
 kalendarz: "[[Kalendarz]]"
 lokacja: "[[Rennes Le Château]]"
+fc-calendar: "Kalendarz"
+fc-date: "1789-10-21"
+fc-end:
+fc-category: "Wydarzenia"
 tagi: []
 prywatne: false
 image: "[[Wyjazd rodziny Epines do Nowego Świata (wydarzenie).png]]"
 aliases: ["Wyjazd rodziny Epines do Nowego Świata"]
 kanka_id: 6941749
-fc-calendar: "Kalendarz"
-fc-date: "1789-10-21"
 ---
 
 ![[Wyjazd rodziny Epines do Nowego Świata (wydarzenie).png|300]]

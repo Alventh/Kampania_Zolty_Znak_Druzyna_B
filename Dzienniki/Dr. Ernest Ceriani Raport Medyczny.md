@@ -4,10 +4,14 @@ kategoria: "dziennik"
 typ:
 rodzic:
 data:
-data_w_grze:
-kalendarz:
+data_w_grze: "1920-08-23"
+kalendarz: "[[Kalendarz]]"
 autor: "[[Ernest Ceriani]]"
 lokacja: "[[Cripple Creek]]"
+fc-calendar: "Kalendarz"
+fc-date: "1920-08-23"
+fc-end:
+fc-category: "Dzienniki"
 tagi: []
 prywatne: false
 image:

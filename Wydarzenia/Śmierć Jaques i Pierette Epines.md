@@ -6,13 +6,15 @@ rodzic: "[[Pełnia Aldebaran]]"
 data_w_grze: "8 Sierpnia 1815"
 kalendarz: "[[Kalendarz]]"
 lokacja:
+fc-calendar: "Kalendarz"
+fc-date: "1815-08-08"
+fc-end:
+fc-category: "Wydarzenia"
 tagi: []
 prywatne: false
 image: "[[Śmierć Jaques i Pierette Epines.png]]"
 aliases: []
 kanka_id: 6934597
-fc-calendar: "Kalendarz"
-fc-date: "1815-08-08"
 ---
 
 ![[Śmierć Jaques i Pierette Epines.png|300]]

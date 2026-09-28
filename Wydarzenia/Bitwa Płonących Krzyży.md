@@ -6,13 +6,15 @@ rodzic:
 data_w_grze: "Noc z 8 na 9 Sierpnia 1920 roku"
 kalendarz: "[[Kalendarz]]"
 lokacja: "[[Farma Goździków]]"
+fc-calendar: "Kalendarz"
+fc-date: "1920-08-08"
+fc-end:
+fc-category: "Wydarzenia"
 tagi: []
 prywatne: false
 image: "[[Bitwa Płonących Krzyży.png]]"
 aliases: []
 kanka_id: 6938264
-fc-calendar: "Kalendarz"
-fc-date: "1920-08-08"
 ---
 
 ![[Bitwa Płonących Krzyży.png|300]]

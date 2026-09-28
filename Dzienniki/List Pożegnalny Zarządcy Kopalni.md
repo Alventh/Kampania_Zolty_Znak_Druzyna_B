@@ -8,13 +8,15 @@ data_w_grze: "1920-08-21"
 kalendarz: "[[Kalendarz]]"
 autor: "[[Carl Bradshaw]]"
 lokacja:
+fc-calendar: "Kalendarz"
+fc-date: "1920-08-22"
+fc-end:
+fc-category: "Dzienniki"
 tagi: []
 prywatne: false
 image: "[[List Pożegnalny Zarządcy Kopalni.png]]"
 aliases: []
 kanka_id: 6934434
-fc-calendar: "Kalendarz"
-fc-date: "1920-08-22"
 ---
 
 ![[List Pożegnalny Zarządcy Kopalni.png|300]]

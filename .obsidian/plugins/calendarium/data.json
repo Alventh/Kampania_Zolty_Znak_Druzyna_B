@@ -1,10 +1,316 @@
 {
-  "autoParse": false,
-  "calendars": [],
+  "autoParse": true,
+  "calendars": [
+    {
+      "name": "Kalendarz",
+      "description": "Kalendarz kampanii Żółty Znak (gregoriański, lata 20. XX w.)",
+      "id": "ID_zoltyznak01",
+      "path": [],
+      "supportInlineEvents": false,
+      "inlineEventTag": "inline-events",
+      "showIntercalarySeparately": true,
+      "static": {
+        "displayDayNumber": false,
+        "incrementDay": true,
+        "displayMoons": true,
+        "firstWeekDay": 1,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Niedziela",
+            "id": "ID_954d81129168"
+          },
+          {
+            "type": "day",
+            "name": "Poniedziałek",
+            "id": "ID_04be6195d6ac"
+          },
+          {
+            "type": "day",
+            "name": "Wtorek",
+            "id": "ID_5eb54b548c85"
+          },
+          {
+            "type": "day",
+            "name": "Środa",
+            "id": "ID_a836a07bcf41"
+          },
+          {
+            "type": "day",
+            "name": "Czwartek",
+            "id": "ID_0a33a816da08"
+          },
+          {
+            "type": "day",
+            "name": "Piątek",
+            "id": "ID_ee3a34087616"
+          },
+          {
+            "type": "day",
+            "name": "Sobota",
+            "id": "ID_6fceb8b6e57c"
+          }
+        ],
+        "months": [
+          {
+            "name": "Styczeń",
+            "type": "month",
+            "length": 31,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_35a2b162040d"
+          },
+          {
+            "name": "Luty",
+            "type": "month",
+            "length": 28,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_c2c881683b57"
+          },
+          {
+            "name": "Marzec",
+            "type": "month",
+            "length": 31,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_6f95721331eb"
+          },
+          {
+            "name": "Kwiecień",
+            "type": "month",
+            "length": 30,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_674801cdf0e5"
+          },
+          {
+            "name": "Maj",
+            "type": "month",
+            "length": 31,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_3c206c83111d"
+          },
+          {
+            "name": "Czerwiec",
+            "type": "month",
+            "length": 30,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_021b92e5b152"
+          },
+          {
+            "name": "Lipiec",
+            "type": "month",
+            "length": 31,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_a9f84dd2188c"
+          },
+          {
+            "name": "Sierpień",
+            "type": "month",
+            "length": 31,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_4681b2d3e97a"
+          },
+          {
+            "name": "Wrzesień",
+            "type": "month",
+            "length": 30,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_9bf893a805e5"
+          },
+          {
+            "name": "Październik",
+            "type": "month",
+            "length": 31,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_826e2abe212e"
+          },
+          {
+            "name": "Listopad",
+            "type": "month",
+            "length": 30,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_2cdf9d1dd827"
+          },
+          {
+            "name": "Grudzień",
+            "type": "month",
+            "length": 31,
+            "interval": 1,
+            "offset": 0,
+            "id": "ID_d4f1c122c699"
+          }
+        ],
+        "moons": [
+          {
+            "name": "Księżyc",
+            "cycle": 29.530588853,
+            "offset": 9.24953,
+            "faceColor": "#ffffff",
+            "shadowColor": "#000000",
+            "id": "ID_6efa697291e2"
+          }
+        ],
+        "leapDays": [
+          {
+            "name": "Dzień przestępny",
+            "type": "leapday",
+            "interval": [
+              {
+                "ignore": false,
+                "exclusive": false,
+                "interval": 400
+              },
+              {
+                "ignore": false,
+                "exclusive": true,
+                "interval": 100
+              },
+              {
+                "ignore": false,
+                "exclusive": false,
+                "interval": 4
+              }
+            ],
+            "offset": 0,
+            "timespan": 1,
+            "intercalary": false,
+            "id": "ID_fd0f330cf3bb"
+          }
+        ],
+        "eras": [
+          {
+            "name": "p.n.e.",
+            "format": "{{era_name}}",
+            "id": "ID_d85cd2e85f82",
+            "endsYear": false,
+            "isEvent": false,
+            "type": "era",
+            "category": null,
+            "isStartingEra": true,
+            "date": {
+              "year": 1,
+              "month": 0,
+              "day": 1
+            }
+          },
+          {
+            "name": "n.e.",
+            "format": "{{era_name}}",
+            "id": "ID_15c412dcdcd8",
+            "endsYear": false,
+            "isEvent": false,
+            "type": "era",
+            "category": null,
+            "isStartingEra": false,
+            "date": {
+              "year": 1,
+              "month": 0,
+              "day": 1
+            }
+          }
+        ],
+        "offset": 0,
+        "padDays": 2,
+        "padMonths": 2
+      },
+      "seasonal": {
+        "seasons": [
+          {
+            "id": "STANDARD_WINTER",
+            "name": "Zima",
+            "color": "#ADD8E6",
+            "kind": "Winter",
+            "type": "Periodic",
+            "duration": 91.310625,
+            "weatherOffset": 56,
+            "weatherPeak": 5
+          },
+          {
+            "id": "STANDARD_SPRING",
+            "name": "Wiosna",
+            "color": "#90EE90",
+            "kind": "Spring",
+            "type": "Periodic",
+            "duration": 91.310625,
+            "weatherOffset": 56,
+            "weatherPeak": 5
+          },
+          {
+            "id": "STANDARD_SUMMER",
+            "name": "Lato",
+            "color": "#FFFF00",
+            "kind": "Summer",
+            "type": "Periodic",
+            "duration": 91.310625,
+            "weatherOffset": 56,
+            "weatherPeak": 5
+          },
+          {
+            "id": "STANDARD_AUTUMN",
+            "name": "Jesień",
+            "color": "#DAA520",
+            "kind": "Autumn",
+            "type": "Periodic",
+            "duration": 91.310625,
+            "weatherOffset": 56,
+            "weatherPeak": 5
+          }
+        ],
+        "offset": -12.5,
+        "type": "Periodic",
+        "displayColors": true,
+        "interpolateColors": true,
+        "weather": {
+          "enabled": false,
+          "seed": 1,
+          "tempUnits": "Metric",
+          "windUnits": "Metric",
+          "primaryWindDirection": "E",
+          "freezingPoint": 0
+        }
+      },
+      "locations": {
+        "locations": []
+      },
+      "current": {
+        "year": 1920,
+        "month": 10,
+        "day": 10
+      },
+      "events": [],
+      "categories": [
+        {
+          "name": "Wydarzenia",
+          "id": "Wydarzenia",
+          "color": "#d4ad3f"
+        },
+        {
+          "name": "Dzienniki",
+          "id": "Dzienniki",
+          "color": "#e08a5f"
+        },
+        {
+          "name": "Sesje",
+          "id": "Sesje",
+          "color": "#6e965a"
+        }
+      ]
+    }
+  ],
   "configDirectory": null,
   "dailyNotes": false,
   "dateFormat": "YYYY-MM-DD",
-  "defaultCalendar": null,
+  "defaultCalendar": "ID_zoltyznak01",
   "eventPreview": false,
   "exit": {
     "saving": false,
@@ -28,7 +334,7 @@
   "paths": [
     [
       "/",
-      "DEFAULT"
+      "ID_zoltyznak01"
     ]
   ]
 }

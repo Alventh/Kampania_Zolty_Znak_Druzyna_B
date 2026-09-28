@@ -6,13 +6,15 @@ rodzic:
 data_w_grze: "28 Listopada 1919"
 kalendarz: "[[Kalendarz]]"
 lokacja: "[[Denver]]"
+fc-calendar: "Kalendarz"
+fc-date: "1919-11-28"
+fc-end:
+fc-category: "Wydarzenia"
 tagi: []
 prywatne: false
 image: "[[Bailey Zostaje Przywódcą Kultu.jpg]]"
 aliases: []
 kanka_id: 6935346
-fc-calendar: "Kalendarz"
-fc-date: "1919-11-28"
 ---
 
 ![[Bailey Zostaje Przywódcą Kultu.jpg|300]]

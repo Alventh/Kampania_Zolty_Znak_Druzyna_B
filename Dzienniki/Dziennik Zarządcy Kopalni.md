@@ -4,10 +4,14 @@ kategoria: "dziennik"
 typ:
 rodzic:
 data:
-data_w_grze:
-kalendarz:
+data_w_grze: "1919-10-28 – 1920-07-01"
+kalendarz: "[[Kalendarz]]"
 autor: "[[Carl Bradshaw]]"
 lokacja:
+fc-calendar: "Kalendarz"
+fc-date: "1919-10-28"
+fc-end: "1920-07-01"
+fc-category: "Dzienniki"
 tagi: []
 prywatne: false
 image: "[[Dziennik Zarządcy Kopalni.png]]"

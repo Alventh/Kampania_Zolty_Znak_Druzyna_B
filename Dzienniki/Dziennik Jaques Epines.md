@@ -8,13 +8,15 @@ data_w_grze: "1814-03-02"
 kalendarz: "[[Kalendarz]]"
 autor: "[[Jaques Epines]]"
 lokacja: "[[Cripple Creek]]"
+fc-calendar: "Kalendarz"
+fc-date: "1814-03-02"
+fc-end:
+fc-category: "Dzienniki"
 tagi: []
 prywatne: false
 image: "[[Dziennik Jaques Epines.png]]"
 aliases: []
 kanka_id: 6934782
-fc-calendar: "Kalendarz"
-fc-date: "1814-03-02"
 ---
 
 ![[Dziennik Jaques Epines.png|300]]

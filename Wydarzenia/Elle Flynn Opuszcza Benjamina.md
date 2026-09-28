@@ -6,13 +6,15 @@ rodzic:
 data_w_grze: "12 Stycznia 1916"
 kalendarz: "[[Kalendarz]]"
 lokacja: "[[Boston]]"
+fc-calendar: "Kalendarz"
+fc-date: "1916-01-12"
+fc-end:
+fc-category: "Wydarzenia"
 tagi: []
 prywatne: false
 image: "[[Elle Flynn.png]]"
 aliases: []
 kanka_id: 6935486
-fc-calendar: "Kalendarz"
-fc-date: "1916-01-12"
 ---
 
 ![[Elle Flynn.png|300]]

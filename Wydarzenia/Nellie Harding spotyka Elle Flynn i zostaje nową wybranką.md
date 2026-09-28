@@ -6,13 +6,15 @@ rodzic:
 data_w_grze: "17.10.1920"
 kalendarz: "[[Kalendarz]]"
 lokacja: "[[Boulder]]"
+fc-calendar: "Kalendarz"
+fc-date: "1920-11-17"
+fc-end:
+fc-category: "Wydarzenia"
 tagi: []
 prywatne: false
 image:
 aliases: []
 kanka_id: 7427346
-fc-calendar: "Kalendarz"
-fc-date: "1920-11-17"
 ---
 
 ## Podrzędne

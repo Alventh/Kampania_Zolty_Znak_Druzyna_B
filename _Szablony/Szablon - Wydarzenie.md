@@ -6,6 +6,10 @@ rodzic:
 data_w_grze:
 kalendarz:
 lokacja:
+fc-calendar: "Kalendarz"
+fc-date:
+fc-end:
+fc-category: "Wydarzenia"
 tagi: []
 prywatne: false
 image:
