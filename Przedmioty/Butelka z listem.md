@@ -1,4 +1,5 @@
 ---
+name: "Butelka z listem"
 kategoria: "przedmiot"
 typ:
 rodzic:
@@ -8,7 +9,7 @@ cena:
 rozmiar:
 tagi: []
 prywatne: false
-obraz: "[[Butelka z listem.png]]"
+image: "[[Butelka z listem.png]]"
 aliases: []
 kanka_id: 6938323
 waga:

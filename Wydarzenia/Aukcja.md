@@ -1,4 +1,5 @@
 ---
+name: "Aukcja"
 kategoria: "wydarzenie"
 typ:
 rodzic:
@@ -7,7 +8,7 @@ kalendarz: "[[Kalendarz]]"
 lokacja: "[[Opera w Denver]]"
 tagi: []
 prywatne: false
-obraz: "[[Aukcja.png]]"
+image: "[[Aukcja.png]]"
 aliases: []
 kanka_id: 7807277
 fc-calendar: "Kalendarz"

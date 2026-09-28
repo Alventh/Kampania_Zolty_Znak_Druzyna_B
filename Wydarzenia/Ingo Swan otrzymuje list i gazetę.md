@@ -1,4 +1,5 @@
 ---
+name: "Ingo Swan otrzymuje list i gazetę."
 kategoria: "wydarzenie"
 typ:
 rodzic:
@@ -7,7 +8,7 @@ kalendarz: "[[Kalendarz]]"
 lokacja: "[[Boston]]"
 tagi: []
 prywatne: false
-obraz: "[[Ingo Swan otrzymuje list i gazetę.png]]"
+image: "[[Ingo Swan otrzymuje list i gazetę.png]]"
 aliases: ["Ingo Swan otrzymuje list i gazetę."]
 kanka_id: 7861918
 fc-calendar: "Kalendarz"

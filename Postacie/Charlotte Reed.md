@@ -1,4 +1,5 @@
 ---
+name: "Charlotte Reed"
 kategoria: "postać"
 typ: "NPC"
 tytuł: "Doktor Antropologii i Archeologii"
@@ -11,20 +12,33 @@ rodziny: []
 rasy: []
 organizacje: ["[[Ekspedycja]]"]
 zdolności: []
+s:
+kon:
+bc:
+zr:
+wyg:
+int:
+moc:
+wyk:
+pw:
+pm:
+pocz:
+ruch:
+mo:
+krzepa:
+umiejetnosci: []
+ataki: []
 tagi: []
 prywatne: true
-obraz: "[[Charlotte Reed.png]]"
+image: "[[Charlotte Reed.png]]"
 aliases: []
 cssclasses: ["karta-postaci"]
 kanka_id: 6996628
 tags: ["mg"]
 ---
 
-```dataviewjs
-await dv.view("_Szablony/widoki/infobox")
+```statblock
 ```
-
-> [!mg] Wpis prywatny w Kance — tylko dla MG
 
 ## Opis
 
@@ -53,21 +67,6 @@ Obecnie wynajęta przez [[Dewey C. Bailey]] do przeprowadzenia prac nad nowo odk
 
 ## Osobowość
 
-
-> [!statblock]- Statystyki (CoC 7e)
-> | S | KON | BC | ZR | WYG | INT | MOC | WYK |
-> | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-> |  |  |  |  |  |  |  |  |
->
-> **PW:**  · **PM:**  · **Poczytalność:**  · **Ruch:**  · **MO:**  · **Krzepa:** 
->
-> | Umiejętność | % | ½ | ⅕ |
-> | --- | :-: | :-: | :-: |
-> |  |  |  |  |
->
-> **Ataki:** 
->
-> Rzut: `dice: 1d100` · Obrażenia: `dice: 1d3`
 
 ## Powiązania
 

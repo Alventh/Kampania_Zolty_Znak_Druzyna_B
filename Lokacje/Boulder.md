@@ -1,10 +1,11 @@
 ---
+name: "Boulder"
 kategoria: "lokacja"
 typ: "Miasto"
 rodzic: "[[Colorado]]"
 tagi: []
 prywatne: false
-obraz: "[[Boulder.png]]"
+image: "[[Boulder.png]]"
 aliases: []
 kanka_id: 6934350
 ---

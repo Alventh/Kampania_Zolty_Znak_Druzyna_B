@@ -1,4 +1,5 @@
 ---
+name: "Artykuł z Kansas City 2"
 kategoria: "dziennik"
 typ:
 rodzic:
@@ -9,7 +10,7 @@ autor:
 lokacja:
 tagi: []
 prywatne: false
-obraz: "[[Artykuł z Kansas City 2.png]]"
+image: "[[Artykuł z Kansas City 2.png]]"
 aliases: []
 kanka_id: 9260894
 ---

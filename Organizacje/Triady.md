@@ -1,11 +1,12 @@
 ---
+name: "Triady"
 kategoria: "organizacja"
 typ: "Mafia"
 rodzic:
 lokacje: ["[[Chinatown (lokacja)]]"]
 tagi: []
 prywatne: false
-obraz: "[[Triady.png]]"
+image: "[[Triady.png]]"
 aliases: []
 kanka_id: 6940238
 ---

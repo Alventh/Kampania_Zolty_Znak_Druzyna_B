@@ -1,10 +1,11 @@
 ---
+name: "Massachusets"
 kategoria: "lokacja"
 typ:
 rodzic: "[[USA (lokacja)]]"
 tagi: []
 prywatne: false
-obraz:
+image:
 aliases: []
 kanka_id: 7139736
 ---

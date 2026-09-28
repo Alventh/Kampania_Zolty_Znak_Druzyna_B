@@ -1,10 +1,11 @@
 ---
+name: "Piekło"
 kategoria: "lokacja"
 typ:
 rodzic:
 tagi: []
 prywatne: false
-obraz:
+image:
 aliases: []
 kanka_id: 7374808
 ---

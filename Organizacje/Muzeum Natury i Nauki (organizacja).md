@@ -1,11 +1,12 @@
 ---
+name: "Muzeum Natury i Nauki"
 kategoria: "organizacja"
 typ: "Organizacja"
 rodzic:
 lokacje: ["[[Muzeum Natury i Nauki (lokacja)]]"]
 tagi: []
 prywatne: false
-obraz: "[[Muzeum Natury i Nauki (organizacja).png]]"
+image: "[[Muzeum Natury i Nauki (organizacja).png]]"
 aliases: ["Muzeum Natury i Nauki"]
 kanka_id: 6938310
 ---

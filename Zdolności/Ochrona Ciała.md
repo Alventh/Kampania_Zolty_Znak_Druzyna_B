@@ -1,11 +1,12 @@
 ---
+name: "Ochrona Ciała"
 kategoria: "zdolność"
 typ: "Zaklęcie"
 rodzic:
 koszt:
 tagi: []
 prywatne: false
-obraz: "[[Ochrona Ciała.png]]"
+image: "[[Ochrona Ciała.png]]"
 aliases: []
 kanka_id: 6935881
 ---

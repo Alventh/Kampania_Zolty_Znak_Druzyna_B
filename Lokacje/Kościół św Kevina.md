@@ -1,10 +1,11 @@
 ---
+name: "Kościół św Kevina"
 kategoria: "lokacja"
 typ: "Kościół"
 rodzic: "[[Cripple Creek]]"
 tagi: []
 prywatne: false
-obraz: "[[Kościół św Kevina.png]]"
+image: "[[Kościół św Kevina.png]]"
 aliases: []
 kanka_id: 6940056
 ---

@@ -1,10 +1,11 @@
 ---
+name: "Biblioteka Carcosy"
 kategoria: "lokacja"
 typ:
 rodzic: "[[Carcossa]]"
 tagi: []
 prywatne: false
-obraz: "[[Biblioteka Carcosy.jpg]]"
+image: "[[Biblioteka Carcosy.jpg]]"
 aliases: []
 kanka_id: 8212767
 ---

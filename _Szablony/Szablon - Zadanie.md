@@ -1,4 +1,5 @@
 ---
+name: "<% tp.file.title %>"
 kategoria: "zadanie"
 typ:
 rodzic:
@@ -7,7 +8,7 @@ lokacja:
 ukończone: false
 tagi: []
 prywatne: false
-obraz:
+image:
 aliases: []
 kanka_id:
 ---

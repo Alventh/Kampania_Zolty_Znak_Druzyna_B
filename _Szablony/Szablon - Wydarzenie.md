@@ -1,4 +1,5 @@
 ---
+name: "<% tp.file.title %>"
 kategoria: "wydarzenie"
 typ:
 rodzic:
@@ -7,7 +8,7 @@ kalendarz:
 lokacja:
 tagi: []
 prywatne: false
-obraz:
+image:
 aliases: []
 kanka_id:
 ---

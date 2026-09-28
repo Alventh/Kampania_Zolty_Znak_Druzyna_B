@@ -1,11 +1,12 @@
 ---
+name: "Kalendarz"
 kategoria: "kalendarz"
 typ:
 rodzic:
 calendarium:
 tagi: []
 prywatne: false
-obraz: "[[Kalendarz.jpg]]"
+image: "[[Kalendarz.jpg]]"
 aliases: []
 kanka_id: 6547711
 ---

@@ -1,4 +1,5 @@
 ---
+name: "Dziennik Zarządcy Kopalni"
 kategoria: "dziennik"
 typ:
 rodzic:
@@ -9,7 +10,7 @@ autor: "[[Carl Bradshaw]]"
 lokacja:
 tagi: []
 prywatne: false
-obraz: "[[Dziennik Zarządcy Kopalni.png]]"
+image: "[[Dziennik Zarządcy Kopalni.png]]"
 aliases: []
 kanka_id: 6934325
 ---

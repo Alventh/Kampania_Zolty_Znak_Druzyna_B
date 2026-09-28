@@ -1,4 +1,5 @@
 ---
+name: "Król w Żółci"
 kategoria: "przedmiot"
 typ: "Księga"
 rodzic: "[[Księgi]]"
@@ -8,7 +9,7 @@ cena:
 rozmiar:
 tagi: []
 prywatne: false
-obraz: "[[Król w Żółci.png]]"
+image: "[[Król w Żółci.png]]"
 aliases: []
 kanka_id: 6934594
 waga:

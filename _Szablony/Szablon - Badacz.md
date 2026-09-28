@@ -1,4 +1,5 @@
 ---
+name: "<% tp.file.title %>"
 kategoria: "postać"
 typ: "Gracz"
 gracz:
@@ -38,14 +39,13 @@ szalenstwo_chwilowe: false
 szalenstwo_dlugotrwale: false
 tagi: []
 prywatne: false
-obraz:
+image:
 aliases: []
 cssclasses: ["karta-postaci"]
 kanka_id:
 ---
 
-```dataviewjs
-await dv.view("_Szablony/widoki/infobox")
+```statblock
 ```
 
 ## Karta badacza

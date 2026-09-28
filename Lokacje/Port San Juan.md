@@ -1,10 +1,11 @@
 ---
+name: "Port San Juan"
 kategoria: "lokacja"
 typ: "Miasto"
 rodzic: "[[Ziemia]]"
 tagi: []
 prywatne: false
-obraz: "[[Port San Juan.png]]"
+image: "[[Port San Juan.png]]"
 aliases: []
 kanka_id: 6935926
 ---

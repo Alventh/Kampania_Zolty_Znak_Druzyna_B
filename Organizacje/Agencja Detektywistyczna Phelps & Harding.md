@@ -1,11 +1,12 @@
 ---
+name: "Agencja Detektywistyczna Phelps & Harding"
 kategoria: "organizacja"
 typ: "Agencja Detektywistyczna"
 rodzic:
 lokacje: ["[[Boston]]", "[[Denver]]"]
 tagi: []
 prywatne: false
-obraz: "[[Agencja Detektywistyczna Phelps & Harding.png]]"
+image: "[[Agencja Detektywistyczna Phelps & Harding.png]]"
 aliases: []
 kanka_id: 6547740
 ---

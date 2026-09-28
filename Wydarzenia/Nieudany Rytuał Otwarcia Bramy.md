@@ -1,4 +1,5 @@
 ---
+name: "Nieudany Rytuał Otwarcia Bramy"
 kategoria: "wydarzenie"
 typ: "Rytuał"
 rodzic:
@@ -7,7 +8,7 @@ kalendarz: "[[Kalendarz]]"
 lokacja: "[[Komnata pod posiadłością Bethania]]"
 tagi: []
 prywatne: false
-obraz: "[[Nieudany Rytuał Otwarcia Bramy.png]]"
+image: "[[Nieudany Rytuał Otwarcia Bramy.png]]"
 aliases: []
 kanka_id: 6934628
 fc-calendar: "Kalendarz"

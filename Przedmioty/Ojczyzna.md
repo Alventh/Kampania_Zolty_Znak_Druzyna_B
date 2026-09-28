@@ -1,4 +1,5 @@
 ---
+name: "Ojczyzna"
 kategoria: "przedmiot"
 typ:
 rodzic: "[[Obrazy]]"
@@ -8,7 +9,7 @@ cena:
 rozmiar:
 tagi: []
 prywatne: false
-obraz: "[[Ojczyzna.png]]"
+image: "[[Ojczyzna.png]]"
 aliases: []
 kanka_id: 7807523
 waga:

@@ -1,11 +1,12 @@
 ---
+name: "Kult Hastura"
 kategoria: "organizacja"
 typ: "Kult"
 rodzic:
 lokacje: ["[[Denver]]"]
 tagi: []
 prywatne: false
-obraz: "[[Kult Hastura.png]]"
+image: "[[Kult Hastura.png]]"
 aliases: []
 kanka_id: 6933959
 ---

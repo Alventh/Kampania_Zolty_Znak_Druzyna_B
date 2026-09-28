@@ -1,4 +1,5 @@
 ---
+name: "Algernon Witherby"
 kategoria: "postać"
 typ: "NPC"
 tytuł:
@@ -11,16 +12,31 @@ rodziny: []
 rasy: []
 organizacje: ["[[Kult Hastura]]"]
 zdolności: []
+s:
+kon:
+bc:
+zr:
+wyg:
+int:
+moc:
+wyk:
+pw:
+pm:
+pocz:
+ruch:
+mo:
+krzepa:
+umiejetnosci: []
+ataki: []
 tagi: []
 prywatne: false
-obraz: "[[Algernon Witherby.jpg]]"
+image: "[[Algernon Witherby.jpg]]"
 aliases: []
 cssclasses: ["karta-postaci"]
 kanka_id: 6933955
 ---
 
-```dataviewjs
-await dv.view("_Szablony/widoki/infobox")
+```statblock
 ```
 
 ## Opis
@@ -46,21 +62,6 @@ Jest oryginalnym posiadaczem [[Bransoleta z koniem|Bransoleta  z koniem]].
 
 ## Osobowość
 
-
-> [!statblock]- Statystyki (CoC 7e)
-> | S | KON | BC | ZR | WYG | INT | MOC | WYK |
-> | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-> |  |  |  |  |  |  |  |  |
->
-> **PW:**  · **PM:**  · **Poczytalność:**  · **Ruch:**  · **MO:**  · **Krzepa:** 
->
-> | Umiejętność | % | ½ | ⅕ |
-> | --- | :-: | :-: | :-: |
-> |  |  |  |  |
->
-> **Ataki:** 
->
-> Rzut: `dice: 1d100` · Obrażenia: `dice: 1d3`
 
 ## Powiązania
 

@@ -1,10 +1,11 @@
 ---
+name: "Plymouth"
 kategoria: "lokacja"
 typ: "Miasto"
 rodzic: "[[Anglia]]"
 tagi: []
 prywatne: false
-obraz:
+image:
 aliases: []
 kanka_id: 6938343
 ---

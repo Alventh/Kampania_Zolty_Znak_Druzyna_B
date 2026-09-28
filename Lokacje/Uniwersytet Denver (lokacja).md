@@ -1,10 +1,11 @@
 ---
+name: "Uniwersytet Denver"
 kategoria: "lokacja"
 typ: "Uniwersytet"
 rodzic: "[[Denver]]"
 tagi: []
 prywatne: false
-obraz: "[[Uniwersytet Denver (lokacja).png]]"
+image: "[[Uniwersytet Denver (lokacja).png]]"
 aliases: ["Uniwersytet Denver"]
 kanka_id: 6938375
 ---

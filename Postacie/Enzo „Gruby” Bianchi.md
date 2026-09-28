@@ -1,4 +1,5 @@
 ---
+name: "Enzo \"Gruby\" Bianchi"
 kategoria: "postać"
 typ: "NPC"
 tytuł:
@@ -11,16 +12,31 @@ rodziny: []
 rasy: []
 organizacje: ["[[Rodzina Carlino]]"]
 zdolności: []
+s:
+kon:
+bc:
+zr:
+wyg:
+int:
+moc:
+wyk:
+pw:
+pm:
+pocz:
+ruch:
+mo:
+krzepa:
+umiejetnosci: []
+ataki: []
 tagi: []
 prywatne: false
-obraz: "[[Enzo „Gruby” Bianchi.png]]"
+image: "[[Enzo „Gruby” Bianchi.png]]"
 aliases: ["Enzo \"Gruby\" Bianchi"]
 cssclasses: ["karta-postaci"]
 kanka_id: 7387280
 ---
 
-```dataviewjs
-await dv.view("_Szablony/widoki/infobox")
+```statblock
 ```
 
 ## Opis
@@ -34,21 +50,6 @@ await dv.view("_Szablony/widoki/infobox")
 
 ## Osobowość
 
-
-> [!statblock]- Statystyki (CoC 7e)
-> | S | KON | BC | ZR | WYG | INT | MOC | WYK |
-> | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-> |  |  |  |  |  |  |  |  |
->
-> **PW:**  · **PM:**  · **Poczytalność:**  · **Ruch:**  · **MO:**  · **Krzepa:** 
->
-> | Umiejętność | % | ½ | ⅕ |
-> | --- | :-: | :-: | :-: |
-> |  |  |  |  |
->
-> **Ataki:** 
->
-> Rzut: `dice: 1d100` · Obrażenia: `dice: 1d3`
 
 ## Powiązania
 

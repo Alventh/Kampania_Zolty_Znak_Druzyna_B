@@ -1,4 +1,5 @@
 ---
+name: "Jean Dupont"
 kategoria: "postać"
 typ: "NPC"
 tytuł: "Pierwszy Oficer"
@@ -11,16 +12,31 @@ rodziny: []
 rasy: []
 organizacje: []
 zdolności: []
+s:
+kon:
+bc:
+zr:
+wyg:
+int:
+moc:
+wyk:
+pw:
+pm:
+pocz:
+ruch:
+mo:
+krzepa:
+umiejetnosci: []
+ataki: []
 tagi: []
 prywatne: false
-obraz: "[[Jean Dupont.png]]"
+image: "[[Jean Dupont.png]]"
 aliases: []
 cssclasses: ["karta-postaci"]
 kanka_id: 6938331
 ---
 
-```dataviewjs
-await dv.view("_Szablony/widoki/infobox")
+```statblock
 ```
 
 ## Opis
@@ -34,21 +50,6 @@ Jean napisał w nieokreślonym momencie rejsu [[List Z Butelki]] który został 
 
 ## Osobowość
 
-
-> [!statblock]- Statystyki (CoC 7e)
-> | S | KON | BC | ZR | WYG | INT | MOC | WYK |
-> | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-> |  |  |  |  |  |  |  |  |
->
-> **PW:**  · **PM:**  · **Poczytalność:**  · **Ruch:**  · **MO:**  · **Krzepa:** 
->
-> | Umiejętność | % | ½ | ⅕ |
-> | --- | :-: | :-: | :-: |
-> |  |  |  |  |
->
-> **Ataki:** 
->
-> Rzut: `dice: 1d100` · Obrażenia: `dice: 1d3`
 
 ## Powiązania
 

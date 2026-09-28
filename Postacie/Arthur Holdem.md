@@ -1,4 +1,5 @@
 ---
+name: "Arthur Holdem"
 kategoria: "postać"
 typ: "NPC"
 tytuł:
@@ -11,16 +12,31 @@ rodziny: []
 rasy: []
 organizacje: ["[[Redakcja Denver Post]]", "[[Kult Hastura]]"]
 zdolności: []
+s:
+kon:
+bc:
+zr:
+wyg:
+int:
+moc:
+wyk:
+pw:
+pm:
+pocz:
+ruch:
+mo:
+krzepa:
+umiejetnosci: []
+ataki: []
 tagi: []
 prywatne: false
-obraz: "[[Arthur Holdem.png]]"
+image: "[[Arthur Holdem.png]]"
 aliases: []
 cssclasses: ["karta-postaci"]
 kanka_id: 6933958
 ---
 
-```dataviewjs
-await dv.view("_Szablony/widoki/infobox")
+```statblock
 ```
 
 ## Opis
@@ -44,21 +60,6 @@ Uratowany z [[Farma Goździków]] przez [[Axel Bonton]] [[Benjamin Smith]] [[Col
 
 ## Osobowość
 
-
-> [!statblock]- Statystyki (CoC 7e)
-> | S | KON | BC | ZR | WYG | INT | MOC | WYK |
-> | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-> |  |  |  |  |  |  |  |  |
->
-> **PW:**  · **PM:**  · **Poczytalność:**  · **Ruch:**  · **MO:**  · **Krzepa:** 
->
-> | Umiejętność | % | ½ | ⅕ |
-> | --- | :-: | :-: | :-: |
-> |  |  |  |  |
->
-> **Ataki:** 
->
-> Rzut: `dice: 1d100` · Obrażenia: `dice: 1d3`
 
 ## Powiązania
 

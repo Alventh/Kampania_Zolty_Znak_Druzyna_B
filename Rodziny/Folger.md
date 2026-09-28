@@ -1,11 +1,12 @@
 ---
+name: "Folger"
 kategoria: "rodzina"
 typ: "Mieszkańcy Cripple Creek"
 rodzic:
 lokacje: ["[[Cripple Creek]]"]
 tagi: []
 prywatne: false
-obraz:
+image:
 aliases: []
 kanka_id: 6547496
 ---

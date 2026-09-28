@@ -1,4 +1,5 @@
 ---
+name: "Auguste \"Gustave\"  Moreau"
 kategoria: "postać"
 typ: "NPC"
 tytuł: "Mistrz Ceremonii"
@@ -11,16 +12,31 @@ rodziny: []
 rasy: []
 organizacje: []
 zdolności: []
+s:
+kon:
+bc:
+zr:
+wyg:
+int:
+moc:
+wyk:
+pw:
+pm:
+pocz:
+ruch:
+mo:
+krzepa:
+umiejetnosci: []
+ataki: []
 tagi: []
 prywatne: false
-obraz: "[[Auguste „Gustave” Moreau.png]]"
+image: "[[Auguste „Gustave” Moreau.png]]"
 aliases: ["Auguste \"Gustave\"  Moreau"]
 cssclasses: ["karta-postaci"]
 kanka_id: 7937587
 ---
 
-```dataviewjs
-await dv.view("_Szablony/widoki/infobox")
+```statblock
 ```
 
 ## Opis
@@ -32,21 +48,6 @@ Był Mistrzem ceremonii w trakcie [[Aukcja]] w [[Opera w Denver]]. To on zapropo
 
 ## Osobowość
 
-
-> [!statblock]- Statystyki (CoC 7e)
-> | S | KON | BC | ZR | WYG | INT | MOC | WYK |
-> | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-> |  |  |  |  |  |  |  |  |
->
-> **PW:**  · **PM:**  · **Poczytalność:**  · **Ruch:**  · **MO:**  · **Krzepa:** 
->
-> | Umiejętność | % | ½ | ⅕ |
-> | --- | :-: | :-: | :-: |
-> |  |  |  |  |
->
-> **Ataki:** 
->
-> Rzut: `dice: 1d100` · Obrażenia: `dice: 1d3`
 
 ## Powiązania
 

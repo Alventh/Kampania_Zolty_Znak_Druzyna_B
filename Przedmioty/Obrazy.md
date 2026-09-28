@@ -1,4 +1,5 @@
 ---
+name: "Obrazy"
 kategoria: "przedmiot"
 typ: "Obraz"
 rodzic:
@@ -8,7 +9,7 @@ cena:
 rozmiar:
 tagi: []
 prywatne: true
-obraz: "[[Obrazy.png]]"
+image: "[[Obrazy.png]]"
 aliases: []
 kanka_id: 6932982
 waga:

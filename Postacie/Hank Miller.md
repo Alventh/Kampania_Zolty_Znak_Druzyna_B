@@ -1,4 +1,5 @@
 ---
+name: "Hank Miller"
 kategoria: "postać"
 typ: "NPC"
 tytuł: "Burmistrz"
@@ -11,16 +12,31 @@ rodziny: ["[[Miller]]"]
 rasy: []
 organizacje: []
 zdolności: []
+s:
+kon:
+bc:
+zr:
+wyg:
+int:
+moc:
+wyk:
+pw:
+pm:
+pocz:
+ruch:
+mo:
+krzepa:
+umiejetnosci: []
+ataki: []
 tagi: []
 prywatne: false
-obraz: "[[Hank Miller.png]]"
+image: "[[Hank Miller.png]]"
 aliases: []
 cssclasses: ["karta-postaci"]
 kanka_id: 6940064
 ---
 
-```dataviewjs
-await dv.view("_Szablony/widoki/infobox")
+```statblock
 ```
 
 ## Opis
@@ -38,21 +54,6 @@ Mąż [[Eunice Miller]] ,ojciec [[Ruth Miller]] i  którzy zmarli w trakcie wyda
 
 ## Osobowość
 
-
-> [!statblock]- Statystyki (CoC 7e)
-> | S | KON | BC | ZR | WYG | INT | MOC | WYK |
-> | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-> |  |  |  |  |  |  |  |  |
->
-> **PW:**  · **PM:**  · **Poczytalność:**  · **Ruch:**  · **MO:**  · **Krzepa:** 
->
-> | Umiejętność | % | ½ | ⅕ |
-> | --- | :-: | :-: | :-: |
-> |  |  |  |  |
->
-> **Ataki:** 
->
-> Rzut: `dice: 1d100` · Obrażenia: `dice: 1d3`
 
 ## Powiązania
 

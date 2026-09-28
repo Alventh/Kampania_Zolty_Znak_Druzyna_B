@@ -1,11 +1,12 @@
 ---
+name: "Dawca Czasu"
 kategoria: "stworzenie"
 typ:
 rodzic:
 lokacje: []
 tagi: []
 prywatne: false
-obraz:
+image:
 aliases: []
 kanka_id: 9260618
 ---

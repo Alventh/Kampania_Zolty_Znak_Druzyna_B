@@ -1,10 +1,11 @@
 ---
+name: "Cripple Creek"
 kategoria: "lokacja"
 typ: "Miasto"
 rodzic: "[[Colorado]]"
 tagi: []
 prywatne: false
-obraz: "[[Cripple Creek.jpg]]"
+image: "[[Cripple Creek.jpg]]"
 aliases: []
 kanka_id: 6547299
 ---

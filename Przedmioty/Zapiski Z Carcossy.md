@@ -1,4 +1,5 @@
 ---
+name: "Zapiski Z Carcossy"
 kategoria: "przedmiot"
 typ: "Księga"
 rodzic: "[[Księgi]]"
@@ -8,7 +9,7 @@ cena:
 rozmiar:
 tagi: []
 prywatne: false
-obraz: "[[Zapiski Z Carcossy.png]]"
+image: "[[Zapiski Z Carcossy.png]]"
 aliases: []
 kanka_id: 6935345
 waga:

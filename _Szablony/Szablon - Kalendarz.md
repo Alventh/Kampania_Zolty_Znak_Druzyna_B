@@ -1,11 +1,12 @@
 ---
+name: "<% tp.file.title %>"
 kategoria: "kalendarz"
 typ:
 rodzic:
 calendarium:
 tagi: []
 prywatne: false
-obraz:
+image:
 aliases: []
 kanka_id:
 ---

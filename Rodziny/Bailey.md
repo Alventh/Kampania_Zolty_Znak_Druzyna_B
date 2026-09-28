@@ -1,11 +1,12 @@
 ---
+name: "Bailey"
 kategoria: "rodzina"
 typ:
 rodzic:
 lokacje: []
 tagi: []
 prywatne: false
-obraz:
+image:
 aliases: []
 kanka_id: 7937546
 ---

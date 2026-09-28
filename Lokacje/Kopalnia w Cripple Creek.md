@@ -1,10 +1,11 @@
 ---
+name: "Kopalnia w Cripple Creek"
 kategoria: "lokacja"
 typ: "Kopalnia"
 rodzic: "[[Cripple Creek]]"
 tagi: []
 prywatne: false
-obraz: "[[Kopalnia w Cripple Creek.jpg]]"
+image: "[[Kopalnia w Cripple Creek.jpg]]"
 aliases: []
 kanka_id: 6547837
 ---

@@ -1,11 +1,12 @@
 ---
+name: "Harding"
 kategoria: "rodzina"
 typ:
 rodzic:
 lokacje: ["[[Pluckley]]"]
 tagi: []
 prywatne: false
-obraz:
+image:
 aliases: []
 kanka_id: 6934767
 ---

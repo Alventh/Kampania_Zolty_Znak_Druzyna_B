@@ -1,4 +1,5 @@
 ---
+name: "Narodziny Ethana Epines"
 kategoria: "wydarzenie"
 typ:
 rodzic:
@@ -7,7 +8,7 @@ kalendarz: "[[Kalendarz]]"
 lokacja: "[[Rennes Le Château]]"
 tagi: []
 prywatne: false
-obraz: "[[Narodziny Ethana Epines.png]]"
+image: "[[Narodziny Ethana Epines.png]]"
 aliases: []
 kanka_id: 6934728
 fc-calendar: "Kalendarz"

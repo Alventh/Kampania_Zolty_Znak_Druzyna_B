@@ -1,10 +1,11 @@
 ---
+name: "Sutton"
 kategoria: "lokacja"
 typ: "Miasto"
 rodzic: "[[Massachusets]]"
 tagi: []
 prywatne: false
-obraz:
+image:
 aliases: []
 kanka_id: 7139735
 ---

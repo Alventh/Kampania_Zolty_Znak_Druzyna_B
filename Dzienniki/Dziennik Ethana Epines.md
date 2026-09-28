@@ -1,4 +1,5 @@
 ---
+name: "Dziennik Ethana Epines"
 kategoria: "dziennik"
 typ:
 rodzic:
@@ -9,7 +10,7 @@ autor: "[[Ethan Epines]]"
 lokacja: "[[Bethania]]"
 tagi: []
 prywatne: false
-obraz: "[[Dziennik Ethana Epines.png]]"
+image: "[[Dziennik Ethana Epines.png]]"
 aliases: []
 kanka_id: 6934740
 ---

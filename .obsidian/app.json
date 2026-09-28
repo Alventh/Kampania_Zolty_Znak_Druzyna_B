@@ -1,5 +1,6 @@
 {
   "attachmentFolderPath": "_załączniki",
   "newLinkFormat": "shortest",
-  "useMarkdownLinks": false
+  "useMarkdownLinks": false,
+  "propertiesInDocument": "hidden"
 }

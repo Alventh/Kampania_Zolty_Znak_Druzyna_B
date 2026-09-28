@@ -1,10 +1,11 @@
 ---
+name: "QueensTown"
 kategoria: "lokacja"
 typ: "Miasto"
 rodzic: "[[Irlandia]]"
 tagi: []
 prywatne: false
-obraz:
+image:
 aliases: []
 kanka_id: 6938344
 ---

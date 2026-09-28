@@ -1,4 +1,5 @@
 ---
+name: "Okręty"
 kategoria: "przedmiot"
 typ:
 rodzic:
@@ -8,7 +9,7 @@ cena:
 rozmiar:
 tagi: []
 prywatne: false
-obraz: "[[Okręty.png]]"
+image: "[[Okręty.png]]"
 aliases: []
 kanka_id: 6932964
 waga:

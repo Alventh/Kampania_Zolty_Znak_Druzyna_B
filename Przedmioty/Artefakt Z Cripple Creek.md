@@ -1,4 +1,5 @@
 ---
+name: "Artefakt Z Cripple Creek"
 kategoria: "przedmiot"
 typ: "Artefakt"
 rodzic: "[[Artefakty]]"
@@ -8,7 +9,7 @@ cena:
 rozmiar:
 tagi: []
 prywatne: false
-obraz: "[[Artefakt Z Cripple Creek.png]]"
+image: "[[Artefakt Z Cripple Creek.png]]"
 aliases: []
 kanka_id: 6934596
 waga:

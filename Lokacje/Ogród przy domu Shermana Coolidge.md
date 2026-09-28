@@ -1,10 +1,11 @@
 ---
+name: "Ogród przy domu Shermana Coolidge"
 kategoria: "lokacja"
 typ: "Ogród"
 rodzic: "[[Cripple Creek]]"
 tagi: []
 prywatne: false
-obraz: "[[Ogród przy domu Shermana Coolidge.webp]]"
+image: "[[Ogród przy domu Shermana Coolidge.webp]]"
 aliases: []
 kanka_id: 8877103
 ---

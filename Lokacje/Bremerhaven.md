@@ -1,10 +1,11 @@
 ---
+name: "Bremerhaven"
 kategoria: "lokacja"
 typ: "Miasto"
 rodzic: "[[Niemcy]]"
 tagi: []
 prywatne: false
-obraz: "[[Bremerhaven.png]]"
+image: "[[Bremerhaven.png]]"
 aliases: []
 kanka_id: 6932764
 ---

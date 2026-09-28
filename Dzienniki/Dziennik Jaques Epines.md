@@ -1,4 +1,5 @@
 ---
+name: "Dziennik Jaques Epines"
 kategoria: "dziennik"
 typ:
 rodzic:
@@ -9,7 +10,7 @@ autor: "[[Jaques Epines]]"
 lokacja: "[[Cripple Creek]]"
 tagi: []
 prywatne: false
-obraz: "[[Dziennik Jaques Epines.png]]"
+image: "[[Dziennik Jaques Epines.png]]"
 aliases: []
 kanka_id: 6934782
 fc-calendar: "Kalendarz"

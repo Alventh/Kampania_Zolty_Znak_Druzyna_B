@@ -1,10 +1,11 @@
 ---
+name: "Hiady"
 kategoria: "lokacja"
 typ: "Gromada Gwiazd"
 rodzic:
 tagi: []
 prywatne: false
-obraz: "[[Pełnia Aldebaran.png]]"
+image: "[[Pełnia Aldebaran.png]]"
 aliases: []
 kanka_id: 6934612
 ---

@@ -1,10 +1,11 @@
 ---
+name: "Szpital Św. Antoniego"
 kategoria: "lokacja"
 typ: "Szpital"
 rodzic: "[[Denver]]"
 tagi: []
 prywatne: false
-obraz: "[[Szpital Św. Antoniego.png]]"
+image: "[[Szpital Św. Antoniego.png]]"
 aliases: []
 kanka_id: 6937543
 ---

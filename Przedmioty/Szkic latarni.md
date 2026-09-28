@@ -1,4 +1,5 @@
 ---
+name: "Szkic latarni"
 kategoria: "przedmiot"
 typ: "Obraz"
 rodzic: "[[Obrazy]]"
@@ -8,7 +9,7 @@ cena:
 rozmiar:
 tagi: []
 prywatne: true
-obraz: "[[Szkic latarni.jpg]]"
+image: "[[Szkic latarni.jpg]]"
 aliases: []
 kanka_id: 6935928
 waga:

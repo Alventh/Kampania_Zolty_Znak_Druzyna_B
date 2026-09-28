@@ -1,10 +1,11 @@
 ---
+name: "Irlandia"
 kategoria: "lokacja"
 typ: "Państwo"
 rodzic: "[[Europa]]"
 tagi: []
 prywatne: false
-obraz: "[[Irlandia.png]]"
+image: "[[Irlandia.png]]"
 aliases: []
 kanka_id: 6938345
 ---

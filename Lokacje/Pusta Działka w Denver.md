@@ -1,10 +1,11 @@
 ---
+name: "Pusta Działka w Denver"
 kategoria: "lokacja"
 typ: "Plac"
 rodzic: "[[Denver]]"
 tagi: []
 prywatne: false
-obraz: "[[Pusta Działka w Denver.jpg]]"
+image: "[[Pusta Działka w Denver.jpg]]"
 aliases: []
 kanka_id: 6934669
 ---

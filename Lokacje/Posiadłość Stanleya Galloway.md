@@ -1,10 +1,11 @@
 ---
+name: "Posiadłość Stanleya Galloway"
 kategoria: "lokacja"
 typ: "Dom"
 rodzic: "[[Capitoll Hill]]"
 tagi: []
 prywatne: false
-obraz:
+image:
 aliases: []
 kanka_id: 9260536
 ---

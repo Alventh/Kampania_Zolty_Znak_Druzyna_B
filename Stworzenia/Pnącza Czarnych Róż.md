@@ -1,11 +1,12 @@
 ---
+name: "Pnącza Czarnych Róż"
 kategoria: "stworzenie"
 typ: "Roślina"
 rodzic:
 lokacje: ["[[Cripple Creek]]", "[[Kopalnia w Cripple Creek]]"]
 tagi: []
 prywatne: false
-obraz: "[[Pnącza Czarnych Róż.png]]"
+image: "[[Pnącza Czarnych Róż.png]]"
 aliases: []
 kanka_id: 6934433
 ---

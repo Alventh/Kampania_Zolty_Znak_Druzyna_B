@@ -1,4 +1,5 @@
 ---
+name: "SS Kaiser Wilhelm der Große"
 kategoria: "przedmiot"
 typ: "Okręt"
 rodzic: "[[Okręty]]"
@@ -8,7 +9,7 @@ cena:
 rozmiar:
 tagi: []
 prywatne: false
-obraz: "[[SS Kaiser Wilhelm der Große.png]]"
+image: "[[SS Kaiser Wilhelm der Große.png]]"
 aliases: []
 kanka_id: 6932860
 waga:

@@ -1,10 +1,11 @@
 ---
+name: "Jezioro Sloan"
 kategoria: "lokacja"
 typ: "Jezioro"
 rodzic: "[[Denver]]"
 tagi: []
 prywatne: true
-obraz: "[[Jezioro Sloan.png]]"
+image: "[[Jezioro Sloan.png]]"
 aliases: []
 kanka_id: 6938328
 tags: ["mg"]

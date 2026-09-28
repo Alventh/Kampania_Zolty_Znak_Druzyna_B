@@ -1,4 +1,5 @@
 ---
+name: "Pęknięcie w skale."
 kategoria: "przedmiot"
 typ:
 rodzic: "[[Obrazy]]"
@@ -8,7 +9,7 @@ cena:
 rozmiar:
 tagi: []
 prywatne: false
-obraz: "[[Pęknięcie w skale.png]]"
+image: "[[Pęknięcie w skale.png]]"
 aliases: ["Pęknięcie w skale."]
 kanka_id: 7807271
 waga:

@@ -1,4 +1,5 @@
 ---
+name: "Sherman Coolidge"
 kategoria: "postać"
 typ: "NPC"
 tytuł: "Górnik"
@@ -11,16 +12,31 @@ rodziny: ["[[Coolidge]]"]
 rasy: []
 organizacje: ["[[Górnicy Cripple Creek]]"]
 zdolności: []
+s:
+kon:
+bc:
+zr:
+wyg:
+int:
+moc:
+wyk:
+pw:
+pm:
+pocz:
+ruch:
+mo:
+krzepa:
+umiejetnosci: []
+ataki: []
 tagi: []
 prywatne: false
-obraz: "[[Sherman Coolidge.png]]"
+image: "[[Sherman Coolidge.png]]"
 aliases: []
 cssclasses: ["karta-postaci"]
 kanka_id: 6934430
 ---
 
-```dataviewjs
-await dv.view("_Szablony/widoki/infobox")
+```statblock
 ```
 
 ## Opis
@@ -54,21 +70,6 @@ Zmarł wyssany przez Pnącza w tunelu prowadzącym do [[Komnata pod posiadłośc
 
 ## Osobowość
 
-
-> [!statblock]- Statystyki (CoC 7e)
-> | S | KON | BC | ZR | WYG | INT | MOC | WYK |
-> | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-> |  |  |  |  |  |  |  |  |
->
-> **PW:**  · **PM:**  · **Poczytalność:**  · **Ruch:**  · **MO:**  · **Krzepa:** 
->
-> | Umiejętność | % | ½ | ⅕ |
-> | --- | :-: | :-: | :-: |
-> |  |  |  |  |
->
-> **Ataki:** 
->
-> Rzut: `dice: 1d100` · Obrażenia: `dice: 1d3`
 
 ## Powiązania
 

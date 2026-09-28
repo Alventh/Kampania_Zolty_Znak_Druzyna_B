@@ -1,11 +1,12 @@
 ---
+name: "Coolidge"
 kategoria: "rodzina"
 typ:
 rodzic:
 lokacje: ["[[Cripple Creek]]"]
 tagi: []
 prywatne: false
-obraz:
+image:
 aliases: []
 kanka_id: 6939656
 ---

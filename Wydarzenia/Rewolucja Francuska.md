@@ -1,4 +1,5 @@
 ---
+name: "Rewolucja Francuska"
 kategoria: "wydarzenie"
 typ:
 rodzic:
@@ -7,7 +8,7 @@ kalendarz: "[[Kalendarz]]"
 lokacja: "[[Francja]]"
 tagi: []
 prywatne: false
-obraz: "[[Rewolucja Francuska.jpg]]"
+image: "[[Rewolucja Francuska.jpg]]"
 aliases: []
 kanka_id: 6571650
 fc-calendar: "Kalendarz"

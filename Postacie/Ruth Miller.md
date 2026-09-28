@@ -1,4 +1,5 @@
 ---
+name: "Ruth Miller"
 kategoria: "postać"
 typ: "NPC"
 tytuł:
@@ -11,16 +12,31 @@ rodziny: ["[[Miller]]"]
 rasy: []
 organizacje: []
 zdolności: []
+s:
+kon:
+bc:
+zr:
+wyg:
+int:
+moc:
+wyk:
+pw:
+pm:
+pocz:
+ruch:
+mo:
+krzepa:
+umiejetnosci: []
+ataki: []
 tagi: []
 prywatne: false
-obraz: "[[Ruth Miller.png]]"
+image: "[[Ruth Miller.png]]"
 aliases: []
 cssclasses: ["karta-postaci"]
 kanka_id: 6940288
 ---
 
-```dataviewjs
-await dv.view("_Szablony/widoki/infobox")
+```statblock
 ```
 
 ## Opis
@@ -38,21 +54,6 @@ Zmarła w [[Komnata pod posiadłością Bethania]] w trakcie wydarzenia [[Śmier
 
 ## Osobowość
 
-
-> [!statblock]- Statystyki (CoC 7e)
-> | S | KON | BC | ZR | WYG | INT | MOC | WYK |
-> | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-> |  |  |  |  |  |  |  |  |
->
-> **PW:**  · **PM:**  · **Poczytalność:**  · **Ruch:**  · **MO:**  · **Krzepa:** 
->
-> | Umiejętność | % | ½ | ⅕ |
-> | --- | :-: | :-: | :-: |
-> |  |  |  |  |
->
-> **Ataki:** 
->
-> Rzut: `dice: 1d100` · Obrażenia: `dice: 1d3`
 
 ## Powiązania
 

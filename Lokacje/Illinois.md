@@ -1,10 +1,11 @@
 ---
+name: "Illinois"
 kategoria: "lokacja"
 typ: "Stan"
 rodzic: "[[USA (lokacja)]]"
 tagi: []
 prywatne: false
-obraz:
+image:
 aliases: []
 kanka_id: 6935955
 ---

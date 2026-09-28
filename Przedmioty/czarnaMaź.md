@@ -1,4 +1,5 @@
 ---
+name: "czarnaMaź"
 kategoria: "przedmiot"
 typ:
 rodzic:
@@ -8,7 +9,7 @@ cena:
 rozmiar:
 tagi: []
 prywatne: false
-obraz:
+image:
 aliases: []
 kanka_id: 7374809
 waga:

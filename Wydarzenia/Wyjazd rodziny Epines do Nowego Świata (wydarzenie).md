@@ -1,4 +1,5 @@
 ---
+name: "Wyjazd rodziny Epines do Nowego Świata"
 kategoria: "wydarzenie"
 typ:
 rodzic:
@@ -7,7 +8,7 @@ kalendarz: "[[Kalendarz]]"
 lokacja: "[[Rennes Le Château]]"
 tagi: []
 prywatne: false
-obraz: "[[Wyjazd rodziny Epines do Nowego Świata (wydarzenie).png]]"
+image: "[[Wyjazd rodziny Epines do Nowego Świata (wydarzenie).png]]"
 aliases: ["Wyjazd rodziny Epines do Nowego Świata"]
 kanka_id: 6941749
 fc-calendar: "Kalendarz"

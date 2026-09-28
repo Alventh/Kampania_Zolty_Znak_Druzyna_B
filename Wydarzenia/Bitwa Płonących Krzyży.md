@@ -1,4 +1,5 @@
 ---
+name: "Bitwa Płonących Krzyży"
 kategoria: "wydarzenie"
 typ: "Bitwa"
 rodzic:
@@ -7,7 +8,7 @@ kalendarz: "[[Kalendarz]]"
 lokacja: "[[Farma Goździków]]"
 tagi: []
 prywatne: false
-obraz: "[[Bitwa Płonących Krzyży.png]]"
+image: "[[Bitwa Płonących Krzyży.png]]"
 aliases: []
 kanka_id: 6938264
 fc-calendar: "Kalendarz"

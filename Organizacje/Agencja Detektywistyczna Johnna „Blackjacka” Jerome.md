@@ -1,11 +1,12 @@
 ---
+name: "Agencja Detektywistyczna Johnna \"Blackjacka\" Jerome"
 kategoria: "organizacja"
 typ: "Agencja Detektywistyczna"
 rodzic:
 lokacje: ["[[Chicago]]"]
 tagi: []
 prywatne: false
-obraz: "[[John „Blackjack” Jerome.png]]"
+image: "[[John „Blackjack” Jerome.png]]"
 aliases: ["Agencja Detektywistyczna Johnna \"Blackjacka\" Jerome"]
 kanka_id: 6934504
 ---

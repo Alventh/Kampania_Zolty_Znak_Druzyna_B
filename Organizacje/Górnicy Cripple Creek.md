@@ -1,11 +1,12 @@
 ---
+name: "Górnicy Cripple Creek"
 kategoria: "organizacja"
 typ: "Pracownicy Kopalnii"
 rodzic:
 lokacje: ["[[Kopalnia w Cripple Creek]]"]
 tagi: []
 prywatne: false
-obraz: "[[Górnicy Cripple Creek.png]]"
+image: "[[Górnicy Cripple Creek.png]]"
 aliases: []
 kanka_id: 6934476
 ---

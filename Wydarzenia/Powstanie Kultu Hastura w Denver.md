@@ -1,4 +1,5 @@
 ---
+name: "Powstanie Kultu Hastura w Denver"
 kategoria: "wydarzenie"
 typ:
 rodzic:
@@ -7,7 +8,7 @@ kalendarz: "[[Kalendarz]]"
 lokacja: "[[Denver]]"
 tagi: []
 prywatne: false
-obraz: "[[Powstanie Kultu Hastura w Denver.png]]"
+image: "[[Powstanie Kultu Hastura w Denver.png]]"
 aliases: []
 kanka_id: 6934309
 fc-calendar: "Kalendarz"

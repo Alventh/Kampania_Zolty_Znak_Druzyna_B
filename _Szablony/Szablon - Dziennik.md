@@ -1,4 +1,5 @@
 ---
+name: "<% tp.file.title %>"
 kategoria: "dziennik"
 typ:
 rodzic:
@@ -9,7 +10,7 @@ autor:
 lokacja:
 tagi: []
 prywatne: false
-obraz:
+image:
 aliases: []
 kanka_id:
 ---

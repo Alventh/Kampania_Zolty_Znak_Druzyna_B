@@ -1,10 +1,11 @@
 ---
+name: "Współczesność"
 kategoria: "oś czasu"
 typ:
 rodzic:
 tagi: []
 prywatne: false
-obraz: "[[Współczesność.jpg]]"
+image: "[[Współczesność.jpg]]"
 aliases: []
 kanka_id: 6547774
 ---

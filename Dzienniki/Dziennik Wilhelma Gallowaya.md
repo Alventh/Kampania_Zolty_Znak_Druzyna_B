@@ -1,4 +1,5 @@
 ---
+name: "Dziennik Wilhelma Gallowaya"
 kategoria: "dziennik"
 typ:
 rodzic:
@@ -9,7 +10,7 @@ autor: "[[Wilhelm Galloway]]"
 lokacja: "[[Cripple Creek]]"
 tagi: []
 prywatne: false
-obraz: "[[Dziennik Wilhelma Gallowaya.png]]"
+image: "[[Dziennik Wilhelma Gallowaya.png]]"
 aliases: []
 kanka_id: 6934781
 fc-calendar: "Kalendarz"

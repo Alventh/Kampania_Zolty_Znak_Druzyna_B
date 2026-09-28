@@ -1,11 +1,12 @@
 ---
+name: "Ku Klux Klan"
 kategoria: "organizacja"
 typ: "Organizacja"
 rodzic:
 lokacje: ["[[USA (lokacja)]]", "[[Denver]]"]
 tagi: []
 prywatne: false
-obraz: "[[Ku Klux Klan.png]]"
+image: "[[Ku Klux Klan.png]]"
 aliases: []
 kanka_id: 6934558
 ---

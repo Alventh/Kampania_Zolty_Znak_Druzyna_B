@@ -1,11 +1,12 @@
 ---
+name: "Kult Nolana"
 kategoria: "organizacja"
 typ: "Kult"
 rodzic:
 lokacje: ["[[Jezioro Sloan]]", "[[Uniwersytet Denver (lokacja)]]"]
 tagi: []
 prywatne: false
-obraz:
+image:
 aliases: []
 kanka_id: 7139748
 ---

@@ -1,4 +1,5 @@
 ---
+name: "Lilian spotyka się z Axelem."
 kategoria: "wydarzenie"
 typ:
 rodzic:
@@ -7,7 +8,7 @@ kalendarz: "[[Kalendarz]]"
 lokacja:
 tagi: []
 prywatne: false
-obraz:
+image:
 aliases: ["Lilian spotyka się z Axelem."]
 kanka_id: 6967692
 fc-calendar: "Kalendarz"

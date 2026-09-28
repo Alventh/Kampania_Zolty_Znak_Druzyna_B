@@ -1,10 +1,11 @@
 ---
+name: "Właz"
 kategoria: "lokacja"
 typ: "Wejście"
 rodzic: "[[Jezioro Sloan]]"
 tagi: []
 prywatne: false
-obraz: "[[Właz.png]]"
+image: "[[Właz.png]]"
 aliases: []
 kanka_id: 7138313
 ---

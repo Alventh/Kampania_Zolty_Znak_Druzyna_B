@@ -1,4 +1,5 @@
 ---
+name: "Dziennik Corbita"
 kategoria: "przedmiot"
 typ: "Księga"
 rodzic: "[[Księgi]]"
@@ -8,7 +9,7 @@ cena:
 rozmiar:
 tagi: []
 prywatne: false
-obraz: "[[Dziennik Corbita.png]]"
+image: "[[Dziennik Corbita.png]]"
 aliases: []
 kanka_id: 6547885
 waga:

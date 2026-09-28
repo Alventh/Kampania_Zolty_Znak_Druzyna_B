@@ -1,10 +1,11 @@
 ---
+name: "Capitoll Hill"
 kategoria: "lokacja"
 typ: "Dzielnica"
 rodzic: "[[Denver]]"
 tagi: []
 prywatne: false
-obraz:
+image:
 aliases: []
 kanka_id: 9260535
 ---

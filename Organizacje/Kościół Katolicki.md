@@ -1,11 +1,12 @@
 ---
+name: "Kościół Katolicki"
 kategoria: "organizacja"
 typ: "Religia"
 rodzic:
 lokacje: ["[[Ziemia]]"]
 tagi: []
 prywatne: false
-obraz: "[[Kościół Katolicki.png]]"
+image: "[[Kościół Katolicki.png]]"
 aliases: []
 kanka_id: 6935834
 ---

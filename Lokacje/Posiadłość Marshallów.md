@@ -1,10 +1,11 @@
 ---
+name: "Posiadłość Marshallów"
 kategoria: "lokacja"
 typ: "Dom"
 rodzic: "[[Capitoll Hill]]"
 tagi: []
 prywatne: false
-obraz: "[[Posiadłość Marshallów.jpg]]"
+image: "[[Posiadłość Marshallów.jpg]]"
 aliases: []
 kanka_id: 9260537
 ---

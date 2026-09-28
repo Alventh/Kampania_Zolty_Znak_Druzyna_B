@@ -1,10 +1,11 @@
 ---
+name: "<% tp.file.title %>"
 kategoria: "oś czasu"
 typ:
 rodzic:
 tagi: []
 prywatne: false
-obraz:
+image:
 aliases: []
 kanka_id:
 ---

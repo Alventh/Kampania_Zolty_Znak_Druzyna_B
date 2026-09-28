@@ -1,11 +1,12 @@
 ---
+name: "Uniwersytet Denver"
 kategoria: "organizacja"
 typ: "Społeczność Akademicka"
 rodzic:
 lokacje: ["[[Uniwersytet Denver (lokacja)]]"]
 tagi: []
 prywatne: false
-obraz: "[[Uniwersytet Denver (organizacja).png]]"
+image: "[[Uniwersytet Denver (organizacja).png]]"
 aliases: ["Uniwersytet Denver"]
 kanka_id: 6938378
 ---

@@ -1,4 +1,5 @@
 ---
+name: "Rękawica"
 kategoria: "przedmiot"
 typ:
 rodzic:
@@ -8,7 +9,7 @@ cena:
 rozmiar:
 tagi: []
 prywatne: false
-obraz: "[[Rękawica.png]]"
+image: "[[Rękawica.png]]"
 aliases: []
 kanka_id: 8152873
 waga:

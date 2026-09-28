@@ -1,4 +1,5 @@
 ---
+name: "Ethan Epines"
 kategoria: "postać"
 typ: "NPC"
 tytuł:
@@ -11,20 +12,33 @@ rodziny: ["[[Epines]]"]
 rasy: []
 organizacje: []
 zdolności: []
+s:
+kon:
+bc:
+zr:
+wyg:
+int:
+moc:
+wyk:
+pw:
+pm:
+pocz:
+ruch:
+mo:
+krzepa:
+umiejetnosci: []
+ataki: []
 tagi: []
 prywatne: true
-obraz: "[[Ethan Epines.png]]"
+image: "[[Ethan Epines.png]]"
 aliases: []
 cssclasses: ["karta-postaci"]
 kanka_id: 6547315
 tags: ["mg"]
 ---
 
-```dataviewjs
-await dv.view("_Szablony/widoki/infobox")
+```statblock
 ```
-
-> [!mg] Wpis prywatny w Kance — tylko dla MG
 
 ## Opis
 
@@ -43,21 +57,6 @@ Autor:
 
 ## Osobowość
 
-
-> [!statblock]- Statystyki (CoC 7e)
-> | S | KON | BC | ZR | WYG | INT | MOC | WYK |
-> | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-> |  |  |  |  |  |  |  |  |
->
-> **PW:**  · **PM:**  · **Poczytalność:**  · **Ruch:**  · **MO:**  · **Krzepa:** 
->
-> | Umiejętność | % | ½ | ⅕ |
-> | --- | :-: | :-: | :-: |
-> |  |  |  |  |
->
-> **Ataki:** 
->
-> Rzut: `dice: 1d100` · Obrażenia: `dice: 1d3`
 
 ## Powiązania
 

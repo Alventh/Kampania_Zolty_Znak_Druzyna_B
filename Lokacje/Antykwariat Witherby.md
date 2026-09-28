@@ -1,10 +1,11 @@
 ---
+name: "Antykwariat Witherby"
 kategoria: "lokacja"
 typ: "Sklep"
 rodzic: "[[Denver]]"
 tagi: []
 prywatne: false
-obraz: "[[Antykwariat Witherby.png]]"
+image: "[[Antykwariat Witherby.png]]"
 aliases: []
 kanka_id: 6935344
 ---

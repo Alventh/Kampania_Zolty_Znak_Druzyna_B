@@ -1,4 +1,5 @@
 ---
+name: "Jane Harwood"
 kategoria: "postać"
 typ: "NPC"
 tytuł: "Asystentka"
@@ -11,16 +12,31 @@ rodziny: []
 rasy: []
 organizacje: ["[[Redakcja Denver Post]]"]
 zdolności: []
+s:
+kon:
+bc:
+zr:
+wyg:
+int:
+moc:
+wyk:
+pw:
+pm:
+pocz:
+ruch:
+mo:
+krzepa:
+umiejetnosci: []
+ataki: []
 tagi: []
 prywatne: false
-obraz:
+image:
 aliases: []
 cssclasses: ["karta-postaci"]
 kanka_id: 7139732
 ---
 
-```dataviewjs
-await dv.view("_Szablony/widoki/infobox")
+```statblock
 ```
 
 ## Opis
@@ -32,21 +48,6 @@ Jane Harwood pochodząca z [[Sutton]] w stanie [[Massachusets]]Jest asystentką 
 
 ## Osobowość
 
-
-> [!statblock]- Statystyki (CoC 7e)
-> | S | KON | BC | ZR | WYG | INT | MOC | WYK |
-> | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-> |  |  |  |  |  |  |  |  |
->
-> **PW:**  · **PM:**  · **Poczytalność:**  · **Ruch:**  · **MO:**  · **Krzepa:** 
->
-> | Umiejętność | % | ½ | ⅕ |
-> | --- | :-: | :-: | :-: |
-> |  |  |  |  |
->
-> **Ataki:** 
->
-> Rzut: `dice: 1d100` · Obrażenia: `dice: 1d3`
 
 ## Powiązania
 

@@ -1,11 +1,12 @@
 ---
+name: "Rottweiler"
 kategoria: "rasa"
 typ:
 rodzic:
 lokacje: []
 tagi: []
 prywatne: false
-obraz:
+image:
 aliases: []
 kanka_id: 7937668
 ---

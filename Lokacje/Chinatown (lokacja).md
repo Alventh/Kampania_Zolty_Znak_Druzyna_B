@@ -1,10 +1,11 @@
 ---
+name: "Chinatown"
 kategoria: "lokacja"
 typ: "Dzielnica"
 rodzic: "[[Denver]]"
 tagi: []
 prywatne: false
-obraz: "[[Chinatown (lokacja).png]]"
+image: "[[Chinatown (lokacja).png]]"
 aliases: ["Chinatown"]
 kanka_id: 6940176
 ---

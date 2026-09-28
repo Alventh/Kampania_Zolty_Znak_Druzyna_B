@@ -1,4 +1,5 @@
 ---
+name: "Liber Temporis"
 kategoria: "przedmiot"
 typ: "Księga"
 rodzic: "[[Księgi]]"
@@ -8,7 +9,7 @@ cena:
 rozmiar:
 tagi: []
 prywatne: false
-obraz: "[[Liber Temporis.png]]"
+image: "[[Liber Temporis.png]]"
 aliases: []
 kanka_id: 9260545
 waga:

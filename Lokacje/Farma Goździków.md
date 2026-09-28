@@ -1,10 +1,11 @@
 ---
+name: "Farma Goździków"
 kategoria: "lokacja"
 typ: "Farma"
 rodzic: "[[Denver]]"
 tagi: []
 prywatne: false
-obraz: "[[Bitwa Płonących Krzyży.png]]"
+image: "[[Bitwa Płonących Krzyży.png]]"
 aliases: []
 kanka_id: 6934257
 ---

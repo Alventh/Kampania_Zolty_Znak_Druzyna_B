@@ -1,4 +1,5 @@
 ---
+name: "Odnalezienie listu w butelce"
 kategoria: "wydarzenie"
 typ:
 rodzic:
@@ -7,7 +8,7 @@ kalendarz: "[[Kalendarz]]"
 lokacja: "[[Jezioro Sloan]]"
 tagi: []
 prywatne: false
-obraz: "[[Odnalezienie listu w butelce.png]]"
+image: "[[Odnalezienie listu w butelce.png]]"
 aliases: []
 kanka_id: 6941756
 fc-calendar: "Kalendarz"

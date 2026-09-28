@@ -1,10 +1,11 @@
 ---
+name: "Niemcy"
 kategoria: "lokacja"
 typ: "Państwo"
 rodzic: "[[Europa]]"
 tagi: []
 prywatne: false
-obraz: "[[Niemcy.png]]"
+image: "[[Niemcy.png]]"
 aliases: []
 kanka_id: 6932749
 ---

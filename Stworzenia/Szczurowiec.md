@@ -1,11 +1,12 @@
 ---
+name: "Szczurowiec"
 kategoria: "stworzenie"
 typ: "Hybryda"
 rodzic:
 lokacje: []
 tagi: []
 prywatne: false
-obraz: "[[Szczurowiec.png]]"
+image: "[[Szczurowiec.png]]"
 aliases: []
 kanka_id: 6547282
 ---

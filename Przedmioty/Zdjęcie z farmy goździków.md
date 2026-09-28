@@ -1,4 +1,5 @@
 ---
+name: "Zdjęcie z farmy goździków"
 kategoria: "przedmiot"
 typ: "Zdjęcie"
 rodzic:
@@ -8,7 +9,7 @@ cena:
 rozmiar:
 tagi: []
 prywatne: false
-obraz: "[[Zdjęcie z farmy goździków.png]]"
+image: "[[Zdjęcie z farmy goździków.png]]"
 aliases: []
 kanka_id: 8270070
 waga:

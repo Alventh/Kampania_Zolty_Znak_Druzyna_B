@@ -1,10 +1,11 @@
 ---
+name: "Williams & Graham"
 kategoria: "lokacja"
 typ: "Bar"
 rodzic: "[[Denver]]"
 tagi: []
 prywatne: false
-obraz: "[[Williams & Graham.png]]"
+image: "[[Williams & Graham.png]]"
 aliases: []
 kanka_id: 6938250
 ---

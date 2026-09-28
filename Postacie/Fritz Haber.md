@@ -1,4 +1,5 @@
 ---
+name: "Fritz Haber"
 kategoria: "postać"
 typ: "NPC"
 tytuł: "Doktor"
@@ -11,16 +12,31 @@ rodziny: []
 rasy: ["[[Żydzi]]"]
 organizacje: ["[[Ekspedycja]]"]
 zdolności: []
+s:
+kon:
+bc:
+zr:
+wyg:
+int:
+moc:
+wyk:
+pw:
+pm:
+pocz:
+ruch:
+mo:
+krzepa:
+umiejetnosci: []
+ataki: []
 tagi: []
 prywatne: false
-obraz: "[[Fritz Haber.png]]"
+image: "[[Fritz Haber.png]]"
 aliases: []
 cssclasses: ["karta-postaci"]
 kanka_id: 7012167
 ---
 
-```dataviewjs
-await dv.view("_Szablony/widoki/infobox")
+```statblock
 ```
 
 ## Opis
@@ -40,21 +56,6 @@ Uczestnik [[Aukcja]] gdzie został poproszony przez [[Charlotte Reed]] o udział
 
 ## Osobowość
 
-
-> [!statblock]- Statystyki (CoC 7e)
-> | S | KON | BC | ZR | WYG | INT | MOC | WYK |
-> | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-> |  |  |  |  |  |  |  |  |
->
-> **PW:**  · **PM:**  · **Poczytalność:**  · **Ruch:**  · **MO:**  · **Krzepa:** 
->
-> | Umiejętność | % | ½ | ⅕ |
-> | --- | :-: | :-: | :-: |
-> |  |  |  |  |
->
-> **Ataki:** 
->
-> Rzut: `dice: 1d100` · Obrażenia: `dice: 1d3`
 
 ## Powiązania
 

@@ -1,4 +1,5 @@
 ---
+name: "Zaginięcie Arthura Holdema"
 kategoria: "wydarzenie"
 typ:
 rodzic:
@@ -7,7 +8,7 @@ kalendarz: "[[Kalendarz]]"
 lokacja: "[[Denver]]"
 tagi: []
 prywatne: false
-obraz: "[[Zaginięcie Arthura Holdema.png]]"
+image: "[[Zaginięcie Arthura Holdema.png]]"
 aliases: []
 kanka_id: 6941804
 fc-calendar: "Kalendarz"

@@ -1,10 +1,11 @@
 ---
+name: "Kino Rivoli"
 kategoria: "lokacja"
 typ: "Kino"
 rodzic: "[[Denver]]"
 tagi: []
 prywatne: false
-obraz: "[[Kino Rivoli.png]]"
+image: "[[Kino Rivoli.png]]"
 aliases: []
 kanka_id: 7387292
 ---

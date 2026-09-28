@@ -1,4 +1,5 @@
 ---
+name: "Opowieść Arthura"
 kategoria: "dziennik"
 typ:
 rodzic:
@@ -9,7 +10,7 @@ autor: "[[Arthur Holdem]]"
 lokacja: "[[Denver]]"
 tagi: []
 prywatne: false
-obraz:
+image:
 aliases: []
 kanka_id: 6934302
 fc-calendar: "Kalendarz"

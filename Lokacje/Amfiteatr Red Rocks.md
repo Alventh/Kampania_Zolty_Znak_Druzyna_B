@@ -1,10 +1,11 @@
 ---
+name: "Amfiteatr Red Rocks"
 kategoria: "lokacja"
 typ: "Amfiteatr"
 rodzic: "[[Denver]]"
 tagi: []
 prywatne: false
-obraz: "[[Amfiteatr Red Rocks.jpg]]"
+image: "[[Amfiteatr Red Rocks.jpg]]"
 aliases: []
 kanka_id: 6547836
 ---

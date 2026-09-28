@@ -1,4 +1,5 @@
 ---
+name: "Boska Komedia"
 kategoria: "przedmiot"
 typ: "Księga"
 rodzic:
@@ -8,7 +9,7 @@ cena:
 rozmiar:
 tagi: []
 prywatne: false
-obraz: "[[Boska Komedia.png]]"
+image: "[[Boska Komedia.png]]"
 aliases: []
 kanka_id: 7138399
 waga:

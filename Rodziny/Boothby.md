@@ -1,11 +1,12 @@
 ---
+name: "Boothby"
 kategoria: "rodzina"
 typ:
 rodzic:
 lokacje: []
 tagi: []
 prywatne: false
-obraz:
+image:
 aliases: []
 kanka_id: 7937662
 ---

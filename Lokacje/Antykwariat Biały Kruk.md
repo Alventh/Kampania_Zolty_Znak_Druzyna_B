@@ -1,10 +1,11 @@
 ---
+name: "Antykwariat Biały Kruk"
 kategoria: "lokacja"
 typ: "Sklep"
 rodzic: "[[Denver]]"
 tagi: []
 prywatne: false
-obraz: "[[Antykwariat Biały Kruk.png]]"
+image: "[[Antykwariat Biały Kruk.png]]"
 aliases: []
 kanka_id: 6937560
 ---

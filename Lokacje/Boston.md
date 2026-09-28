@@ -1,10 +1,11 @@
 ---
+name: "Boston"
 kategoria: "lokacja"
 typ: "Miasto"
 rodzic: "[[USA (lokacja)]]"
 tagi: []
 prywatne: false
-obraz: "[[Boston.jpg]]"
+image: "[[Boston.jpg]]"
 aliases: []
 kanka_id: 6547380
 ---

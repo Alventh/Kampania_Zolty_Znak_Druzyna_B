@@ -1,4 +1,5 @@
 ---
+name: "Śmierć Basila Torrence"
 kategoria: "wydarzenie"
 typ:
 rodzic:
@@ -7,7 +8,7 @@ kalendarz: "[[Kalendarz]]"
 lokacja: "[[Denver]]"
 tagi: []
 prywatne: false
-obraz: "[[Śmierć Basila Torrence.png]]"
+image: "[[Śmierć Basila Torrence.png]]"
 aliases: []
 kanka_id: 6940174
 fc-calendar: "Kalendarz"

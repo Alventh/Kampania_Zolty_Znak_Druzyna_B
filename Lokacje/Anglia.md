@@ -1,10 +1,11 @@
 ---
+name: "Anglia"
 kategoria: "lokacja"
 typ: "Państwo"
 rodzic: "[[Europa]]"
 tagi: []
 prywatne: false
-obraz: "[[Anglia.png]]"
+image: "[[Anglia.png]]"
 aliases: []
 kanka_id: 6932846
 ---

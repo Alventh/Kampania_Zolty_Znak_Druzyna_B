@@ -1,4 +1,5 @@
 ---
+name: "Opowieść Niibéíhei (Przepowiadający Deszcz) o pochodzeniu ludu  Hinono'eino"
 kategoria: "dziennik"
 typ:
 rodzic:
@@ -9,7 +10,7 @@ autor: "[[Opowieść Niibéíhei (Przepowiadający Deszcz) o pochodzeniu ludu Hi
 lokacja: "[[Wioska Arapaho]]"
 tagi: []
 prywatne: false
-obraz:
+image:
 aliases: ["Opowieść Niibéíhei (Przepowiadający Deszcz) o pochodzeniu ludu  Hinono'eino"]
 kanka_id: 7200585
 ---

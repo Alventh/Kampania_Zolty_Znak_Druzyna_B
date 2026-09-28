@@ -1,4 +1,5 @@
 ---
+name: "Nellie Harding spotyka Elle Flynn i zostaje nową wybranką"
 kategoria: "wydarzenie"
 typ:
 rodzic:
@@ -7,7 +8,7 @@ kalendarz: "[[Kalendarz]]"
 lokacja: "[[Boulder]]"
 tagi: []
 prywatne: false
-obraz:
+image:
 aliases: []
 kanka_id: 7427346
 fc-calendar: "Kalendarz"

@@ -1,4 +1,5 @@
 ---
+name: "Założenie Cripple Creek"
 kategoria: "wydarzenie"
 typ:
 rodzic:
@@ -7,7 +8,7 @@ kalendarz: "[[Kalendarz]]"
 lokacja:
 tagi: []
 prywatne: false
-obraz: "[[Założenie Cripple Creek.png]]"
+image: "[[Założenie Cripple Creek.png]]"
 aliases: []
 kanka_id: 6571676
 fc-calendar: "Kalendarz"

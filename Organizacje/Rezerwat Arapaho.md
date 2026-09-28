@@ -1,11 +1,12 @@
 ---
+name: "Rezerwat Arapaho"
 kategoria: "organizacja"
 typ: "Społeczność"
 rodzic:
 lokacje: ["[[Colorado]]"]
 tagi: []
 prywatne: false
-obraz: "[[Rezerwat Arapaho.jpg]]"
+image: "[[Rezerwat Arapaho.jpg]]"
 aliases: []
 kanka_id: 7200546
 ---

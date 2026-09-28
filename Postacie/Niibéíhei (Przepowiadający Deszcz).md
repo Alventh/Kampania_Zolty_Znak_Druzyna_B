@@ -1,4 +1,5 @@
 ---
+name: "Niibéíhei (Przepowiadający Deszcz)"
 kategoria: "postać"
 typ: "NPC"
 tytuł: "Wódz"
@@ -11,16 +12,31 @@ rodziny: []
 rasy: []
 organizacje: ["[[Arapaho (organizacja)]]", "[[Rezerwat Arapaho]]"]
 zdolności: []
+s:
+kon:
+bc:
+zr:
+wyg:
+int:
+moc:
+wyk:
+pw:
+pm:
+pocz:
+ruch:
+mo:
+krzepa:
+umiejetnosci: []
+ataki: []
 tagi: []
 prywatne: false
-obraz: "[[Niibéíhei (Przepowiadający Deszcz).jpg]]"
+image: "[[Niibéíhei (Przepowiadający Deszcz).jpg]]"
 aliases: []
 cssclasses: ["karta-postaci"]
 kanka_id: 7200540
 ---
 
-```dataviewjs
-await dv.view("_Szablony/widoki/infobox")
+```statblock
 ```
 
 ## Opis
@@ -32,21 +48,6 @@ Twórca [[Opowieść Niibéíhei (Przepowiadający Deszcz) o pochodzeniu ludu Hi
 
 ## Osobowość
 
-
-> [!statblock]- Statystyki (CoC 7e)
-> | S | KON | BC | ZR | WYG | INT | MOC | WYK |
-> | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-> |  |  |  |  |  |  |  |  |
->
-> **PW:**  · **PM:**  · **Poczytalność:**  · **Ruch:**  · **MO:**  · **Krzepa:** 
->
-> | Umiejętność | % | ½ | ⅕ |
-> | --- | :-: | :-: | :-: |
-> |  |  |  |  |
->
-> **Ataki:** 
->
-> Rzut: `dice: 1d100` · Obrażenia: `dice: 1d3`
 
 ## Powiązania
 

@@ -1,10 +1,11 @@
 ---
+name: "Bethania"
 kategoria: "lokacja"
 typ: "Posiadłość"
 rodzic: "[[Rennes Le Château]]"
 tagi: []
 prywatne: false
-obraz: "[[Bethania.jpg]]"
+image: "[[Bethania.jpg]]"
 aliases: []
 kanka_id: 6547313
 ---

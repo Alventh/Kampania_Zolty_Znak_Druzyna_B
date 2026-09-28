@@ -1,4 +1,5 @@
 ---
+name: "William Candlish"
 kategoria: "postać"
 typ: "NPC"
 tytuł: "Szef Policji w Denver, \"Wielki Czarownik\""
@@ -11,16 +12,31 @@ rodziny: []
 rasy: []
 organizacje: ["[[Kult Hastura]]", "[[Policja]]", "[[Policja w Denver]]"]
 zdolności: []
+s:
+kon:
+bc:
+zr:
+wyg:
+int:
+moc:
+wyk:
+pw:
+pm:
+pocz:
+ruch:
+mo:
+krzepa:
+umiejetnosci: []
+ataki: []
 tagi: []
 prywatne: false
-obraz: "[[William Candlish.jpg]]"
+image: "[[William Candlish.jpg]]"
 aliases: []
 cssclasses: ["karta-postaci"]
 kanka_id: 6933956
 ---
 
-```dataviewjs
-await dv.view("_Szablony/widoki/infobox")
+```statblock
 ```
 
 ## Opis
@@ -36,21 +52,6 @@ Candlish był jednym z oryginalnych członków Kultu Hastura, co zostało wspomn
 
 ## Osobowość
 
-
-> [!statblock]- Statystyki (CoC 7e)
-> | S | KON | BC | ZR | WYG | INT | MOC | WYK |
-> | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-> |  |  |  |  |  |  |  |  |
->
-> **PW:**  · **PM:**  · **Poczytalność:**  · **Ruch:**  · **MO:**  · **Krzepa:** 
->
-> | Umiejętność | % | ½ | ⅕ |
-> | --- | :-: | :-: | :-: |
-> |  |  |  |  |
->
-> **Ataki:** 
->
-> Rzut: `dice: 1d100` · Obrażenia: `dice: 1d3`
 
 ## Powiązania
 

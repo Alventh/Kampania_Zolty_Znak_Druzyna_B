@@ -1,4 +1,5 @@
 ---
+name: "Rytualny Nóż"
 kategoria: "przedmiot"
 typ: "Nóż"
 rodzic: "[[Artefakty]]"
@@ -8,7 +9,7 @@ cena:
 rozmiar:
 tagi: []
 prywatne: false
-obraz: "[[Rytualny Nóż.png]]"
+image: "[[Rytualny Nóż.png]]"
 aliases: []
 kanka_id: 6935859
 waga:

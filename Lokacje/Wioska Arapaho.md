@@ -1,10 +1,11 @@
 ---
+name: "Wioska Arapaho"
 kategoria: "lokacja"
 typ: "Wioska"
 rodzic: "[[Colorado]]"
 tagi: []
 prywatne: false
-obraz: "[[Wioska Arapaho.jpg]]"
+image: "[[Wioska Arapaho.jpg]]"
 aliases: []
 kanka_id: 7200547
 ---

@@ -1,4 +1,5 @@
 ---
+name: "Rybak znajdujący list w butelce"
 kategoria: "przedmiot"
 typ:
 rodzic: "[[Obrazy]]"
@@ -8,7 +9,7 @@ cena:
 rozmiar:
 tagi: []
 prywatne: false
-obraz: "[[Rybak znajdujący list w butelce.jpg]]"
+image: "[[Rybak znajdujący list w butelce.jpg]]"
 aliases: []
 kanka_id: 6945254
 waga:

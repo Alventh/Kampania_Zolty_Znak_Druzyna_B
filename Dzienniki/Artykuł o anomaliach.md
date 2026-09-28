@@ -1,4 +1,5 @@
 ---
+name: "Artykuł o anomaliach"
 kategoria: "dziennik"
 typ:
 rodzic:
@@ -9,7 +10,7 @@ autor: "[[Adam H. Morrison]]"
 lokacja: "[[Denver]]"
 tagi: []
 prywatne: false
-obraz:
+image:
 aliases: []
 kanka_id: 6934505
 fc-calendar: "Kalendarz"

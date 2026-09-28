@@ -1,4 +1,5 @@
 ---
+name: "Montmartre"
 kategoria: "przedmiot"
 typ: "Okręt"
 rodzic: "[[Okręty]]"
@@ -8,7 +9,7 @@ cena:
 rozmiar:
 tagi: []
 prywatne: false
-obraz: "[[Montmartre.jpg]]"
+image: "[[Montmartre.jpg]]"
 aliases: []
 kanka_id: 6932859
 waga:

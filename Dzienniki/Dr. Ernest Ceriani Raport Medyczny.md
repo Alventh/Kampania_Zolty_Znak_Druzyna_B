@@ -1,4 +1,5 @@
 ---
+name: "Dr. Ernest Ceriani Raport Medyczny"
 kategoria: "dziennik"
 typ:
 rodzic:
@@ -9,7 +10,7 @@ autor: "[[Ernest Ceriani]]"
 lokacja: "[[Cripple Creek]]"
 tagi: []
 prywatne: false
-obraz:
+image:
 aliases: []
 kanka_id: 6934792
 ---

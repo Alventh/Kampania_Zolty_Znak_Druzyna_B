@@ -1,11 +1,12 @@
 ---
+name: "Arapaho"
 kategoria: "organizacja"
 typ: "Społeczność"
 rodzic:
 lokacje: ["[[Wioska Arapaho]]"]
 tagi: []
 prywatne: false
-obraz:
+image:
 aliases: ["Arapaho"]
 kanka_id: 6940053
 ---

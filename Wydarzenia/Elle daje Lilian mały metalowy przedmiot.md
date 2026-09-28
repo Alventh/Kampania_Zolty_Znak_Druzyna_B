@@ -1,4 +1,5 @@
 ---
+name: "Elle daje Lilian mały metalowy przedmiot"
 kategoria: "wydarzenie"
 typ:
 rodzic:
@@ -7,7 +8,7 @@ kalendarz: "[[Kalendarz]]"
 lokacja:
 tagi: []
 prywatne: false
-obraz:
+image:
 aliases: []
 kanka_id: 6967689
 fc-calendar: "Kalendarz"

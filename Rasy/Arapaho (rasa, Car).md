@@ -1,11 +1,12 @@
 ---
+name: "Arapaho"
 kategoria: "rasa"
 typ: "Człowiek"
 rodzic: "[[Car]]"
 lokacje: ["[[Wioska Arapaho]]"]
 tagi: []
 prywatne: false
-obraz:
+image:
 aliases: ["Arapaho"]
 kanka_id: 8152864
 ---

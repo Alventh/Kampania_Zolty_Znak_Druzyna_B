@@ -1,4 +1,5 @@
 ---
+name: "Tommy \"Spryciarz\" Malone"
 kategoria: "postać"
 typ: "NPC"
 tytuł: "Student"
@@ -11,16 +12,31 @@ rodziny: []
 rasy: []
 organizacje: ["[[Kult Nolana]]"]
 zdolności: []
+s:
+kon:
+bc:
+zr:
+wyg:
+int:
+moc:
+wyk:
+pw:
+pm:
+pocz:
+ruch:
+mo:
+krzepa:
+umiejetnosci: []
+ataki: []
 tagi: []
 prywatne: false
-obraz: "[[Tommy „Spryciarz” Malone.jpg]]"
+image: "[[Tommy „Spryciarz” Malone.jpg]]"
 aliases: ["Tommy \"Spryciarz\" Malone"]
 cssclasses: ["karta-postaci"]
 kanka_id: 7138311
 ---
 
-```dataviewjs
-await dv.view("_Szablony/widoki/infobox")
+```statblock
 ```
 
 ## Opis
@@ -32,21 +48,6 @@ Student Chemii na [[Uniwersytet Denver (lokacja)|Uniwersytet Denver]] kumpel [[N
 
 ## Osobowość
 
-
-> [!statblock]- Statystyki (CoC 7e)
-> | S | KON | BC | ZR | WYG | INT | MOC | WYK |
-> | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-> |  |  |  |  |  |  |  |  |
->
-> **PW:**  · **PM:**  · **Poczytalność:**  · **Ruch:**  · **MO:**  · **Krzepa:** 
->
-> | Umiejętność | % | ½ | ⅕ |
-> | --- | :-: | :-: | :-: |
-> |  |  |  |  |
->
-> **Ataki:** 
->
-> Rzut: `dice: 1d100` · Obrażenia: `dice: 1d3`
 
 ## Powiązania
 

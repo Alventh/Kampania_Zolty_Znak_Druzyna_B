@@ -1,10 +1,11 @@
 ---
+name: "Włochy"
 kategoria: "lokacja"
 typ: "Państwo"
 rodzic: "[[Europa]]"
 tagi: []
 prywatne: false
-obraz:
+image:
 aliases: []
 kanka_id: 7138391
 ---

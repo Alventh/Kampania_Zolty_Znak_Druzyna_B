@@ -1,4 +1,5 @@
 ---
+name: "Lalka Lilian"
 kategoria: "przedmiot"
 typ:
 rodzic: "[[Artefakty]]"
@@ -8,7 +9,7 @@ cena:
 rozmiar:
 tagi: []
 prywatne: false
-obraz: "[[Lalka Lilian.png]]"
+image: "[[Lalka Lilian.png]]"
 aliases: []
 kanka_id: 6967538
 waga:

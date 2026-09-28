@@ -1,10 +1,11 @@
 ---
+name: "Szkoła"
 kategoria: "lokacja"
 typ: "Szkoła"
 rodzic: "[[Cripple Creek]]"
 tagi: []
 prywatne: false
-obraz: "[[Szkoła.png]]"
+image: "[[Szkoła.png]]"
 aliases: []
 kanka_id: 6940063
 ---

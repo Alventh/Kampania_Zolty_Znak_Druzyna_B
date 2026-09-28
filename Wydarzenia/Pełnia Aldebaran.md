@@ -1,4 +1,5 @@
 ---
+name: "Pełnia Aldebaran"
 kategoria: "wydarzenie"
 typ:
 rodzic:
@@ -7,7 +8,7 @@ kalendarz: "[[Kalendarz]]"
 lokacja: "[[Ziemia]]"
 tagi: []
 prywatne: false
-obraz: "[[Pełnia Aldebaran.png]]"
+image: "[[Pełnia Aldebaran.png]]"
 aliases: []
 kanka_id: 6934255
 fc-calendar: "Kalendarz"

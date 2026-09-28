@@ -1,10 +1,11 @@
 ---
+name: "Paryż"
 kategoria: "lokacja"
 typ: "Miasto"
 rodzic: "[[Francja]]"
 tagi: []
 prywatne: false
-obraz: "[[Paryż.png]]"
+image: "[[Paryż.png]]"
 aliases: []
 kanka_id: 6938342
 ---

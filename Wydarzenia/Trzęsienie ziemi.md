@@ -1,4 +1,5 @@
 ---
+name: "Trzęsienie ziemi"
 kategoria: "wydarzenie"
 typ:
 rodzic:
@@ -7,7 +8,7 @@ kalendarz: "[[Kalendarz]]"
 lokacja: "[[Cripple Creek]]"
 tagi: []
 prywatne: false
-obraz: "[[Trzęsienie ziemi.png]]"
+image: "[[Trzęsienie ziemi.png]]"
 aliases: []
 kanka_id: 6940085
 fc-calendar: "Kalendarz"

@@ -1,4 +1,5 @@
 ---
+name: "Chinatown"
 kategoria: "wydarzenie"
 typ:
 rodzic:
@@ -7,7 +8,7 @@ kalendarz: "[[Kalendarz]]"
 lokacja: "[[Chinatown (lokacja)]]"
 tagi: []
 prywatne: false
-obraz: "[[Chinatown (wydarzenie).png]]"
+image: "[[Chinatown (wydarzenie).png]]"
 aliases: ["Chinatown"]
 kanka_id: 6940217
 fc-calendar: "Kalendarz"

@@ -1,4 +1,5 @@
 ---
+name: "List Z Butelki"
 kategoria: "dziennik"
 typ:
 rodzic:
@@ -9,7 +10,7 @@ autor: "[[Jean Dupont]]"
 lokacja: "[[Jezioro Sloan]]"
 tagi: []
 prywatne: false
-obraz: "[[Butelka z listem.png]]"
+image: "[[Butelka z listem.png]]"
 aliases: []
 kanka_id: 6938330
 ---

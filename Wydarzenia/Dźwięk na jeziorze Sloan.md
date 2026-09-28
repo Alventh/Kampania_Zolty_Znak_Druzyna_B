@@ -1,4 +1,5 @@
 ---
+name: "Dźwięk na jeziorze Sloan"
 kategoria: "wydarzenie"
 typ:
 rodzic:
@@ -7,7 +8,7 @@ kalendarz: "[[Kalendarz]]"
 lokacja: "[[Jezioro Sloan]]"
 tagi: []
 prywatne: false
-obraz:
+image:
 aliases: []
 kanka_id: 7427334
 fc-calendar: "Kalendarz"

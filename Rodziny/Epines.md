@@ -1,11 +1,12 @@
 ---
+name: "Epines"
 kategoria: "rodzina"
 typ: "Kultyści"
 rodzic:
 lokacje: []
 tagi: []
 prywatne: false
-obraz: "[[Epines.png]]"
+image: "[[Epines.png]]"
 aliases: []
 kanka_id: 6547292
 ---

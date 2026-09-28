@@ -1,5 +1,6 @@
 ---
 kategoria: indeks
+cssclasses: ["indeks-z-obrazkami"]
 ---
 
 > Nowa notatka w tym folderze dostaje automatycznie szablon **Zdolność**.
@@ -13,7 +14,7 @@ await dv.view("_Szablony/widoki/drzewo", { folder: "Zdolności" })
 ## Lista
 
 ```dataview
-TABLE WITHOUT ID file.link AS "Nazwa", typ, rodzic, koszt
+TABLE WITHOUT ID embed(image) AS " ", file.link AS "Nazwa", typ, rodzic, koszt
 FROM "Zdolności"
 WHERE file.path != this.file.path
 SORT file.name

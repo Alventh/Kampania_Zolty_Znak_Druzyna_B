@@ -1,4 +1,5 @@
 ---
+name: "Rodzina Carlino informuje Cole'a i Lilian o długu za projektor"
 kategoria: "wydarzenie"
 typ:
 rodzic:
@@ -7,7 +8,7 @@ kalendarz: "[[Kalendarz]]"
 lokacja: "[[Biuro Agencji Detektywistycznej]]"
 tagi: []
 prywatne: false
-obraz:
+image:
 aliases: []
 kanka_id: 7387279
 fc-calendar: "Kalendarz"

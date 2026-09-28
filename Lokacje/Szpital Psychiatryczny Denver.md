@@ -1,10 +1,11 @@
 ---
+name: "Szpital Psychiatryczny Denver"
 kategoria: "lokacja"
 typ: "Szpital"
 rodzic: "[[Denver]]"
 tagi: []
 prywatne: false
-obraz: "[[Szpital Psychiatryczny Denver.png]]"
+image: "[[Szpital Psychiatryczny Denver.png]]"
 aliases: []
 kanka_id: 6934215
 ---

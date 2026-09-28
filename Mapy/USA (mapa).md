@@ -1,11 +1,12 @@
 ---
+name: "USA"
 kategoria: "mapa"
 typ:
 rodzic: "[[Mapa świata]]"
 lokacja: "[[Ziemia]]"
 tagi: []
 prywatne: false
-obraz: "[[USA (mapa).jpg]]"
+image: "[[USA (mapa).jpg]]"
 aliases: ["USA"]
 kanka_id: 6547669
 ---

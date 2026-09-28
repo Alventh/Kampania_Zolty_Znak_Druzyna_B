@@ -1,4 +1,5 @@
 ---
+name: "List Pożegnalny Zarządcy Kopalni"
 kategoria: "dziennik"
 typ:
 rodzic:
@@ -9,7 +10,7 @@ autor: "[[Carl Bradshaw]]"
 lokacja:
 tagi: []
 prywatne: false
-obraz: "[[List Pożegnalny Zarządcy Kopalni.png]]"
+image: "[[List Pożegnalny Zarządcy Kopalni.png]]"
 aliases: []
 kanka_id: 6934434
 fc-calendar: "Kalendarz"

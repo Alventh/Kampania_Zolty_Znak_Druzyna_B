@@ -1,11 +1,12 @@
 ---
+name: "Policja w Denver"
 kategoria: "organizacja"
 typ: "Policja"
 rodzic: "[[Policja]]"
 lokacje: ["[[Denver]]"]
 tagi: []
 prywatne: false
-obraz: "[[Policja w Denver.png]]"
+image: "[[Policja w Denver.png]]"
 aliases: []
 kanka_id: 6934535
 ---

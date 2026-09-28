@@ -74,6 +74,22 @@ body {
 .is-mobile .zz-infobox { float: none; width: auto; margin: 0 0 1em; }
 .is-mobile .zz-infobox-img { max-height: 320px; }
 
+/* ---------- Indeksy modułów: tabela z miniaturami (jak lista w Kance) ---------- */
+.indeks-z-obrazkami .table-view-table td:first-child { width: 56px; padding: 4px; }
+.indeks-z-obrazkami .table-view-table td:first-child img,
+.indeks-z-obrazkami .table-view-table td:first-child .internal-embed img {
+  width: 48px; height: 48px; max-width: none;
+  object-fit: cover; object-position: top;
+  border-radius: 50%;
+  border: 2px solid rgba(var(--zz-accent-rgb), 0.6);
+  display: block;
+}
+.indeks-z-obrazkami .table-view-table td { vertical-align: middle; }
+.indeks-z-obrazkami .table-view-table th:first-child { width: 56px; }
+
+/* ---------- Karta (Fantasy Statblocks) ---------- */
+.karta-postaci .statblock { margin-bottom: 1.5em; }
+
 /* ---------- Karta postaci ---------- */
 .karta-postaci h2 {
   font-variant: small-caps;

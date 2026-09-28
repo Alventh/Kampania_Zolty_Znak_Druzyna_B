@@ -1,10 +1,11 @@
 ---
+name: "Dom Corbita"
 kategoria: "lokacja"
 typ: "Budynek"
 rodzic: "[[Boston]]"
 tagi: []
 prywatne: false
-obraz: "[[Dom Corbita.png]]"
+image: "[[Dom Corbita.png]]"
 aliases: []
 kanka_id: 6935858
 ---

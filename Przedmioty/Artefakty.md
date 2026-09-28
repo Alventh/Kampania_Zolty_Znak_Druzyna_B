@@ -1,4 +1,5 @@
 ---
+name: "Artefakty"
 kategoria: "przedmiot"
 typ:
 rodzic:
@@ -8,7 +9,7 @@ cena:
 rozmiar:
 tagi: []
 prywatne: false
-obraz:
+image:
 aliases: []
 kanka_id: 6935880
 waga:

@@ -1,4 +1,5 @@
 ---
+name: "Zamieszki W Denver"
 kategoria: "wydarzenie"
 typ: "Zamieszki"
 rodzic:
@@ -7,7 +8,7 @@ kalendarz: "[[Kalendarz]]"
 lokacja: "[[Denver]]"
 tagi: []
 prywatne: false
-obraz: "[[Zamieszki W Denver.png]]"
+image: "[[Zamieszki W Denver.png]]"
 aliases: []
 kanka_id: 6937542
 fc-calendar: "Kalendarz"

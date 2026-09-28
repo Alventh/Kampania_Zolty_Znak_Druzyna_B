@@ -1,10 +1,11 @@
 ---
+name: "Smoczy Dwór"
 kategoria: "lokacja"
 typ: "Bar"
 rodzic: "[[Chinatown (lokacja)]]"
 tagi: []
 prywatne: false
-obraz: "[[Smoczy Dwór.png]]"
+image: "[[Smoczy Dwór.png]]"
 aliases: []
 kanka_id: 6940215
 ---

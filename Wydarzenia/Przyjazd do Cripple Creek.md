@@ -1,4 +1,5 @@
 ---
+name: "Przyjazd do Cripple Creek"
 kategoria: "wydarzenie"
 typ:
 rodzic:
@@ -7,7 +8,7 @@ kalendarz: "[[Kalendarz]]"
 lokacja: "[[Cripple Creek]]"
 tagi: []
 prywatne: false
-obraz: "[[Przyjazd do Cripple Creek.png]]"
+image: "[[Przyjazd do Cripple Creek.png]]"
 aliases: []
 kanka_id: 6547721
 fc-calendar: "Kalendarz"

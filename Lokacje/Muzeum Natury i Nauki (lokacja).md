@@ -1,10 +1,11 @@
 ---
+name: "Muzeum Natury i Nauki"
 kategoria: "lokacja"
 typ: "Muzeum"
 rodzic: "[[Denver]]"
 tagi: []
 prywatne: false
-obraz: "[[Muzeum Natury i Nauki (lokacja).png]]"
+image: "[[Muzeum Natury i Nauki (lokacja).png]]"
 aliases: ["Muzeum Natury i Nauki"]
 kanka_id: 6938308
 ---

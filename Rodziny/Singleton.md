@@ -1,11 +1,12 @@
 ---
+name: "Singleton"
 kategoria: "rodzina"
 typ:
 rodzic:
 lokacje: []
 tagi: []
 prywatne: false
-obraz:
+image:
 aliases: []
 kanka_id: 6547822
 ---

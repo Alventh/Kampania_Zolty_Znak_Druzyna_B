@@ -1,10 +1,11 @@
 ---
+name: "Ołtarz w górach"
 kategoria: "lokacja"
 typ: "Ołtarz"
 rodzic: "[[Kopalnia w Cripple Creek]]"
 tagi: []
 prywatne: false
-obraz: "[[Ołtarz w górach.png]]"
+image: "[[Ołtarz w górach.png]]"
 aliases: []
 kanka_id: 6940061
 ---

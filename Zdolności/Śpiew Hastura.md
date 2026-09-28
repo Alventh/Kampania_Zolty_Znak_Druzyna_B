@@ -1,11 +1,12 @@
 ---
+name: "Śpiew Hastura"
 kategoria: "zdolność"
 typ: "Zaklęcie"
 rodzic:
 koszt:
 tagi: []
 prywatne: false
-obraz: "[[Śpiew Hastura.png]]"
+image: "[[Śpiew Hastura.png]]"
 aliases: []
 kanka_id: 6934349
 ---

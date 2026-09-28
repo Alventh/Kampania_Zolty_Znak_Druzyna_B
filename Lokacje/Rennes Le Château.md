@@ -1,10 +1,11 @@
 ---
+name: "Rennes Le Château"
 kategoria: "lokacja"
 typ: "Miasto"
 rodzic: "[[Francja]]"
 tagi: []
 prywatne: false
-obraz: "[[Rennes Le Château.jpg]]"
+image: "[[Rennes Le Château.jpg]]"
 aliases: []
 kanka_id: 6547339
 ---

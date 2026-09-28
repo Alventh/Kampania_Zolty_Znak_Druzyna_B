@@ -1,11 +1,12 @@
 ---
+name: "Policja"
 kategoria: "organizacja"
 typ: "Policja"
 rodzic:
 lokacje: ["[[Boulder]]", "[[Baltimore]]", "[[Port Key West]]", "[[Southampton]]", "[[Bremerhaven]]", "[[Denver]]"]
 tagi: []
 prywatne: false
-obraz: "[[Policja.png]]"
+image: "[[Policja.png]]"
 aliases: []
 kanka_id: 6934531
 ---

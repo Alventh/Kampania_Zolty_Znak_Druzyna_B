@@ -1,10 +1,11 @@
 ---
+name: "Colorado"
 kategoria: "lokacja"
 typ: "Stan"
 rodzic: "[[USA (lokacja)]]"
 tagi: []
 prywatne: false
-obraz: "[[Colorado.jpg]]"
+image: "[[Colorado.jpg]]"
 aliases: []
 kanka_id: 6547192
 ---

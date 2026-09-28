@@ -1,4 +1,5 @@
 ---
+name: "Jack \"Byk\" Callahan"
 kategoria: "postać"
 typ: "NPC"
 tytuł: "Student"
@@ -11,16 +12,31 @@ rodziny: []
 rasy: []
 organizacje: ["[[Uniwersytet Denver (organizacja)]]", "[[Kult Nolana]]"]
 zdolności: []
+s:
+kon:
+bc:
+zr:
+wyg:
+int:
+moc:
+wyk:
+pw:
+pm:
+pocz:
+ruch:
+mo:
+krzepa:
+umiejetnosci: []
+ataki: []
 tagi: []
 prywatne: false
-obraz: "[[Jack „Byk” Callahan.png]]"
+image: "[[Jack „Byk” Callahan.png]]"
 aliases: ["Jack \"Byk\" Callahan"]
 cssclasses: ["karta-postaci"]
 kanka_id: 7138312
 ---
 
-```dataviewjs
-await dv.view("_Szablony/widoki/infobox")
+```statblock
 ```
 
 ## Opis
@@ -32,21 +48,6 @@ Student wychowania fizycznego, kumpel i pomocnik [[Nolan Hawthorne]]
 
 ## Osobowość
 
-
-> [!statblock]- Statystyki (CoC 7e)
-> | S | KON | BC | ZR | WYG | INT | MOC | WYK |
-> | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-> |  |  |  |  |  |  |  |  |
->
-> **PW:**  · **PM:**  · **Poczytalność:**  · **Ruch:**  · **MO:**  · **Krzepa:** 
->
-> | Umiejętność | % | ½ | ⅕ |
-> | --- | :-: | :-: | :-: |
-> |  |  |  |  |
->
-> **Ataki:** 
->
-> Rzut: `dice: 1d100` · Obrażenia: `dice: 1d3`
 
 ## Powiązania
 

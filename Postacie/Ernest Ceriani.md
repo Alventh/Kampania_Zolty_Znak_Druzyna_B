@@ -1,4 +1,5 @@
 ---
+name: "Ernest Ceriani"
 kategoria: "postać"
 typ: "NPC"
 tytuł: "Doktor"
@@ -11,16 +12,31 @@ rodziny: []
 rasy: []
 organizacje: []
 zdolności: []
+s:
+kon:
+bc:
+zr:
+wyg:
+int:
+moc:
+wyk:
+pw:
+pm:
+pocz:
+ruch:
+mo:
+krzepa:
+umiejetnosci: []
+ataki: []
 tagi: []
 prywatne: false
-obraz: "[[Ernest Ceriani.webp]]"
+image: "[[Ernest Ceriani.webp]]"
 aliases: []
 cssclasses: ["karta-postaci"]
 kanka_id: 6934790
 ---
 
-```dataviewjs
-await dv.view("_Szablony/widoki/infobox")
+```statblock
 ```
 
 ## Opis
@@ -48,21 +64,6 @@ Na prośbę Victorii, zwrócił się do swojego kolegi [[Nathan S. Kline]] o prz
 
 ## Osobowość
 
-
-> [!statblock]- Statystyki (CoC 7e)
-> | S | KON | BC | ZR | WYG | INT | MOC | WYK |
-> | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-> |  |  |  |  |  |  |  |  |
->
-> **PW:**  · **PM:**  · **Poczytalność:**  · **Ruch:**  · **MO:**  · **Krzepa:** 
->
-> | Umiejętność | % | ½ | ⅕ |
-> | --- | :-: | :-: | :-: |
-> |  |  |  |  |
->
-> **Ataki:** 
->
-> Rzut: `dice: 1d100` · Obrażenia: `dice: 1d3`
 
 ## Powiązania
 

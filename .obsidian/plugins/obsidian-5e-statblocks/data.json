@@ -1,8 +1,521 @@
 {
   "monsters": [],
   "defaultLayouts": {},
-  "layouts": [],
-  "default": "basic-5e-layout",
+  "layouts": [
+    {
+      "name": "Żółty Znak",
+      "id": "zolty-znak",
+      "blocks": [
+        {
+          "type": "inline",
+          "id": "988b3fbd607ddc8d",
+          "properties": [],
+          "hasRule": true,
+          "nested": [
+            {
+              "type": "group",
+              "id": "2f620e9252d8d934",
+              "properties": [
+                "name",
+                "typ",
+                "tytuł",
+                "status"
+              ],
+              "conditioned": true,
+              "nested": [
+                {
+                  "type": "heading",
+                  "id": "7d631e4e0ca81ce4",
+                  "properties": [
+                    "name"
+                  ],
+                  "conditioned": true,
+                  "size": 1
+                },
+                {
+                  "type": "subheading",
+                  "id": "128eba2c4d457d49",
+                  "properties": [
+                    "typ",
+                    "tytuł",
+                    "zawód"
+                  ],
+                  "conditioned": true,
+                  "separator": " · "
+                },
+                {
+                  "type": "property",
+                  "id": "606fbb66dcf39018",
+                  "properties": [
+                    "prywatne"
+                  ],
+                  "display": "Widoczność",
+                  "conditioned": true,
+                  "callback": "return monster.prywatne === true || monster.prywatne === \"true\" ? \"🔒 tylko dla MG\" : \"\";"
+                },
+                {
+                  "type": "property",
+                  "id": "4be22e94d268504c",
+                  "properties": [
+                    "status"
+                  ],
+                  "display": "Status",
+                  "conditioned": true,
+                  "callback": "return monster.status === \"nie żyje\" ? \"💀 nie żyje\" : (monster.status ?? \"\");"
+                },
+                {
+                  "type": "property",
+                  "id": "21ef5091035f5912",
+                  "properties": [
+                    "gracz"
+                  ],
+                  "display": "Gracz",
+                  "conditioned": true
+                },
+                {
+                  "type": "property",
+                  "id": "48c0af35171f544b",
+                  "properties": [
+                    "wiek"
+                  ],
+                  "display": "Wiek",
+                  "conditioned": true
+                },
+                {
+                  "type": "property",
+                  "id": "24635729845f3e84",
+                  "properties": [
+                    "płeć"
+                  ],
+                  "display": "Płeć",
+                  "conditioned": true
+                },
+                {
+                  "type": "property",
+                  "id": "108cfba9e0b96dc0",
+                  "properties": [
+                    "zaimki"
+                  ],
+                  "display": "Zaimki",
+                  "conditioned": true
+                },
+                {
+                  "type": "property",
+                  "id": "dd50b8af30871c75",
+                  "properties": [
+                    "data_w_grze"
+                  ],
+                  "display": "Data",
+                  "conditioned": true
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "id": "d801299c94872a2f",
+              "properties": [
+                "image"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "id": "046ad6b4920030dd",
+          "hasRule": true,
+          "conditioned": true,
+          "properties": [
+            "lokacja",
+            "rodzic",
+            "lokacje",
+            "właściciel",
+            "autor",
+            "kalendarz",
+            "rodziny",
+            "rasy",
+            "organizacje",
+            "zdolności",
+            "twórcy",
+            "cena",
+            "rozmiar",
+            "waga",
+            "koszt",
+            "tagi"
+          ],
+          "nested": [
+            {
+              "type": "property",
+              "id": "de4757eb3536a1cc",
+              "properties": [
+                "lokacja"
+              ],
+              "display": "Lokacja",
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "448fbb60b98d69d2",
+              "properties": [
+                "rodzic"
+              ],
+              "display": "Nadrzędne",
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "7bbdd778d808b418",
+              "properties": [
+                "lokacje"
+              ],
+              "display": "Siedziby",
+              "conditioned": true,
+              "callback": "const v = monster[\"lokacje\"]; return Array.isArray(v) ? v.filter(Boolean).join(\", \") : (v ?? \"\");"
+            },
+            {
+              "type": "property",
+              "id": "2592721010fce1bf",
+              "properties": [
+                "właściciel"
+              ],
+              "display": "Właściciel",
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "ff6579ffb4789dac",
+              "properties": [
+                "autor"
+              ],
+              "display": "Autor",
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "7566a92916369f27",
+              "properties": [
+                "kalendarz"
+              ],
+              "display": "Kalendarz",
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "10cfc666aff12fb2",
+              "properties": [
+                "rodziny"
+              ],
+              "display": "Rodzina",
+              "conditioned": true,
+              "callback": "const v = monster[\"rodziny\"]; return Array.isArray(v) ? v.filter(Boolean).join(\", \") : (v ?? \"\");"
+            },
+            {
+              "type": "property",
+              "id": "81ba57574ca14e83",
+              "properties": [
+                "rasy"
+              ],
+              "display": "Rasa",
+              "conditioned": true,
+              "callback": "const v = monster[\"rasy\"]; return Array.isArray(v) ? v.filter(Boolean).join(\", \") : (v ?? \"\");"
+            },
+            {
+              "type": "property",
+              "id": "da0cdde8049a349e",
+              "properties": [
+                "organizacje"
+              ],
+              "display": "Organizacje",
+              "conditioned": true,
+              "callback": "const v = monster[\"organizacje\"]; return Array.isArray(v) ? v.filter(Boolean).join(\", \") : (v ?? \"\");"
+            },
+            {
+              "type": "property",
+              "id": "63bb54fbd2c1b942",
+              "properties": [
+                "zdolności"
+              ],
+              "display": "Zdolności",
+              "conditioned": true,
+              "callback": "const v = monster[\"zdolności\"]; return Array.isArray(v) ? v.filter(Boolean).join(\", \") : (v ?? \"\");"
+            },
+            {
+              "type": "property",
+              "id": "24ab80077fdbe601",
+              "properties": [
+                "twórcy"
+              ],
+              "display": "Twórcy",
+              "conditioned": true,
+              "callback": "const v = monster[\"twórcy\"]; return Array.isArray(v) ? v.filter(Boolean).join(\", \") : (v ?? \"\");"
+            },
+            {
+              "type": "property",
+              "id": "7a8857f4bd059076",
+              "properties": [
+                "cena"
+              ],
+              "display": "Cena",
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "da4b8525e18dc5ea",
+              "properties": [
+                "rozmiar"
+              ],
+              "display": "Rozmiar",
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "9773729f193e8527",
+              "properties": [
+                "waga"
+              ],
+              "display": "Waga",
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "c3d773ef103c0ca1",
+              "properties": [
+                "koszt"
+              ],
+              "display": "Koszt",
+              "conditioned": true
+            },
+            {
+              "type": "property",
+              "id": "806f3bdf89d3c276",
+              "properties": [
+                "tagi"
+              ],
+              "display": "Tagi",
+              "conditioned": true,
+              "callback": "const v = monster[\"tagi\"]; return Array.isArray(v) ? v.filter(Boolean).join(\", \") : (v ?? \"\");"
+            }
+          ]
+        },
+        {
+          "type": "inline",
+          "id": "9ff52b8ba4d1ee3d",
+          "hasRule": true,
+          "conditioned": true,
+          "properties": [
+            "s",
+            "kon",
+            "bc",
+            "zr",
+            "wyg",
+            "int",
+            "moc",
+            "wyk"
+          ],
+          "nested": [
+            {
+              "type": "property",
+              "id": "cd1593f2322000a0",
+              "properties": [
+                "s"
+              ],
+              "display": "S",
+              "conditioned": true,
+              "callback": "const v = monster[\"s\"]; return (v === 0 || v === \"0\" || v == null) ? \"\" : String(v);"
+            },
+            {
+              "type": "property",
+              "id": "5e3a45d02e4d7000",
+              "properties": [
+                "kon"
+              ],
+              "display": "KON",
+              "conditioned": true,
+              "callback": "const v = monster[\"kon\"]; return (v === 0 || v === \"0\" || v == null) ? \"\" : String(v);"
+            },
+            {
+              "type": "property",
+              "id": "44ebb96803910144",
+              "properties": [
+                "bc"
+              ],
+              "display": "BC",
+              "conditioned": true,
+              "callback": "const v = monster[\"bc\"]; return (v === 0 || v === \"0\" || v == null) ? \"\" : String(v);"
+            },
+            {
+              "type": "property",
+              "id": "d152a7ebd88f2d35",
+              "properties": [
+                "zr"
+              ],
+              "display": "ZR",
+              "conditioned": true,
+              "callback": "const v = monster[\"zr\"]; return (v === 0 || v === \"0\" || v == null) ? \"\" : String(v);"
+            },
+            {
+              "type": "property",
+              "id": "fca1ff0b8e39ab65",
+              "properties": [
+                "wyg"
+              ],
+              "display": "WYG",
+              "conditioned": true,
+              "callback": "const v = monster[\"wyg\"]; return (v === 0 || v === \"0\" || v == null) ? \"\" : String(v);"
+            },
+            {
+              "type": "property",
+              "id": "d640f75ceb3fc61d",
+              "properties": [
+                "int"
+              ],
+              "display": "INT",
+              "conditioned": true,
+              "callback": "const v = monster[\"int\"]; return (v === 0 || v === \"0\" || v == null) ? \"\" : String(v);"
+            },
+            {
+              "type": "property",
+              "id": "19face37e879c263",
+              "properties": [
+                "moc"
+              ],
+              "display": "MOC",
+              "conditioned": true,
+              "callback": "const v = monster[\"moc\"]; return (v === 0 || v === \"0\" || v == null) ? \"\" : String(v);"
+            },
+            {
+              "type": "property",
+              "id": "9a65b05e15427fe2",
+              "properties": [
+                "wyk"
+              ],
+              "display": "WYK",
+              "conditioned": true,
+              "callback": "const v = monster[\"wyk\"]; return (v === 0 || v === \"0\" || v == null) ? \"\" : String(v);"
+            }
+          ]
+        },
+        {
+          "type": "group",
+          "id": "c2c8f2dfc5b58424",
+          "hasRule": true,
+          "conditioned": true,
+          "properties": [
+            "pw",
+            "pm",
+            "pocz",
+            "szczescie",
+            "ruch",
+            "mo",
+            "krzepa"
+          ],
+          "nested": [
+            {
+              "type": "property",
+              "id": "965e7eea2b67bdb5",
+              "properties": [
+                "pw"
+              ],
+              "display": "Punkty Wytrzymałości",
+              "conditioned": true,
+              "callback": "const a = monster.pw, b = monster.pw_max; if (!a && !b) return \"\"; return b ? `${a ?? 0} / ${b}` : String(a);"
+            },
+            {
+              "type": "property",
+              "id": "74604d0da532bf55",
+              "properties": [
+                "pm"
+              ],
+              "display": "Punkty Magii",
+              "conditioned": true,
+              "callback": "const a = monster.pm, b = monster.pm_max; if (!a && !b) return \"\"; return b ? `${a ?? 0} / ${b}` : String(a);"
+            },
+            {
+              "type": "property",
+              "id": "737264ccf89991d7",
+              "properties": [
+                "pocz"
+              ],
+              "display": "Poczytalność",
+              "conditioned": true,
+              "callback": "const v = monster[\"pocz\"]; return (v === 0 || v === \"0\" || v == null) ? \"\" : String(v);"
+            },
+            {
+              "type": "property",
+              "id": "e4a0908e27a6e1fb",
+              "properties": [
+                "szczescie"
+              ],
+              "display": "Szczęście",
+              "conditioned": true,
+              "callback": "const v = monster[\"szczescie\"]; return (v === 0 || v === \"0\" || v == null) ? \"\" : String(v);"
+            },
+            {
+              "type": "property",
+              "id": "4846cc038c46fe0d",
+              "properties": [
+                "ruch"
+              ],
+              "display": "Ruch",
+              "conditioned": true,
+              "callback": "const v = monster[\"ruch\"]; return (v === 0 || v === \"0\" || v == null) ? \"\" : String(v);"
+            },
+            {
+              "type": "property",
+              "id": "3b13a1f358e2c06c",
+              "properties": [
+                "mo"
+              ],
+              "display": "Modyfikator Obrażeń",
+              "conditioned": true,
+              "callback": "const v = monster[\"mo\"]; return (v === 0 || v === \"0\" || v == null) ? \"\" : String(v);"
+            },
+            {
+              "type": "property",
+              "id": "595ec86f59d6d356",
+              "properties": [
+                "krzepa"
+              ],
+              "display": "Krzepa",
+              "conditioned": true,
+              "callback": "const v = monster[\"krzepa\"]; return (v === 0 || v === \"0\" || v == null) ? \"\" : String(v);"
+            }
+          ]
+        },
+        {
+          "type": "traits",
+          "id": "451522ec44acdf66",
+          "properties": [
+            "umiejetnosci"
+          ],
+          "heading": "Umiejętności",
+          "conditioned": true,
+          "dice": true
+        },
+        {
+          "type": "traits",
+          "id": "79a8eb7ca3ab3899",
+          "properties": [
+            "ataki"
+          ],
+          "heading": "Ataki",
+          "conditioned": true,
+          "dice": true
+        },
+        {
+          "type": "traits",
+          "id": "430266606fd12587",
+          "properties": [
+            "cechy_specjalne"
+          ],
+          "heading": "Cechy szczególne",
+          "conditioned": true,
+          "dice": true
+        }
+      ],
+      "edited": true
+    }
+  ],
+  "default": "zolty-znak",
   "useDice": true,
   "renderDice": false,
   "export": true,

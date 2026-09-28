@@ -1,11 +1,12 @@
 ---
+name: "Rodzina Carlino"
 kategoria: "organizacja"
 typ: "Mafia"
 rodzic:
 lokacje: ["[[Denver]]"]
 tagi: []
 prywatne: false
-obraz: "[[Rodzina Carlino.png]]"
+image: "[[Rodzina Carlino.png]]"
 aliases: []
 kanka_id: 7387291
 ---

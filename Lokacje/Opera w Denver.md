@@ -1,10 +1,11 @@
 ---
+name: "Opera w Denver"
 kategoria: "lokacja"
 typ: "Opera"
 rodzic: "[[Denver]]"
 tagi: []
 prywatne: false
-obraz: "[[Opera w Denver.png]]"
+image: "[[Opera w Denver.png]]"
 aliases: []
 kanka_id: 7807276
 ---

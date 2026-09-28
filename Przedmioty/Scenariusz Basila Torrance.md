@@ -1,4 +1,5 @@
 ---
+name: "Scenariusz Basila Torrance"
 kategoria: "przedmiot"
 typ:
 rodzic:
@@ -8,7 +9,7 @@ cena:
 rozmiar:
 tagi: []
 prywatne: false
-obraz: "[[Scenariusz Basila Torrance.png]]"
+image: "[[Scenariusz Basila Torrance.png]]"
 aliases: []
 kanka_id: 7807287
 waga:

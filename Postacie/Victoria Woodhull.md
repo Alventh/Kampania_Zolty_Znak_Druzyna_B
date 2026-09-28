@@ -1,4 +1,5 @@
 ---
+name: "Victoria Woodhull"
 kategoria: "postać"
 typ: "Gracz"
 gracz:
@@ -38,14 +39,13 @@ szalenstwo_chwilowe: false
 szalenstwo_dlugotrwale: false
 tagi: []
 prywatne: false
-obraz: "[[Victoria Woodhull.webp]]"
+image: "[[Victoria Woodhull.webp]]"
 aliases: []
 cssclasses: ["karta-postaci"]
 kanka_id: 6934630
 ---
 
-```dataviewjs
-await dv.view("_Szablony/widoki/infobox")
+```statblock
 ```
 
 ## Karta badacza

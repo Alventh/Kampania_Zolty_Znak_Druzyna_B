@@ -1,10 +1,11 @@
 ---
+name: "Placówka Yithian"
 kategoria: "lokacja"
 typ: "Ruiny"
 rodzic: "[[Jezioro Sloan]]"
 tagi: []
 prywatne: true
-obraz:
+image:
 aliases: []
 kanka_id: 7374807
 tags: ["mg"]

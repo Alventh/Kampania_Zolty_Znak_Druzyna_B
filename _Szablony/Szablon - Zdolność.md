@@ -1,11 +1,12 @@
 ---
+name: "<% tp.file.title %>"
 kategoria: "zdolność"
 typ:
 rodzic:
 koszt:
 tagi: []
 prywatne: false
-obraz:
+image:
 aliases: []
 kanka_id:
 ---

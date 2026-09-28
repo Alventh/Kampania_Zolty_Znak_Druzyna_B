@@ -1,11 +1,12 @@
 ---
+name: "Ekspedycja"
 kategoria: "organizacja"
 typ:
 rodzic:
 lokacje: []
 tagi: []
 prywatne: false
-obraz:
+image:
 aliases: []
 kanka_id: 7861228
 ---

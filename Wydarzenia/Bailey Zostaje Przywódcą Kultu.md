@@ -1,4 +1,5 @@
 ---
+name: "Bailey Zostaje Przywódcą Kultu"
 kategoria: "wydarzenie"
 typ:
 rodzic:
@@ -7,7 +8,7 @@ kalendarz: "[[Kalendarz]]"
 lokacja: "[[Denver]]"
 tagi: []
 prywatne: false
-obraz: "[[Bailey Zostaje Przywódcą Kultu.jpg]]"
+image: "[[Bailey Zostaje Przywódcą Kultu.jpg]]"
 aliases: []
 kanka_id: 6935346
 fc-calendar: "Kalendarz"

@@ -1,10 +1,11 @@
 ---
+name: "Chicago"
 kategoria: "lokacja"
 typ: "Miasto"
 rodzic: "[[Illinois]]"
 tagi: []
 prywatne: false
-obraz: "[[Chicago.png]]"
+image: "[[Chicago.png]]"
 aliases: []
 kanka_id: 6935939
 ---

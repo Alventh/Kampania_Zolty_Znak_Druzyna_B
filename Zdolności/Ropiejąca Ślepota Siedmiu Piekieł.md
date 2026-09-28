@@ -1,11 +1,12 @@
 ---
+name: "Ropiejąca Ślepota Siedmiu Piekieł"
 kategoria: "zdolność"
 typ: "Zaklęcie"
 rodzic:
 koszt:
 tagi: []
 prywatne: false
-obraz: "[[Ropiejąca Ślepota Siedmiu Piekieł.png]]"
+image: "[[Ropiejąca Ślepota Siedmiu Piekieł.png]]"
 aliases: []
 kanka_id: 6547886
 ---

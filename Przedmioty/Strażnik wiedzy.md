@@ -1,4 +1,5 @@
 ---
+name: "Strażnik wiedzy"
 kategoria: "przedmiot"
 typ: "Obraz"
 rodzic: "[[Obrazy]]"
@@ -8,7 +9,7 @@ cena:
 rozmiar:
 tagi: []
 prywatne: true
-obraz: "[[Strażnik wiedzy.png]]"
+image: "[[Strażnik wiedzy.png]]"
 aliases: []
 kanka_id: 6937154
 waga:

@@ -1,10 +1,11 @@
 ---
+name: "Komnata pod posiadłością Bethania"
 kategoria: "lokacja"
 typ: "Komnata"
 rodzic: "[[Bethania]]"
 tagi: []
 prywatne: false
-obraz: "[[Komnata pod posiadłością Bethania.png]]"
+image: "[[Komnata pod posiadłością Bethania.png]]"
 aliases: []
 kanka_id: 6934595
 ---

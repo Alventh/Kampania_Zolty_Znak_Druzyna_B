@@ -1,10 +1,11 @@
 ---
+name: "Carcossa"
 kategoria: "lokacja"
 typ: "Wymiar"
 rodzic: "[[Hiady]]"
 tagi: []
 prywatne: false
-obraz: "[[Carcossa.webp]]"
+image: "[[Carcossa.webp]]"
 aliases: []
 kanka_id: 6547314
 ---

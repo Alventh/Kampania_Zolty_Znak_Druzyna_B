@@ -1,11 +1,12 @@
 ---
+name: "Kraj"
 kategoria: "tag"
 typ:
 rodzic:
 kolor:
 tagi: []
 prywatne: false
-obraz:
+image:
 aliases: []
 kanka_id: 6547178
 ---

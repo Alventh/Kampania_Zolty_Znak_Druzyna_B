@@ -1,10 +1,11 @@
 ---
+name: "Denver"
 kategoria: "lokacja"
 typ: "Miasto"
 rodzic: "[[Colorado]]"
 tagi: []
 prywatne: false
-obraz: "[[Denver.jpg]]"
+image: "[[Denver.jpg]]"
 aliases: []
 kanka_id: 6547194
 ---

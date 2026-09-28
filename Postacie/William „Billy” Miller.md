@@ -1,4 +1,5 @@
 ---
+name: "William \"Billy\" Miller"
 kategoria: "postać"
 typ: "NPC"
 tytuł: "Ministrant"
@@ -11,16 +12,31 @@ rodziny: ["[[Miller]]"]
 rasy: []
 organizacje: []
 zdolności: []
+s:
+kon:
+bc:
+zr:
+wyg:
+int:
+moc:
+wyk:
+pw:
+pm:
+pocz:
+ruch:
+mo:
+krzepa:
+umiejetnosci: []
+ataki: []
 tagi: []
 prywatne: false
-obraz: "[[Ruth Miller.png]]"
+image: "[[Ruth Miller.png]]"
 aliases: ["William \"Billy\" Miller"]
 cssclasses: ["karta-postaci"]
 kanka_id: 6940289
 ---
 
-```dataviewjs
-await dv.view("_Szablony/widoki/infobox")
+```statblock
 ```
 
 ## Opis
@@ -42,21 +58,6 @@ Zmarł w [[Komnata pod posiadłością Bethania]] w trakcie wydarzenia [[Śmier�
 
 ## Osobowość
 
-
-> [!statblock]- Statystyki (CoC 7e)
-> | S | KON | BC | ZR | WYG | INT | MOC | WYK |
-> | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-> |  |  |  |  |  |  |  |  |
->
-> **PW:**  · **PM:**  · **Poczytalność:**  · **Ruch:**  · **MO:**  · **Krzepa:** 
->
-> | Umiejętność | % | ½ | ⅕ |
-> | --- | :-: | :-: | :-: |
-> |  |  |  |  |
->
-> **Ataki:** 
->
-> Rzut: `dice: 1d100` · Obrażenia: `dice: 1d3`
 
 ## Powiązania
 

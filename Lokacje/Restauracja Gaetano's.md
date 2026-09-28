@@ -1,10 +1,11 @@
 ---
+name: "Restauracja Gaetano's"
 kategoria: "lokacja"
 typ: "Restauracja"
 rodzic: "[[Denver]]"
 tagi: []
 prywatne: false
-obraz: "[[Restauracja Gaetano's.png]]"
+image: "[[Restauracja Gaetano's.png]]"
 aliases: []
 kanka_id: 7387339
 ---

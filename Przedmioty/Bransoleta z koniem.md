@@ -1,4 +1,5 @@
 ---
+name: "Bransoleta  z koniem"
 kategoria: "przedmiot"
 typ: "Artefakt"
 rodzic: "[[Artefakty]]"
@@ -8,7 +9,7 @@ cena:
 rozmiar:
 tagi: []
 prywatne: false
-obraz: "[[Bransoleta z koniem.png]]"
+image: "[[Bransoleta z koniem.png]]"
 aliases: ["Bransoleta  z koniem"]
 kanka_id: 6934783
 waga:

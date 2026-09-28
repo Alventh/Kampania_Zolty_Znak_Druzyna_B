@@ -1,4 +1,5 @@
 ---
+name: "Wyjazd rodziny Epines do Nowego Świata"
 kategoria: "wydarzenie"
 typ:
 rodzic: "[[Rewolucja Francuska]]"
@@ -7,7 +8,7 @@ kalendarz: "[[Kalendarz]]"
 lokacja: "[[Francja]]"
 tagi: []
 prywatne: false
-obraz:
+image:
 aliases: ["Wyjazd rodziny Epines do Nowego Świata"]
 kanka_id: 6571661
 fc-calendar: "Kalendarz"

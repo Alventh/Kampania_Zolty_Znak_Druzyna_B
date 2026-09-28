@@ -1,4 +1,5 @@
 ---
+name: "Pejzaż o zachodzie."
 kategoria: "przedmiot"
 typ:
 rodzic: "[[Obrazy]]"
@@ -8,7 +9,7 @@ cena:
 rozmiar:
 tagi: []
 prywatne: false
-obraz: "[[Pejzaż o zachodzie.png]]"
+image: "[[Pejzaż o zachodzie.png]]"
 aliases: ["Pejzaż o zachodzie."]
 kanka_id: 7807527
 waga:

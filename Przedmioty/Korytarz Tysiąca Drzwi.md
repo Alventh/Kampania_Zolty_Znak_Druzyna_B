@@ -1,4 +1,5 @@
 ---
+name: "Korytarz Tysiąca Drzwi"
 kategoria: "przedmiot"
 typ: "Obraz"
 rodzic: "[[Obrazy]]"
@@ -8,7 +9,7 @@ cena:
 rozmiar:
 tagi: []
 prywatne: true
-obraz: "[[Korytarz Tysiąca Drzwi.jpg]]"
+image: "[[Korytarz Tysiąca Drzwi.jpg]]"
 aliases: []
 kanka_id: 6933039
 waga:

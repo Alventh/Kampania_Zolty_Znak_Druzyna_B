@@ -1,4 +1,5 @@
 ---
+name: "Borys Schmidt"
 kategoria: "postać"
 typ: "Gracz"
 gracz:
@@ -38,14 +39,13 @@ szalenstwo_chwilowe: false
 szalenstwo_dlugotrwale: false
 tagi: []
 prywatne: false
-obraz: "[[Borys Schmidt.png]]"
+image: "[[Borys Schmidt.png]]"
 aliases: []
 cssclasses: ["karta-postaci"]
 kanka_id: 6933031
 ---
 
-```dataviewjs
-await dv.view("_Szablony/widoki/infobox")
+```statblock
 ```
 
 ## Karta badacza

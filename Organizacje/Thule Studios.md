@@ -1,11 +1,12 @@
 ---
+name: "Thule Studios"
 kategoria: "organizacja"
 typ: "Studio Filmowe"
 rodzic: "[[Kult Hastura]]"
 lokacje: ["[[Denver]]"]
 tagi: []
 prywatne: false
-obraz: "[[Thule Studios.png]]"
+image: "[[Thule Studios.png]]"
 aliases: []
 kanka_id: 6934719
 ---

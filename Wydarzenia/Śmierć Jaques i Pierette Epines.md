@@ -1,4 +1,5 @@
 ---
+name: "Śmierć Jaques i Pierette Epines"
 kategoria: "wydarzenie"
 typ: "Śmierć"
 rodzic: "[[Pełnia Aldebaran]]"
@@ -7,7 +8,7 @@ kalendarz: "[[Kalendarz]]"
 lokacja:
 tagi: []
 prywatne: false
-obraz: "[[Śmierć Jaques i Pierette Epines.png]]"
+image: "[[Śmierć Jaques i Pierette Epines.png]]"
 aliases: []
 kanka_id: 6934597
 fc-calendar: "Kalendarz"

@@ -1,4 +1,5 @@
 ---
+name: "Cole pomaga kapitanowi Sisty"
 kategoria: "wydarzenie"
 typ:
 rodzic:
@@ -7,7 +8,7 @@ kalendarz: "[[Kalendarz]]"
 lokacja:
 tagi: []
 prywatne: false
-obraz:
+image:
 aliases: []
 kanka_id: 6967693
 fc-calendar: "Kalendarz"

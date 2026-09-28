@@ -1,10 +1,11 @@
 ---
+name: "Aldebaran"
 kategoria: "lokacja"
 typ: "Gwiazda"
 rodzic: "[[Hiady]]"
 tagi: []
 prywatne: false
-obraz: "[[Aldebaran.png]]"
+image: "[[Aldebaran.png]]"
 aliases: []
 kanka_id: 6934256
 ---

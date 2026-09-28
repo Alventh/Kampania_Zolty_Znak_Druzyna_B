@@ -1,10 +1,11 @@
 ---
+name: "<% tp.file.title %>"
 kategoria: "lokacja"
 typ:
 rodzic:
 tagi: []
 prywatne: false
-obraz:
+image:
 aliases: []
 kanka_id:
 ---

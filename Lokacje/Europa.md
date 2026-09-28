@@ -1,10 +1,11 @@
 ---
+name: "Europa"
 kategoria: "lokacja"
 typ: "Kontynent"
 rodzic: "[[Ziemia]]"
 tagi: []
 prywatne: false
-obraz: "[[Europa.jpg]]"
+image: "[[Europa.jpg]]"
 aliases: []
 kanka_id: 6932742
 ---

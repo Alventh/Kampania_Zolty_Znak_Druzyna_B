@@ -1,10 +1,11 @@
 ---
+name: "Baltimore"
 kategoria: "lokacja"
 typ: "Miasto"
 rodzic: "[[USA (lokacja)]]"
 tagi: []
 prywatne: false
-obraz: "[[Baltimore.png]]"
+image: "[[Baltimore.png]]"
 aliases: []
 kanka_id: 6932911
 ---

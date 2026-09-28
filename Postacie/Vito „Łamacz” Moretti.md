@@ -1,4 +1,5 @@
 ---
+name: "Vito \"Łamacz\" Moretti"
 kategoria: "postać"
 typ:
 tytuł:
@@ -11,16 +12,31 @@ rodziny: []
 rasy: []
 organizacje: ["[[Rodzina Carlino]]"]
 zdolności: []
+s:
+kon:
+bc:
+zr:
+wyg:
+int:
+moc:
+wyk:
+pw:
+pm:
+pocz:
+ruch:
+mo:
+krzepa:
+umiejetnosci: []
+ataki: []
 tagi: []
 prywatne: false
-obraz: "[[Vito „Łamacz” Moretti.png]]"
+image: "[[Vito „Łamacz” Moretti.png]]"
 aliases: ["Vito \"Łamacz\" Moretti"]
 cssclasses: ["karta-postaci"]
 kanka_id: 7387281
 ---
 
-```dataviewjs
-await dv.view("_Szablony/widoki/infobox")
+```statblock
 ```
 
 ## Opis
@@ -34,21 +50,6 @@ Obecnie pilnuje spłaty długu za uszkodzony projektor w [[Kino Rivoli]]
 
 ## Osobowość
 
-
-> [!statblock]- Statystyki (CoC 7e)
-> | S | KON | BC | ZR | WYG | INT | MOC | WYK |
-> | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-> |  |  |  |  |  |  |  |  |
->
-> **PW:**  · **PM:**  · **Poczytalność:**  · **Ruch:**  · **MO:**  · **Krzepa:** 
->
-> | Umiejętność | % | ½ | ⅕ |
-> | --- | :-: | :-: | :-: |
-> |  |  |  |  |
->
-> **Ataki:** 
->
-> Rzut: `dice: 1d100` · Obrażenia: `dice: 1d3`
 
 ## Powiązania
 

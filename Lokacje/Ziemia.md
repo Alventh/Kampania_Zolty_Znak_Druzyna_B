@@ -1,10 +1,11 @@
 ---
+name: "Ziemia"
 kategoria: "lokacja"
 typ: "Planeta"
 rodzic:
 tagi: []
 prywatne: false
-obraz: "[[Ziemia.png]]"
+image: "[[Ziemia.png]]"
 aliases: []
 kanka_id: 6547342
 ---

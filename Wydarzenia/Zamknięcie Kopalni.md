@@ -1,4 +1,5 @@
 ---
+name: "Zamknięcie Kopalni"
 kategoria: "wydarzenie"
 typ:
 rodzic:
@@ -7,7 +8,7 @@ kalendarz: "[[Kalendarz]]"
 lokacja: "[[Kopalnia w Cripple Creek]]"
 tagi: []
 prywatne: false
-obraz: "[[Zamknięcie Kopalni.png]]"
+image: "[[Zamknięcie Kopalni.png]]"
 aliases: []
 kanka_id: 6940060
 fc-calendar: "Kalendarz"

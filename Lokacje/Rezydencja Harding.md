@@ -1,10 +1,11 @@
 ---
+name: "Rezydencja Harding"
 kategoria: "lokacja"
 typ:
 rodzic: "[[Pluckley]]"
 tagi: []
 prywatne: false
-obraz:
+image:
 aliases: []
 kanka_id: 9260893
 ---

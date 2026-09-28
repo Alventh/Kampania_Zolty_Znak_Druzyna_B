@@ -1,10 +1,11 @@
 ---
+name: "Nowy Jork"
 kategoria: "lokacja"
 typ:
 rodzic: "[[USA (lokacja)]]"
 tagi: []
 prywatne: false
-obraz:
+image:
 aliases: []
 kanka_id: 6945139
 ---

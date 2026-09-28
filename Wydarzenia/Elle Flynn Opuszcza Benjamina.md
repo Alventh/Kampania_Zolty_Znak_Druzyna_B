@@ -1,4 +1,5 @@
 ---
+name: "Elle Flynn Opuszcza Benjamina"
 kategoria: "wydarzenie"
 typ:
 rodzic:
@@ -7,7 +8,7 @@ kalendarz: "[[Kalendarz]]"
 lokacja: "[[Boston]]"
 tagi: []
 prywatne: false
-obraz: "[[Elle Flynn.png]]"
+image: "[[Elle Flynn.png]]"
 aliases: []
 kanka_id: 6935486
 fc-calendar: "Kalendarz"

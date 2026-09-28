@@ -1,11 +1,12 @@
 ---
+name: "Mapa świata"
 kategoria: "mapa"
 typ: "Planeta"
 rodzic:
 lokacja: "[[Ziemia]]"
 tagi: []
 prywatne: false
-obraz: "[[Mapa świata.jpg]]"
+image: "[[Mapa świata.jpg]]"
 aliases: []
 kanka_id: 6547365
 ---

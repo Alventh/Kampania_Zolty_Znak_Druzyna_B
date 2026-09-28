@@ -1,10 +1,11 @@
 ---
+name: "Biuro Agencji Detektywistycznej"
 kategoria: "lokacja"
 typ: "Biuro"
 rodzic: "[[Denver]]"
 tagi: []
 prywatne: false
-obraz: "[[Biuro Agencji Detektywistycznej.png]]"
+image: "[[Biuro Agencji Detektywistycznej.png]]"
 aliases: []
 kanka_id: 6937552
 ---

@@ -1,4 +1,5 @@
 ---
+name: "Księgi"
 kategoria: "przedmiot"
 typ:
 rodzic:
@@ -8,7 +9,7 @@ cena:
 rozmiar:
 tagi: []
 prywatne: false
-obraz: "[[Księgi.png]]"
+image: "[[Księgi.png]]"
 aliases: []
 kanka_id: 6547967
 waga:

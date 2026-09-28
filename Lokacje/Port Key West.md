@@ -1,10 +1,11 @@
 ---
+name: "Port Key West"
 kategoria: "lokacja"
 typ: "Miasto"
 rodzic: "[[USA (lokacja)]]"
 tagi: []
 prywatne: false
-obraz: "[[Port Key West.png]]"
+image: "[[Port Key West.png]]"
 aliases: []
 kanka_id: 6932872
 ---

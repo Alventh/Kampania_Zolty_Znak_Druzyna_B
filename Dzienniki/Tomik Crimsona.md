@@ -1,4 +1,5 @@
 ---
+name: "Tomik Crimsona"
 kategoria: "dziennik"
 typ:
 rodzic:
@@ -9,7 +10,7 @@ autor:
 lokacja:
 tagi: []
 prywatne: false
-obraz:
+image:
 aliases: []
 kanka_id: 7002362
 ---

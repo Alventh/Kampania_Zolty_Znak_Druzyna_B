@@ -1,10 +1,11 @@
 ---
+name: "Pluckley"
 kategoria: "lokacja"
 typ: "Miasto"
 rodzic: "[[USA (lokacja)]]"
 tagi: []
 prywatne: false
-obraz:
+image:
 aliases: []
 kanka_id: 6934764
 ---

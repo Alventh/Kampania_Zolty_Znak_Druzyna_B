@@ -1,11 +1,12 @@
 ---
+name: "Redakcja Denver Post"
 kategoria: "organizacja"
 typ: "Organizacja"
 rodzic:
 lokacje: ["[[Denver]]"]
 tagi: []
 prywatne: false
-obraz: "[[Redakcja Denver Post.png]]"
+image: "[[Redakcja Denver Post.png]]"
 aliases: []
 kanka_id: 6547835
 ---
