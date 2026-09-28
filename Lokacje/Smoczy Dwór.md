@@ -16,7 +16,7 @@ kanka_id: 6940215
 
 Ekskluzywny lokal do spożywania Opium i innych uciech cielesnych znajdujący się w [[Chinatown (lokacja)|Chinatown]]. Należy do [[Triady]] jest prowadzony przez [[Madam Feng]]
 
-Pracowała tu chodź krótko [[Elle Flynn]], zanim została zabrana przez [[Basil Torrance]].
+Pracowała tu choć krótko [[Elle Flynn]], zanim została zabrana przez [[Basil Torrance]].
 
 Miejsce wydarzeń [[Chinatown (wydarzenie)|Chinatown]]
 

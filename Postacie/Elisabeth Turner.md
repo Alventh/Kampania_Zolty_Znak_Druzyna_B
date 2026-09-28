@@ -42,7 +42,7 @@ kanka_id: 6940124
 
 ## Opis
 
-Córka [[Charles Turner]]. pracuje jako barmanka w gospodzie ojca. Poruszona jednym z kazań [[Edmund]] postanawia wyznać mu prawdę o tym, że jej ojciec oraz część mieszkańców [[Cripple Creek]] składa dziwne ofiary na [[Ołtarz w górach]] jakiemuś pogańskiemu bożkowi.
+Córka [[Charles Turner]]. Pracuje jako barmanka w gospodzie ojca. Poruszona jednym z kazań [[Edmund]] postanawia wyznać mu prawdę o tym, że jej ojciec oraz część mieszkańców [[Cripple Creek]] składa dziwne ofiary na [[Ołtarz w górach]] jakiemuś pogańskiemu bożkowi.
 
 ## Powiązane wpisy
 

@@ -42,9 +42,9 @@ kanka_id: 6940289
 
 ## Opis
 
-14 letni chłopak. Syn [[Hank Miller]] i [[Eunice Miller]] oraz brat [[Ruth Miller]]
+14-letni chłopak. Syn [[Hank Miller]] i [[Eunice Miller]] oraz brat [[Ruth Miller]]
 
-Był ministrantem w [[Kościół św Kevina]] w [[Cripple Creek]] pracował blisko z [[Edmund]] którego darzył szacunkiem.
+Był ministrantem w [[Kościół św. Kevina]] w [[Cripple Creek]] pracował blisko z [[Edmund]] którego darzył szacunkiem.
 
 Był najlepszym przyjacielem [[Marvin Folger]] i nie odwrócił się od niego nawet kiedy chłopak został straszliwie oszpecony.
 

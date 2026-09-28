@@ -50,7 +50,7 @@ Zachorował po śmierci swego ojca. Straszliwie oszpecony chorobą, nie dawał z
 
 To badania jego krwi przeraziły [[Ernest Ceriani]]
 
-Zmarł 23 Sierpnia 1920 roku, ostatecznie wyssany przez [[Ethan Epines]] i jego [[Pnącza Czarnych Róż]].
+Zmarł 23 sierpnia 1920 roku, ostatecznie wyssany przez [[Ethan Epines]] i jego [[Pnącza Czarnych Róż]].
 
 Pochowany przez [[Edmund]] i [[Benjamin Smith]]
 

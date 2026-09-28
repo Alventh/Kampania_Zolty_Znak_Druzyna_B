@@ -17,7 +17,7 @@ kanka_id: 6547292
 
 Rodzina Epines z [[Rennes Le Château]].
 
-Przeprowadzili się oni w trakcie rewolucji Francuskiej do USA.
+Przeprowadzili się oni w trakcie rewolucji francuskiej do USA.
 
 Byli założycielami miasteczka [[Cripple Creek]].
 

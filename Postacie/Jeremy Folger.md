@@ -46,7 +46,7 @@ Górnik w [[Kopalnia w Cripple Creek]]
 
 Mąż [[Jane Folger]] i ojciec [[Marvin Folger]]
 
-Umarł niedługo po śmierci [[Albert Quint]] i  . Jako jeden z niewielu zdecydował się próbować ich odkopać. Zobaczył ducha [[Leo Galloway]] i przerażony umarł kiedy w panice uciekając nadział się oczodołem na własny kilof.
+Umarł niedługo po śmierci [[Albert Quint]] i. Jako jeden z niewielu zdecydował się próbować ich odkopać. Zobaczył ducha [[Leo Galloway]] i przerażony umarł kiedy w panice uciekając nadział się oczodołem na własny kilof.
 
 ## Powiązane wpisy
 

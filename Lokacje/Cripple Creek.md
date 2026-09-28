@@ -14,7 +14,7 @@ kanka_id: 6547299
 
 ## Opis
 
-Cripple Creek. Miasto w [[Colorado]] Założone przez rodzinę [[Epines]] jako górnicza osada w Górach skalistych.
+Cripple Creek. Miasto w [[Colorado]]. Założone przez rodzinę [[Epines]] jako górnicza osada w Górach Skalistych.
 
 ## Podrzędne
 

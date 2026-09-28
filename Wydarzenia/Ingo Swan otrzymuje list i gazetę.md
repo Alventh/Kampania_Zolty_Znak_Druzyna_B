@@ -1,5 +1,5 @@
 ---
-name: "Ingo Swan otrzymuje list i gazetę."
+name: "Ingo Swan otrzymuje list i gazetę"
 kategoria: "wydarzenie"
 typ:
 rodzic:

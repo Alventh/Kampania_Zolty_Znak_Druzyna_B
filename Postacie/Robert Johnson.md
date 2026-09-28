@@ -42,7 +42,7 @@ kanka_id: 6934786
 
 ## Opis
 
-Muzyk grający swego czasu w speakeasy [[Williams & Graham]]&Graham wraz z kilkoma innymi czarnoskórymi mężczyznami. Zostali porwani przez [[William Candlish]] który wykorzystał członków [[Ku Klux Klan]] w szeregach [[Policja w Denver]] aby zbierać ofiary dla [[Hastur]] które [[Kult Hastura]] planował złożyć 8 Sierpnia 1920 roku w trakcie [[Pełnia Aldebaran]]
+Muzyk grający swego czasu w speakeasy [[Williams & Graham]] wraz z kilkoma innymi czarnoskórymi mężczyznami. Zostali porwani przez [[William Candlish]] który wykorzystał członków [[Ku Klux Klan]] w szeregach [[Policja w Denver]] aby zbierać ofiary dla [[Hastur]] które [[Kult Hastura]] planował złożyć 8 sierpnia 1920 roku w trakcie [[Pełnia Aldebaran]]
 
 Został przybity do krzyża, ale uratowany przez [[Lilian Harding]] [[Cole Phelps]] [[Benjamin Smith]] i [[Axel Bonton]]
 

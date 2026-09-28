@@ -23,11 +23,11 @@ fc-date: "1814-01-23"
 
 23.01.1814 r.
 
-Górnicy z południowo zachodniej sztolni natrafili na coś dziwnego. W trakcie rutynowego drążenia korytarzy, jeden z górników zamachnął się i jego kilof przebił skałę trafiając na pustą przestrzeń po drugiej stronie. Natychmiast kazałem sprawdzenie planów korytarzy by upewnić się, iż nie natrafiliśmy na własne wyrobisko, ale nic na to nie wskazuje.
+Górnicy z południowo-zachodniej sztolni natrafili na coś dziwnego. W trakcie rutynowego drążenia korytarzy, jeden z górników zamachnął się i jego kilof przebił skałę trafiając na pustą przestrzeń po drugiej stronie. Natychmiast kazałem sprawdzenie planów korytarzy by upewnić się, iż nie natrafiliśmy na własne wyrobisko, ale nic na to nie wskazuje.
 
 24.02.1814.r
 
-Otworzono przejście do owej pustej przestrzeni, wykorzystaliśmy kanarki by upewnić się że nie była to jaskinia z nagromadzonym metanem. Kanarki świerkają do teraz, ludzie też czuli się dobrze, więc nie widząc zagrożenia, zezwoliłem na eksplorację pustej przestrzeni. Początkowo sprawiała wrażenie ogromnej, ale po porządnym oświetleniu całości wiemy już że ma mniej więcej powierzchnie i to we wszystkich trzech wymiarach, co nasz kościół. Wysoka grota o podłużnym kształcie.
+Otworzono przejście do owej pustej przestrzeni, wykorzystaliśmy kanarki by upewnić się że nie była to jaskinia z nagromadzonym metanem. Kanarki ćwierkają do teraz, ludzie też czuli się dobrze, więc nie widząc zagrożenia, zezwoliłem na eksplorację pustej przestrzeni. Początkowo sprawiała wrażenie ogromnej, ale po porządnym oświetleniu całości wiemy już że ma mniej więcej powierzchnię i to we wszystkich trzech wymiarach, co nasz kościół. Wysoka grota o podłużnym kształcie.
 
 W samym jej środku znajduje się coś co przypomina naturalnie wyżłobiony w litej skale stół lub może ołtarz? Jest na nim niewielki kamień, który ma chyba właściwości fluorescencyjne, zdaje się świecić własnym światłem odkąd górnicy pierwszy raz weszli do środka. Może naświetlił się od lamp naftowych a teraz oddaje światło?
 

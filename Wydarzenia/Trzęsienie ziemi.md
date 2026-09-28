@@ -19,11 +19,11 @@ fc-date: "1920-08-21"
 
 ## Opis
 
-Trzęsienie ziemi mające miejsce w [[Cripple Creek]] w nocy po przyjeździe badaczy( [[Przyjazd do Cripple Creek]] ).
+Trzęsienie ziemi mające miejsce w [[Cripple Creek]] w nocy po przyjeździe badaczy([[Przyjazd do Cripple Creek]]).
 
-Było spowodowane agresywną ekspancją [[Pnącza Czarnych Róż]] w tunelach pod miastem, co doprowadziło do destabilizacji terenu, zawalenia czesći korytarzy i wstrząsów.
+Było spowodowane agresywną ekspansją [[Pnącza Czarnych Róż]] w tunelach pod miastem, co doprowadziło do destabilizacji terenu, zawalenia części korytarzy i wstrząsów.
 
-Efektem były zniszczone domy, odkryte pomieszczenie w katakumbach [[Kościół św Kevina]], zawalony tunel wyjazdowy z miasteczka, oraz zapadnięcie się gruntu pod autem badaczy zaparkowanym koło szkoły.
+Efektem były zniszczone domy, odkryte pomieszczenie w katakumbach [[Kościół św. Kevina]], zawalony tunel wyjazdowy z miasteczka, oraz zapadnięcie się gruntu pod autem badaczy zaparkowanym koło szkoły.
 
 ## Podrzędne
 

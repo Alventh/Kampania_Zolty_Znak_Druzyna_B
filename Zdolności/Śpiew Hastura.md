@@ -20,15 +20,15 @@ Zaklęcie używane przez [[William Candlish]] w trakcie walki na [[Farma Goździ
 Ciało ofiary pokrywa się ranami i ropiejącymi bliznami.
 
 Wielki
-Królu, Opiekunie tysińca drzwi. Pożeraczu dusz. Tyś zasiadasz na tronie w
-martwym mięści [[Carcossa]] nad jeziorem Hali gdzie głosy martwych obieją się echem
+Królu, Opiekunie tysiąca drzwi. Pożeraczu dusz. Tyś zasiadasz na tronie w
+martwym mieście [[Carcossa]] nad jeziorem Hali gdzie głosy martwych odbijają się echem
 na pustych uliczkach. Ześlij blizny na mych wrogów. Niech ich ciała pokryją się
 ropą i przywiedź ich do śmierci.
 
 Działanie:
 
-1k6 obrażeń na runde po 3 rundach rzucania. Utrzmanie 1k4
-puntów magii na rundę. (może utrzymać minimum 2 rundy (8pkt magii ) Punktów
+1k6 obrażeń na rundę po 3 rundach rzucania. Utrzymanie 1k4
+punktów magii na rundę. (może utrzymać minimum 2 rundy (8pkt magii) Punktów
 obrażeń na rundę przez cały czas, kiedy czar jest
 
 aktywny. Co dwie rundy okaleczenia sprawiają, że WYG

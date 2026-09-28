@@ -42,7 +42,7 @@ kanka_id: 7138310
 
 ## Opis
 
-Molly Whitmore, studentka Literatury na [[Uniwersytet Denver (lokacja)|Uniwersytet Denver]]. Zakochana w [[Nolan Hawthorne]], poszukuje dla niego manuskryptów [[Dante Aligheri]] z [[Boska Komedia]]
+Molly Whitmore, studentka Literatury na [[Uniwersytet Denver (lokacja)|Uniwersytet Denver]]. Zakochana w [[Nolan Hawthorne]], poszukuje dla niego manuskryptów [[Dante Alighieri]] z [[Boska Komedia]]
 
 ## Powiązane wpisy
 

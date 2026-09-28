@@ -42,7 +42,7 @@ kanka_id: 7139620
 
 ## Opis
 
-Dziennikarz w [[Redakcja Denver Post]]. Autor [[Artykuł o anomaliach]]. Jest najlepszym dziennikarzem śledczym w readakcji a przynajmniej tak mówi o nim [[Dean „Dinky” Singleton|Dean "Dinky" Singleton]]. Jego asystentką jest młoda [[Jane Harwood]]
+Dziennikarz w [[Redakcja Denver Post]]. Autor [[Artykuł o anomaliach]]. Jest najlepszym dziennikarzem śledczym w redakcji a przynajmniej tak mówi o nim [[Dean „Dinky” Singleton|Dean "Dinky" Singleton]]. Jego asystentką jest młoda [[Jane Harwood]]
 
 ## Powiązane wpisy
 

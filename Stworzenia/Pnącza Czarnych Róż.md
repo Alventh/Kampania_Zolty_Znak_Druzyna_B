@@ -17,7 +17,7 @@ kanka_id: 6934433
 
 Kwiaty pochodzące z [[Rennes Le Château]] przewiezione do [[Cripple Creek]] przez rodzinę [[Epines]].
 
-W wyniku [[Nieudany Rytuał Otwarcia Bramy]] [[Ethan Epines]] związał w [[Komnata pod posiadłością Bethania]] mocą swego ducha z wyciekającą z niego krwią. Gdy po latach korzenie róż przedostały się z ogrodów [[Bethania]] głęboko pod ziemię i zetknęły się z jego krwią, ten związał się również z nimi. Wykorzystywał je do wysyania sił witalnych ze zwierząt i ludzi w całej okolicy.
+W wyniku [[Nieudany Rytuał Otwarcia Bramy]] [[Ethan Epines]] związał w [[Komnata pod posiadłością Bethania]] mocą swego ducha z wyciekającą z niego krwią. Gdy po latach korzenie róż przedostały się z ogrodów [[Bethania]] głęboko pod ziemię i zetknęły się z jego krwią, ten związał się również z nimi. Wykorzystywał je do wysysania sił witalnych ze zwierząt i ludzi w całej okolicy.
 
 Gdy nastąpiła [[Śmierć Ethana Epines]], uschły i przestały istnieć.
 

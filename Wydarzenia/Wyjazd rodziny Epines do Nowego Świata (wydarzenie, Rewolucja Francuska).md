@@ -17,7 +17,7 @@ fc-date: "1789-10-21"
 
 ## Opis
 
-Rodzina [[Epines]] składająca się z [[Pierette Epines]] [[Jaques Epines]] [[Ethan Epines]]  opuszczają [[Rennes Le Château]] i [[Francja]] i udają się do [[Boston]] w [[USA (mapa)|USA]] aby tam zacząć nowe życie. W Bostonie poznają [[Wilhelm Galloway]], który przez swoje znajomości i wiedzę obiecuje im przenieść ich posiadłość [[Bethania]] w nowe miejsce.
+Rodzina [[Epines]] składająca się z [[Pierette Epines]] [[Jaques Epines]] [[Ethan Epines]] opuszczają [[Rennes Le Château]] i [[Francja]] i udają się do [[Boston]] w [[USA (mapa)|USA]] aby tam zacząć nowe życie. W Bostonie poznają [[Wilhelm Galloway]], który przez swoje znajomości i wiedzę obiecuje im przenieść ich posiadłość [[Bethania]] w nowe miejsce.
 
 ## Podrzędne
 

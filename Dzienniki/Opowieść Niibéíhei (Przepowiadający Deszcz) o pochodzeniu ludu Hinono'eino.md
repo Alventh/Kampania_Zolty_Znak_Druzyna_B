@@ -1,5 +1,5 @@
 ---
-name: "Opowieść Niibéíhei (Przepowiadający Deszcz) o pochodzeniu ludu  Hinono'eino"
+name: "Opowieść Niibéíhei (Przepowiadający Deszcz) o pochodzeniu ludu Hinono'eino"
 kategoria: "dziennik"
 typ:
 rodzic:
@@ -17,7 +17,7 @@ kanka_id: 7200585
 
 ## Podsumowanie
 
-Na początku byli ludzie. Było wielkie jezioro o czarnej toni i gwiazdy świeciły jaśniej niż dziś.Ludziom żyło się dobrze, każdy miał własne tipi, było jedzenia dość by o nim nie myśleć. Z czasem jednak ludzie żyjący w kamiennych tipi wdali się w wojnę z ludem zza jeziora. Za wojną przyszedł głód, rozpacz. Czekano aż "Człowiek żyjący powyżej" wszystkich uratuje z tej niedoli. Tak się jednak nie stało. Czekano nocami i w żółte dnie, na przybycie jego posłańca.
+Na początku byli ludzie. Było wielkie jezioro o czarnej toni i gwiazdy świeciły jaśniej niż dziś. Ludziom żyło się dobrze, każdy miał własne tipi, było jedzenia dość by o nim nie myśleć. Z czasem jednak ludzie żyjący w kamiennych tipi wdali się w wojnę z ludem zza jeziora. Za wojną przyszedł głód, rozpacz. Czekano aż "Człowiek żyjący powyżej" wszystkich uratuje z tej niedoli. Tak się jednak nie stało. Czekano nocami i w żółte dnie, na przybycie jego posłańca.
 
 Posłaniec przybył, a tłumy poszły za nim kamiennymi ścieżkami, aż do wielkiego Tipi wodza.
 
@@ -27,7 +27,7 @@ Wtedy to nie wiadomo skąd, pojawili się nauczyciele spoza czasu. Wskazali oni 
 
 Nauczyli oni ludzi, jak przetrwać, bo sami uciekali przed wielką wojną i ulitowali się widząc los podobny do swego.
 
-Z czasem odeszli, wody otulające świat opadły, a mój lud zamieszkiwał te ziemie, aż nie przybyli nowi najeźdcy zza wielkich wód. Wy...
+Z czasem odeszli, wody otulające świat opadły, a mój lud zamieszkiwał te ziemie, aż nie przybyli nowi najeźdźcy zza wielkich wód. Wy...
 
 ## Podrzędne
 

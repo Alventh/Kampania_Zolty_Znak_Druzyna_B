@@ -1,5 +1,5 @@
 ---
-name: "Śmierć Basila Torrence"
+name: "Śmierć Basila Torrance"
 kategoria: "wydarzenie"
 typ:
 rodzic:
@@ -8,14 +8,14 @@ kalendarz: "[[Kalendarz]]"
 lokacja: "[[Denver]]"
 tagi: []
 prywatne: false
-image: "[[Śmierć Basila Torrence.png]]"
-aliases: []
+image: "[[Śmierć Basila Torrance.png]]"
+aliases: ["Śmierć Basila Torrence"]
 kanka_id: 6940174
 fc-calendar: "Kalendarz"
 fc-date: "1920-11-05"
 ---
 
-![[Śmierć Basila Torrence.png|300]]
+![[Śmierć Basila Torrance.png|300]]
 
 ## Opis
 

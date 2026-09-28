@@ -42,9 +42,9 @@ kanka_id: 6938331
 
 ## Opis
 
-Pierwszy oficer na francuskim ([[Francja]]) okręcie [[Montmartre]]. Statek wypłynął z [[Paryż]], przepłynął przez [[Plymouth]] w [[Anglia]] i [[QueensTown]] w [[Irlandia]] i popłynął w kierunku portu w @NowyJork w [[USA (mapa)|USA]] ale nigdy tam nie dotarł.
+Pierwszy oficer na francuskim ([[Francja]]) okręcie [[Montmartre]]. Statek wypłynął z [[Paryż]], przepłynął przez [[Plymouth]] w [[Anglia]] i [[Queenstown]] w [[Irlandia]] i popłynął w kierunku portu w @NowyJork w [[USA (mapa)|USA]] ale nigdy tam nie dotarł.
 
-Jean napisał w nieokreślonym momencie rejsu [[List Z Butelki]] który został odnaleziony 9 Sierpnia 1920 roku w [[Jezioro Sloan]]
+Jean napisał w nieokreślonym momencie rejsu [[List z Butelki]] który został odnaleziony 9 sierpnia 1920 roku w [[Jezioro Sloan]]
 
 ## Powiązane wpisy
 

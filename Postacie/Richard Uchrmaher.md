@@ -42,7 +42,7 @@ kanka_id: 9260617
 
 ## Opis
 
-Zegarmistrz z [[Denver]] który miał manię na punkcie nieśmiertelności. Zdobył [[Liber Temporis]] i zaklął [[Dawca Czasu]] w [[ZłotyZegarekUchrmachera]]. Utknął w pętli czasowej która ciągle powtarzała jeden dzień. Postradał zmysły i został zamknięty w [[Szpital Psychiatryczny Denver]]. Tam został zamordowany przez śledzącego go [[OgarzTindalos]].
+Zegarmistrz z [[Denver]] który miał manię na punkcie nieśmiertelności. Zdobył [[Liber Temporis]] i zaklął [[Dawca Czasu]] w [[Złoty Zegarek Uchrmahera]]. Utknął w pętli czasowej która ciągle powtarzała jeden dzień. Postradał zmysły i został zamknięty w [[Szpital Psychiatryczny Denver]]. Tam został zamordowany przez śledzącego go [[Ogar z Tindalos]].
 
 ## Powiązane wpisy
 

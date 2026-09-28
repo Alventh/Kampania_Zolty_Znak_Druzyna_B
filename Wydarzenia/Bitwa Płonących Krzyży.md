@@ -21,7 +21,7 @@ fc-date: "1920-08-08"
 
 Walka na [[Farma Goździków]] pomiędzy [[William Candlish]] i lojalnymi mu członkami [[Ku Klux Klan]] wybranymi spośród funkcjonariuszy [[Policja w Denver]], a grupą porwanych przez [[Kult Hastura]] badaczy w postaci:
 
-[[Lilian Harding]], [[Benjamin Smith]] ,[[Cole Phelps]] [[Axel Bonton]] którzy próbowali powstrzymać rytuał i uchronić [[Arthur Holdem]] oraz [[Robert Johnson]] od śmierci poprzez ukrzyżowanie i podpalenie.
+[[Lilian Harding]], [[Benjamin Smith]], [[Cole Phelps]] [[Axel Bonton]] którzy próbowali powstrzymać rytuał i uchronić [[Arthur Holdem]] oraz [[Robert Johnson]] od śmierci poprzez ukrzyżowanie i podpalenie.
 
 Zakończyła się śmiercią Williama Candlisha oraz jego lojalistów i zwycięstwem badaczy.
 

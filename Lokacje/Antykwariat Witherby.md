@@ -18,7 +18,7 @@ Należący do [[Algernon Witherby]] Antykwariat. W przeszłości niejednokrotnie
 
 W mieszkaniu znajdującym się nad antykwariatem miało miejsce [[Powstanie Kultu Hastura w Denver]] opisane w [[Opowieść Arthura]]
 
-To tu w skrzyni spoczywała [[Bransoleta z koniem|Bransoleta  z koniem]].
+To tu w skrzyni spoczywała [[Bransoleta z koniem]].
 
 ## Podrzędne
 

@@ -46,7 +46,7 @@ Nellie Harding jest siostrą [[Lilian Harding]]
 
 Wraz z siostrą gdy były małe, parały się przywoływaniem duchów. Wydawało im się że to tylko zabawa, ale przynajmniej jedna, jeśli nie obie siostry, mają prawdziwy dar.
 
-Mieszka w posiadłości rodowej w [[Pluckley]] od dziecka. Mimo, że jest młodsza, jest główną dziedziczką fortuny po rodzicach.
+Mieszka w posiadłości rodowej w [[Pluckley]] od dziecka. Mimo że jest młodsza, jest główną dziedziczką fortuny po rodzicach.
 
 Po śmierci jej narzeczonego [[Vincent Fontain]], zamknęła się w sobie. Jedyną osobą jaka dotrzymuje jej towarzystwa jest jej znajomy farmaceuta [[Aaron Adelmann]].
 

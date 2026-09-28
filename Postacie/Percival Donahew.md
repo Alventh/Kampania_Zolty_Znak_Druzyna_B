@@ -42,11 +42,11 @@ kanka_id: 6940055
 
 ## Opis
 
-Prałat w [[Kościół św Kevina]] w XIX wieku. Jego następcą jest [[Edmund]]
+Prałat w [[Kościół św. Kevina]] w XIX wieku. Jego następcą jest [[Edmund]]
 
 Był powodem odejścia [[Sherman Coolidge]] od [[Kościół Katolicki]] po tym jak Percival odmówił Coolidgeowi udostępnienia swojego wozu. Sherman chciał nim przetransportować chorą na gruźlicę żonę do Szpitala w [[Denver]].
 
-Percival odmówił twierdząć że wystarczy żarliwie się modlić.
+Percival odmówił twierdząc że wystarczy żarliwie się modlić.
 
 @Sophie zmarła, a Sherman pochował ją w swoim ogrodzie. Jego noga przez kolejnych 50 lat nie stanęła na kościelnej ziemi.
 

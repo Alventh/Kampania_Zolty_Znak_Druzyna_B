@@ -1,5 +1,5 @@
 ---
-name: "czarnaMaź"
+name: "Złoty Zegarek Uchrmahera"
 kategoria: "przedmiot"
 typ:
 rodzic:
@@ -10,8 +10,8 @@ rozmiar:
 tagi: []
 prywatne: false
 image:
-aliases: []
-kanka_id: 7374809
+aliases: ["ZłotyZegarekUchrmachera"]
+kanka_id: 9260619
 waga:
 twórcy: []
 ---

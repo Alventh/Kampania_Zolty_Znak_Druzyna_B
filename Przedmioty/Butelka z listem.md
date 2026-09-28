@@ -20,7 +20,7 @@ twórcy: ["[[Edward Herbert Tomson]]"]
 
 ## Opis
 
-Butelka zawierająca [[List Z Butelki]]. Została odnaleziona przez rybaka [[Lucke Klausen]] w [[Jezioro Sloan]] 9 Sierpnia 1920 roku. ([[Pełnia Aldebaran]])
+Butelka zawierająca [[List z Butelki]]. Została odnaleziona przez rybaka [[Lucke Klausen]] w [[Jezioro Sloan]] 9 sierpnia 1920 roku. ([[Pełnia Aldebaran]])
 
 Okazało się że przed tym wydarzeniem, [[Borys Schmidt]] namalował obraz [[Rybak znajdujący list w butelce]].
 

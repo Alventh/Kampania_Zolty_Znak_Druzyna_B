@@ -42,9 +42,9 @@ kanka_id: 6934431
 
 ## Opis
 
-Górnik( Na fot. z lewej)  który został wysłany przez [[Carl Bradshaw]] wraz z jego towarzyszem [[Robert „Bob” Sanders|Robert "Bob" Sanders]] aby wykonać kilka strategicznych wystrzałów dynamitem by poszerzyć tunele i odnaleźć bogate żyły złota.
+Górnik (Na fot. z lewej) który został wysłany przez [[Carl Bradshaw]] wraz z jego towarzyszem [[Robert „Bob” Sanders|Robert "Bob" Sanders]] aby wykonać kilka strategicznych wystrzałów dynamitem by poszerzyć tunele i odnaleźć bogate żyły złota.
 
-W wyniku błędu w pomiarach ( po drugiej stronie ściany nie była lita skała jak zakładali, a pusta przetrzeń starych tuneli porzuconych kopalnii) zawalił się na nich strop. Albert zdołał uciec, ale Sanders został przywalony zawałem.
+W wyniku błędu w pomiarach (po drugiej stronie ściany nie była lita skała jak zakładali, a pusta przestrzeń starych tuneli porzuconych kopalni) zawalił się na nich strop. Albert zdołał uciec, ale Sanders został przywalony zawałem.
 
 Quint był w akcji ratunkowej Sandersa, zobaczył jednak jego ducha oraz ducha [[Leo Galloway]] co doprowadziło do jego samobójstwa przez rozbiegnięcie się w panice w ścianę tunelu i nadzianie się na własny kilof.
 

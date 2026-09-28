@@ -19,7 +19,7 @@ fc-date: "1920-08-21"
 
 ## Opis
 
-[[Lilian Harding]], [[Cole Phelps]]i  [[Benjamin Smith]]  przyjeżdżają do [[Cripple Creek]]. W trakcie podróży przez tunel uderzają w kamień i dachują.
+[[Lilian Harding]], [[Cole Phelps]] i [[Benjamin Smith]] przyjeżdżają do [[Cripple Creek]]. W trakcie podróży przez tunel uderzają w kamień i dachują.
 
 Pomocy po wypadku udziela im [[Ernest Ceriani]] [[Victoria Woodhull]] oraz [[Edmund]]
 

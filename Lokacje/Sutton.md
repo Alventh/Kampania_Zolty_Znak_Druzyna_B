@@ -2,7 +2,7 @@
 name: "Sutton"
 kategoria: "lokacja"
 typ: "Miasto"
-rodzic: "[[Massachusets]]"
+rodzic: "[[Massachusetts]]"
 tagi: []
 prywatne: false
 image:

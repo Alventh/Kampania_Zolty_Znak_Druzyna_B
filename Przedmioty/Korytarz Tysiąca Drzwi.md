@@ -23,7 +23,7 @@ tags: ["mg"]
 
 ## Opis
 
-1 Listopada 1920
+1 listopada 1920
 
 ![[9d86e3cc-d9d6-4235-80ec-a8692862ac08_412df979.jpg]]
 

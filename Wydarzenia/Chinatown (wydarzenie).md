@@ -21,7 +21,7 @@ fc-date: "1920-11-02"
 
 [[Jack Walters]], [[Victoria Woodhull]], [[Lilian Harding]] oraz [[Cole Phelps]] udali się do [[Chinatown (lokacja)|Chinatown]] aby sprawdzić ostatnie znane miejsce przebywania [[Elle Flynn]].
 
-Odwiedzili oni [[Smoczy Dwór]] ponieważ wspominał o nim [[Manny DeMarco]]. W środku okazało się iż jest to ekskluzywny lokal do spożywania opium, prowadzony przez starą chinkę [[Madam Feng]]
+Odwiedzili oni [[Smoczy Dwór]] ponieważ wspominał o nim [[Manny DeMarco]]. W środku okazało się iż jest to ekskluzywny lokal do spożywania opium, prowadzony przez starą Chinkę [[Madam Feng]]
 
 Poszukiwania kończą się ustaleniami, że Elle została przekazana w ręce niejakiego [[Basil Torrance]].
 

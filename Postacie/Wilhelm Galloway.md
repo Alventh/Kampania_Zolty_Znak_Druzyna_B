@@ -42,7 +42,7 @@ kanka_id: 6571674
 
 ## Opis
 
-Senior Rodu *(usunięty wpis)*. Pierwotnie pochodzi z [[Boston]], ale przeniósł się wraz z rodziną [[Margaret Galloway]]  do [[Cripple Creek]]. Doglądał transportów oraz odbudowy posiadłości [[Bethania]] dla rodziny [[Epines]]. Później zajmował się również zarządzaniem [[Kopalnia w Cripple Creek]]. Po kilku latach urodził mu się syn [[Leo Galloway]]
+Senior Rodu *(usunięty wpis)*. Pierwotnie pochodzi z [[Boston]], ale przeniósł się wraz z rodziną [[Margaret Galloway]] do [[Cripple Creek]]. Doglądał transportów oraz odbudowy posiadłości [[Bethania]] dla rodziny [[Epines]]. Później zajmował się również zarządzaniem [[Kopalnia w Cripple Creek]]. Po kilku latach urodził mu się syn [[Leo Galloway]]
 
 ## Powiązane wpisy
 

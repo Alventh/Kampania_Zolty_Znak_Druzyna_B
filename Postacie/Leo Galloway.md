@@ -42,7 +42,7 @@ kanka_id: 6932788
 
 ## Opis
 
-"Leo" a właściwie Leonard Galloway był synem [[Wilhelm Galloway]] oraz [[Margaret Galloway]].  Wraz z rodzicami mieszkał w [[Cripple Creek]]
+"Leo" a właściwie Leonard Galloway był synem [[Wilhelm Galloway]] oraz [[Margaret Galloway]]. Wraz z rodzicami mieszkał w [[Cripple Creek]]
 
 Złożony w ofierze w trakcie rytuału przez [[Ethan Epines]] w podziemiach [[Bethania]]
 

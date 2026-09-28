@@ -14,7 +14,7 @@ kanka_id: 6935858
 
 ## Opis
 
-Dom w [[Boston]] należący pierwotnie do  [[Corbit]]. Był przez Corbita nawiedzany, przeganiał on wszystkich którzy próbowali w nim zamieszkać.
+Dom w [[Boston]] należący pierwotnie do [[Corbit]]. Był przez Corbita nawiedzany, przeganiał on wszystkich którzy próbowali w nim zamieszkać.
 
 [[Agencja Detektywistyczna Phelps & Harding]] przyjęła zlecenie na zbadanie tej sprawy. Zakończyło się to pokonaniem Corbitta i oczyszczeniem domu.
 

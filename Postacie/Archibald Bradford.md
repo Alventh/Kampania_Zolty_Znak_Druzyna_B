@@ -42,7 +42,7 @@ kanka_id: 6940109
 
 ## Opis
 
-Szeryf miasteczka [[Cripple Creek]]. Od czasu [[Zamknięcie Kopalni]] popadł w alkoholizm nie radząc sobie kompletnie z bezrobotnymi górnikami. Przesiaduje w [[Gospoda Charlsa Turnera]].
+Szeryf miasteczka [[Cripple Creek]]. Od czasu [[Zamknięcie Kopalni]] popadł w alkoholizm nie radząc sobie kompletnie z bezrobotnymi górnikami. Przesiaduje w [[Gospoda Charlesa Turnera]].
 
 Brał udział w eksploracji [[Kopalnia w Cripple Creek]] wraz z badaczami oraz w [[Śmierć Ethana Epines]] w [[Komnata pod posiadłością Bethania]]
 

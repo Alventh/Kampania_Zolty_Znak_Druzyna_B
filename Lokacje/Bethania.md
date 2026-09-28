@@ -14,7 +14,7 @@ kanka_id: 6547313
 
 ## Opis
 
-Posiadłość rodowa rodziny [[Epines]] Została tu przeniesiona, kamień po kamieniu z ich rodzinnej miejscowości [[Rennes Le Château]] we [[Francja]]
+Posiadłość rodowa rodziny [[Epines]]. Została tu przeniesiona, kamień po kamieniu z ich rodzinnej miejscowości [[Rennes Le Château]] we [[Francja]]
 
 ## Podrzędne
 

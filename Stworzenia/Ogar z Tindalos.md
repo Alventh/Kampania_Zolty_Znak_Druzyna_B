@@ -1,5 +1,5 @@
 ---
-name: "OgarzTindalos"
+name: "Ogar z Tindalos"
 kategoria: "stworzenie"
 typ:
 rodzic:
@@ -7,7 +7,7 @@ lokacje: []
 tagi: []
 prywatne: false
 image:
-aliases: []
+aliases: ["OgarzTindalos"]
 kanka_id: 9260626
 ---
 

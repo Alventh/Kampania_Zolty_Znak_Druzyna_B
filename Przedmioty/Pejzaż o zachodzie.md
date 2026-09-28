@@ -1,5 +1,5 @@
 ---
-name: "Pejzaż o zachodzie."
+name: "Pejzaż o zachodzie"
 kategoria: "przedmiot"
 typ:
 rodzic: "[[Obrazy]]"

@@ -24,7 +24,7 @@ To tego miejsca poszukiwały 2 pokolenia rodziny Epines. Była też miejscem śm
 
 [[Śmierć Ethana Epines]]
 
-Skrywała w sobie [[Artefakt Z Cripple Creek]], który został zabrany przez [[Benjamin Smith]] po śmierci Ethana Epines
+Skrywała w sobie [[Artefakt z Cripple Creek]], który został zabrany przez [[Benjamin Smith]] po śmierci Ethana Epines
 
 Wspominana w:
 

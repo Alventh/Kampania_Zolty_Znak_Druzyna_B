@@ -23,14 +23,14 @@ Opowieść [[Arthur Holdem]]
 
 Wszystko zaczęło się lekko ponad 20 lat temu. Byłem wtedy młodym księgowym
 który skoczył na głęboką wodę i wszystkie swoje oszczędności wydał na otwarcie
-własnej działalności. Urodziłem się w [[Denver]], ale nie miałem bez specjalnych
+własnej działalności. Urodziłem się w [[Denver]], ale nie miałem specjalnych
 koneksji. W związku z tym żywiłem się przez kilka miesięcy głównie chlebem i
 wodą, a i chleba czasami brakowało. Wszystko co miałem pochłaniał czynsz.
 Miasto przechodziło wtedy trudny okres, biznesy związane z kopalniami padały
 jeden za drugim gdy kończyło się w nich złoto, a boom kulturowy i florystyczny
 jeszcze się nie zaczął. W takim oto burzliwym okresie, zwróciłem się do
 najlepszej przyjaciółki każdego mężczyzny w trudnej sytuacji. Poszedłem do
-najbliższego mi baru i ostatnie pieniądze, które i tak nie starczyłyby na tego miesięczny
+najbliższego mi baru i ostatnie pieniądze, które i tak nie starczyłyby na tegomiesięczny
 czynsz, postanowiłem przeznaczyć na butelkę whisky.
 
 Gdy byłem w połowie butelki, była już 1sza w nocy, a barman
@@ -54,12 +54,12 @@ wyglądać, wystarczy odrobina poświęceń a wszystko jest możliwe.
 
 Tamci zbywali go śmiechem.
 
-Wiecie już za pewne o kim mówię? Jeden z tych mężczyzn z
+Wiecie już zapewne o kim mówię? Jeden z tych mężczyzn z
 tego co mówicie, leży martwy przed tym domem.
 
 Trzech z nich jest najważniejszych w tej historii.
 
-Candlish([[William Candlish]]), Bailey([[Dewey C. Bailey]]) i Shaw ([[Dorian Shaw]]). Jeden był wtedy klawiszem w
+Candlish ([[William Candlish]]), Bailey ([[Dewey C. Bailey]]) i Shaw ([[Dorian Shaw]]). Jeden był wtedy klawiszem w
 areszcie, drugi pucybutem, a trzeci wyleciał ze studiów medycznych i dorabiał
 jako sanitariusz, silnoręki w szpitalu dla obłąkanych.
 
@@ -85,7 +85,7 @@ tchnieniem uniosło się w powietrze coś dziwnego. Wzniosło się do sufitu by
 nagle pochwycone jakimś mackowatym kształtem, zniknąć.
 
 Następnego dnia na kacu starałem się zrozumieć czy byłem
-światkiem tych wydarzeń naprawdę czy to tylko pijackie majaki. Po kilku
+świadkiem tych wydarzeń naprawdę czy to tylko pijackie majaki. Po kilku
 godzinach miałem pierwszych klientów.
 
 Pozostali też mieli podobne doświadczenie. To podwyżka, to
@@ -94,9 +94,9 @@ przywrócenie na studia, to awans.
 Pod koniec tygodnia, gdy wszyscy wyszliśmy z euforii
 związanej z poprawą naszych bytów, jakby kolektywnym umysłem zaczęliśmy
 przypominać sobie wydarzenie tego wieczora i wszyscy bez umawiania się ze sobą
-( prócz tego wieczoru nie łączyło nas nic a i nie wiedzieliśmy zbytnio gdzie
+(prócz tego wieczoru nie łączyło nas nic a i nie wiedzieliśmy zbytnio gdzie
 się szukać) znaleźliśmy się wspólnie w barze. Algernon już tam na nas czekał,
-jakby to on nas tam wezwał. Wszyscy myślieliśmy myślę, że jedyne racjonalne
+jakby to on nas tam wezwał. Wszyscy myśleliśmy myślę, że jedyne racjonalne
 wytłumaczenie jest takie. Stary głupiec bawi się w jakieś dziwne gierki, ale w
 zamian za uczestniczenie w nich użył swoich wpływów i bogactwa by nam pomóc.
 Trzeba więc korzystać póki złapaliśmy przysłowiowego boga za nogi.

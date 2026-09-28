@@ -1,5 +1,5 @@
 ---
-name: "Auguste \"Gustave\"  Moreau"
+name: "Auguste \"Gustave\" Moreau"
 kategoria: "postać"
 typ: "NPC"
 tytuł: "Mistrz Ceremonii"
@@ -31,7 +31,7 @@ ataki: []
 tagi: []
 prywatne: false
 image: "[[Auguste „Gustave” Moreau.png]]"
-aliases: ["Auguste \"Gustave\"  Moreau"]
+aliases: ["Auguste \"Gustave\" Moreau", "Auguste \"Gustave\"  Moreau"]
 cssclasses: ["karta-postaci"]
 kanka_id: 7937587
 ---

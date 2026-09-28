@@ -103,11 +103,11 @@ Poszukiwacz przygód który pomagał [[Lilian Harding]] [[Cole Phelps]] i [[Benj
 
 Okazał się mocno niezrównoważony. Strzelając do niezagrażających im wówczas pracowników [[Agencja Detektywistyczna Phelps & Harding]]
 
-Gdy cała ekipa została porwana przez [[William Candlish]]  i miała zostać złożona w ofierze [[Hastur]] w trakcie [[Pełnia Aldebaran]] pomógł ocalić księgowego i kilku czarnoskórych muzyków w tym [[Robert Johnson]]
+Gdy cała ekipa została porwana przez [[William Candlish]] i miała zostać złożona w ofierze [[Hastur]] w trakcie [[Pełnia Aldebaran]] pomógł ocalić księgowego i kilku czarnoskórych muzyków w tym [[Robert Johnson]]
 
-Sam został porażony przez [[Śpiew Hastura]] rzucany przez Candlisha. Po wszystkim został umieszczony w szpitalu w [[Boulder]]. Spędził tu kolejne miesiące, ale jego stan fizyczny się nie poprawia. Za to jego umysł poddał się paranoji, lub wpływom jakichś dziwnych sił.
+Sam został porażony przez [[Śpiew Hastura]] rzucany przez Candlisha. Po wszystkim został umieszczony w szpitalu w [[Boulder]]. Spędził tu kolejne miesiące, ale jego stan fizyczny się nie poprawia. Za to jego umysł poddał się paranoi, lub wpływom jakichś dziwnych sił.
 
-Jego lekarzem jest [[Ernest Ceriani]] . znalazł on w krwi Axela jakąś substację, która nie daje się przebadać, aktywnie "ucieka" przed próbami pobrania próbki.
+Jego lekarzem jest [[Ernest Ceriani]]. Znalazł on w krwi Axela jakąś substancję, która nie daje się przebadać, aktywnie "ucieka" przed próbami pobrania próbki.
 
 Axel gdy dowiedział się o tym, że Lilian również przebywa w szpitalu, poprosił doktora Ceriani o spotkanie z nią. Bredził i opowiadał o mrocznych wizjach końca świata.
 

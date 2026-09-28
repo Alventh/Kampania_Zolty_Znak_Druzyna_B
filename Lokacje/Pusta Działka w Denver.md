@@ -16,7 +16,7 @@ kanka_id: 6934669
 
 Pusty Plac w [[Denver]]
 
-[[Benjamin Smith]] zakopał tutaj [[Artefakt Z Cripple Creek]] na prośbę [[Dobroczyńca]]
+[[Benjamin Smith]] zakopał tutaj [[Artefakt z Cripple Creek]] na prośbę [[Dobroczyńca]]
 
 ## Podrzędne
 

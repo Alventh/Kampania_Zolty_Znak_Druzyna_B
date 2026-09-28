@@ -21,7 +21,7 @@ fc-date: "1920-08-01"
 
 Tego dnia [[Arthur Holdem]] nie stawił się na umówione spotkanie z [[Dean „Dinky” Singleton|Dean "Dinky" Singleton]] i został uznany za zaginionego.
 
-W rzeczywistości Arthur umówił się z [[Owen Pierce]] w ukrytym barze [[Williams & Graham]]. Pierce  miał pomóc mu uciec od [[Kult Hastura]] i ich planów.
+W rzeczywistości Arthur umówił się z [[Owen Pierce]] w ukrytym barze [[Williams & Graham]]. Pierce miał pomóc mu uciec od [[Kult Hastura]] i ich planów.
 
 Zostali jednak nakryci przez [[William Candlish]]. Owen został zamknięty jeszcze tej samej nocy w [[Szpital Psychiatryczny Denver]], a Arthura wywieziono na [[Farma Goździków]]
 

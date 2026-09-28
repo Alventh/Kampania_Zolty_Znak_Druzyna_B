@@ -20,7 +20,7 @@ fc-date: "1815-08-08"
 ## Opis
 
 Nieudany rytuał otwarcia bramy przeprowadzony w trakcie [[Pełnia Aldebaran]] w 1819 roku w trakcie którego [[Ethan Epines]] próbował złożyć w ofierze [[Leo Galloway]].
-W wyniku zaklęcia doszło do wstrząsów przez które zawaliło się sklepienie [[Komnata pod posiadłością Bethania]]. [[Artefakt Z Cripple Creek]] wraz z czarownikiem i jego ofiarą zostały pogrzebane pod rumowiskiem na ponad wiek.
+W wyniku zaklęcia doszło do wstrząsów przez które zawaliło się sklepienie [[Komnata pod posiadłością Bethania]]. [[Artefakt z Cripple Creek]] wraz z czarownikiem i jego ofiarą zostały pogrzebane pod rumowiskiem na ponad wiek.
 
 ## Podrzędne
 

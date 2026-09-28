@@ -7,7 +7,7 @@ wiek: "46"
 płeć: "Mężczyzna"
 zaimki:
 status: "żyje"
-lokacja: "[[Gospoda Charlsa Turnera]]"
+lokacja: "[[Gospoda Charlesa Turnera]]"
 rodziny: ["[[Turner]]"]
 rasy: []
 organizacje: []
@@ -42,7 +42,7 @@ kanka_id: 6940123
 
 ## Opis
 
-Mieszkaniec [[Cripple Creek]] i właściciel [[Gospoda Charlsa Turnera]] którą prowadzi wraz z córką [[Elisabeth Turner]]
+Mieszkaniec [[Cripple Creek]] i właściciel [[Gospoda Charlesa Turnera]] którą prowadzi wraz z córką [[Elisabeth Turner]]
 
 Był jednym z mieszkańców których namówił [[Sherman Coolidge]] do składania ofiar z krwi na [[Ołtarz w górach]].
 

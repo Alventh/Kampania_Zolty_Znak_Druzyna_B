@@ -1,5 +1,5 @@
 ---
-name: "Artefakt Z Cripple Creek"
+name: "Artefakt z Cripple Creek"
 kategoria: "przedmiot"
 typ: "Artefakt"
 rodzic: "[[Artefakty]]"
@@ -9,14 +9,14 @@ cena:
 rozmiar:
 tagi: []
 prywatne: false
-image: "[[Artefakt Z Cripple Creek.png]]"
-aliases: []
+image: "[[Artefakt z Cripple Creek.png]]"
+aliases: ["Artefakt Z Cripple Creek"]
 kanka_id: 6934596
 waga:
 twórcy: ["[[Dobroczyńca]]"]
 ---
 
-![[Artefakt Z Cripple Creek.png|300]]
+![[Artefakt z Cripple Creek.png|300]]
 
 ## Opis
 
@@ -25,7 +25,7 @@ Jaques wraz z żoną [[Pierette Epines]] chcieli wykorzystać kamień jako źró
 
 Następnie został wykorzystany przez [[Ethan Epines]] do otwarcia bramy w trakcie [[Nieudany Rytuał Otwarcia Bramy]] co doprowadziło do śmierci Ethana oraz jego ofiary [[Leo Galloway]] w wyniku zawalenia się stropu komnaty.
 
-Artefakt przez stulecie podtrzymywał moc rytuału który w końcu został przerwany 25 Sierpnia 1920 roku ([[Śmierć Ethana Epines]] gdy członkowie [[Agencja Detektywistyczna Phelps & Harding]] oraz [[Edmund]] i [[Victoria Woodhull]] pokonali monstra w Komnacie.
+Artefakt przez stulecie podtrzymywał moc rytuału który w końcu został przerwany 25 sierpnia 1920 roku ([[Śmierć Ethana Epines]] gdy członkowie [[Agencja Detektywistyczna Phelps & Harding]] oraz [[Edmund]] i [[Victoria Woodhull]] pokonali monstra w Komnacie.
 
 Po walce odzyskany na prośbę [[Dobroczyńca]] przez [[Benjamin Smith]]
 

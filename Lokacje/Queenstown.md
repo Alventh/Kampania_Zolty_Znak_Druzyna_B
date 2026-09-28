@@ -1,18 +1,18 @@
 ---
-name: "Capitoll Hill"
+name: "Queenstown"
 kategoria: "lokacja"
-typ: "Dzielnica"
-rodzic: "[[Denver]]"
+typ: "Miasto"
+rodzic: "[[Irlandia]]"
 tagi: []
 prywatne: false
 image:
-aliases: []
-kanka_id: 9260535
+aliases: ["QueensTown"]
+kanka_id: 6938344
 ---
 
 ## Opis
 
-Bogata dzielnica pełna dużych rezydencji w centrum [[Denver]]. To tutaj znajduje się między innymi [[Posiadłość Stanleya Galloway]] czy [[Posiadłość Marshallów]]
+Miasto portowe w południowej [[Irlandia]]
 
 ## Podrzędne
 

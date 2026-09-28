@@ -42,7 +42,7 @@ kanka_id: 9260542
 
 ## Opis
 
-Bogaty przemysłowiec mieszkający w [[Posiadłość Stanleya Galloway]] w [[Capitoll Hill]] w [[Denver]]. Jest Potomkiem [[Edward Galloway]] oraz jest spokrewniony z [[Wilhelm Galloway]].
+Bogaty przemysłowiec mieszkający w [[Posiadłość Stanleya Gallowaya]] w [[Capitol Hill]] w [[Denver]]. Jest Potomkiem [[Edward Galloway]] oraz jest spokrewniony z [[Wilhelm Galloway]].
 
 Posiadał przekazywaną z pokolenia na pokolenie księgę [[Liber Temporis]]
 
@@ -50,7 +50,7 @@ Posiadał przekazywaną z pokolenia na pokolenie księgę [[Liber Temporis]]
 
 | Z kim | Relacja | Stosunek |
 | --- | --- | --- |
-| [[Posiadłość Stanleya Galloway]] | Lokacja |  |
+| [[Posiadłość Stanleya Gallowaya]] | Lokacja |  |
 
 ## Powiązane wpisy
 

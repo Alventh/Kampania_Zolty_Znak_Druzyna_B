@@ -1,5 +1,5 @@
 ---
-name: "Zapiski Z Carcossy"
+name: "Zapiski z Carcossy"
 kategoria: "przedmiot"
 typ: "Księga"
 rodzic: "[[Księgi]]"
@@ -9,14 +9,14 @@ cena:
 rozmiar:
 tagi: []
 prywatne: false
-image: "[[Zapiski Z Carcossy.png]]"
-aliases: []
+image: "[[Zapiski z Carcossy.png]]"
+aliases: ["Zapiski Z Carcossy"]
 kanka_id: 6935345
 waga:
 twórcy: ["[[Dewey C. Bailey]]"]
 ---
 
-![[Zapiski Z Carcossy.png|300]]
+![[Zapiski z Carcossy.png|300]]
 
 ## Opis
 

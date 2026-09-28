@@ -42,7 +42,7 @@ kanka_id: 7387281
 
 ## Opis
 
-Silna ręka [[Bruno Mauro]]. Z duetu [[Enzo „Gruby” Bianchi|Enzo "Gruby" Bianchi]] i Vito "Łamacz" Moretti, ro on jest tym który najpierw bije a potem pyta.
+Silna ręka [[Bruno Mauro]]. Z duetu [[Enzo „Gruby” Bianchi|Enzo "Gruby" Bianchi]] i Vito "Łamacz" Moretti, to on jest tym który najpierw bije a potem pyta.
 
 Obecnie pilnuje spłaty długu za uszkodzony projektor w [[Kino Rivoli]]
 

@@ -48,7 +48,7 @@ Był członkiem ekipy eksplorującej [[Kopalnia w Cripple Creek]]. To na niego r
 
 Bardzo dba o swoich ludzi, wspierał wszystkich po [[Zamknięcie Kopalni]]. Silny przywódca który nie bał się ruszyć wraz z badaczami do [[Komnata pod posiadłością Bethania]] szukając ratunku dla mieszkańców.
 
-Mąż [[Eunice Miller]] ,ojciec [[Ruth Miller]] i  którzy zmarli w trakcie wydarzenia [[Śmierć Ethana Epines]]
+Mąż [[Eunice Miller]], ojciec [[Ruth Miller]] i którzy zmarli w trakcie wydarzenia [[Śmierć Ethana Epines]]
 
 ## Powiązane wpisy
 

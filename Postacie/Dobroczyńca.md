@@ -48,7 +48,7 @@ Rozmowa z nim możliwa jest tylko po dotknięciu [[Bransoleta z koniem|Bransolet
 
 Wydaje się być wszechwiedzący. Dzieli się swoją wiedzą chętnie, ale mówi zagadkami i zawsze prosi o coś w zamian.
 
-W zamian za informację ostrzeżenie przed "Gwiazdą" poprosił [[Benjamin Smith]] o odnalezienie "małego nic nie znaczącego drobiazgu, ot kamyczka" którym okazał się [[Artefakt Z Cripple Creek]].
+W zamian za informację ostrzeżenie przed "Gwiazdą" poprosił [[Benjamin Smith]] o odnalezienie "małego nic nie znaczącego drobiazgu, ot kamyczka" którym okazał się [[Artefakt z Cripple Creek]].
 
 Po odzyskaniu przez Benjamina artefaktu, Dobroczyńca udzielił mu informacji, że człowiekiem który wie coś na temat jego żony jest @JackWalters. W zamian za tę informację, poprosił o zakopanie Artefaktu na [[Pusta Działka w Denver]]
 

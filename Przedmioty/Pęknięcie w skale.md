@@ -1,5 +1,5 @@
 ---
-name: "Pęknięcie w skale."
+name: "Pęknięcie w skale"
 kategoria: "przedmiot"
 typ:
 rodzic: "[[Obrazy]]"

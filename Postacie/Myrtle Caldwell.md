@@ -46,7 +46,7 @@ Stara mieszkanka [[Cripple Creek]] emerytowana nauczycielka ze [[Szkoła]]. Zast
 
 Kiedy umierała poczuła skruchę i opowiedziała księdzu [[Edmund]], że przez większość życia składała ofiary pogańskim bożkom, i że wielu mieszkańców robiło to samo.
 
-Zmarła zostawiając swojego chorego umysłowo 40 letniego syna [[Cecile Caldwell]]
+Zmarła zostawiając swojego chorego umysłowo 40-letniego syna [[Cecile Caldwell]]
 
 ## Powiązane wpisy
 

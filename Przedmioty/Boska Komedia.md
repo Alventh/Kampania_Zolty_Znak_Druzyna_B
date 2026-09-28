@@ -20,7 +20,7 @@ twórcy: []
 
 ## Opis
 
-oska komedia (wł. Divina Commedia) – poemat włoskiego poety [[Dante Aligheri]] ,napisany w latach 1307–1321[1]. Boska komedia jest syntezą średniowiecznej myśli filozoficznej, historycznej, teologicznej oraz panoramą świata. Jako arcydzieło literatury włoskiej, należy do klasyki światowej i wywarła znaczny wpływ na kulturę europejską.
+Boska komedia (wł. Divina Commedia) – poemat włoskiego poety [[Dante Alighieri]], napisany w latach 1307–1321[1]. Boska komedia jest syntezą średniowiecznej myśli filozoficznej, historycznej, teologicznej oraz panoramą świata. Jako arcydzieło literatury włoskiej, należy do klasyki światowej i wywarła znaczny wpływ na kulturę europejską.
 
 Pierwsze wydanie drukiem Boskiej komedii, w języku włoskim, wyszło w 1472 r. we włoskim Foligno z warsztatu pochodzącego z Moguncji typografa Johannesa Numeistra.
 

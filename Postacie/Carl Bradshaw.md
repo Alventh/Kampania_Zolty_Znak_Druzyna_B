@@ -46,13 +46,13 @@ Zarządca [[Kopalnia w Cripple Creek]]. Objął swój urząd na zlecenie [[Dean 
 
 Był jednym z oryginalnych założycieli Kultu Hastura, brał udział w pierwszym rytuale opisanym w [[Opowieść Arthura]]. Bliski współpracownik [[Dewey C. Bailey]] i jeden z jego największych lojalistów, zaraz po [[William Candlish]]
 
-Po przyjeździe do [[Cripple Creek]] szybko zabrał się do pracy. Został oszukany przez [[Sherman Coolidge]] by kopać coraz głębiej i głębiej, ostatecznie wysłał [[Robert „Bob” Sanders|Robert "Bob" Sanders]] oraz [[Albert Quint]] na najniższy pokład gdzie po wysadzeniu dynamitu doszło do zawału w którym Sanders zmarł pod zawałem. Próbowano go uratować, ale doprowadziło to tylko do samobójstwa Quinta przerażonego ujrzeniem ducha swego kompana oraz dziwnego chłopca. Nawiedzającego kopalnie ducha [[Leo Galloway]].
+Po przyjeździe do [[Cripple Creek]] szybko zabrał się do pracy. Został oszukany przez [[Sherman Coolidge]] by kopać coraz głębiej i głębiej, ostatecznie wysłał [[Robert „Bob” Sanders|Robert "Bob" Sanders]] oraz [[Albert Quint]] na najniższy pokład gdzie po wysadzeniu dynamitu doszło do zawału w którym Sanders zmarł pod zawałem. Próbowano go uratować, ale doprowadziło to tylko do samobójstwa Quinta przerażonego ujrzeniem ducha swego kompana oraz dziwnego chłopca. Nawiedzającego kopalnię ducha [[Leo Galloway]].
 
 Po kilku miesiącach niepowodzeń i coraz większej paranoi wśród górników, zrozumiał że rozgniewał czymś swego Pana [[Hastur]]. Bał się złożyć raport Bailyemu czy nawet Singeltonowi. Rozkazał zamknąć kopalnię. Nieświadomie tymczasowo spowolnił powrót [[Ethan Epines]] który nie miał na kim pożywiać się w kopalniach.
 
 Po przybyciu [[Agencja Detektywistyczna Phelps & Harding]] i konfrontacji z [[Edmund]] Popełnił samobójstwo podrzynając sobie żyły i wieszając się na sznurze z krokwi w swoim biurze. Wcześniej wymontował fragment windy i ukrył ją w swoim domu.
 
-Po śmierci został wyssany przez [[Pnącza Czarnych Róż]] Ethana Epines. pozostawiając tylko pustą skorupę. Przez zmieszanie Krwi Ethana ze swoją, zmieniony został w [[Szczurowiec]]. Pod nową postacią udał się do tuneli kopalnii by służyć swemu nowemu Panu. Ostatecznie zabity 25 Sierpnia 1920 roku przez członków Agencja Detektywistyczna Phelps & Harding
+Po śmierci został wyssany przez [[Pnącza Czarnych Róż]] Ethana Epines, pozostawiając tylko pustą skorupę. Przez zmieszanie krwi Ethana ze swoją, zmieniony został w [[Szczurowiec]]. Pod nową postacią udał się do tuneli kopalni by służyć swemu nowemu Panu. Ostatecznie zabity 25 sierpnia 1920 roku przez członków Agencja Detektywistyczna Phelps & Harding
 
 Autor [[Dziennik Zarządcy Kopalni]] oraz [[List Pożegnalny Zarządcy Kopalni]]
 .

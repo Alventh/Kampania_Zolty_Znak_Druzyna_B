@@ -21,11 +21,11 @@ kanka_id: 6934740
 
 Dziennik Ethana z wpisami ciągnącymi się od 1815 roku aż do jego pierwszej śmierci w 1819.
 
-Cripple Creeek 15.09.1815 r.
+Cripple Creek 15.09.1815 r.
 
 Coraz bliżej końca mego dzieła. Studiując księgi i notatki jakie zostawił po sobie mój ojciec wiem już czemu, zawiedli tam, gdzie mnie się uda.
 
-Moi rodzicie choć niezwykle zdeterminowani, byli zbyt uczuciowi i romantyczni a za mało było w nich podejścia zdroworozsądkowego i naukowego. Podtrzymując duch ich romantycznej natury, zmieniłem wejście do komnaty w ich prywatne mauzoleum, kazałem nawet przenieść ich ulubioną sentencję z pierwotnej kaplicy do ich nowego miejsca pochówku. Udało mi się nawet zabezpieczyć wejście z jej pomocą by dodatkowo ich upamiętnić.
+Moi rodzice choć niezwykle zdeterminowani, byli zbyt uczuciowi i romantyczni a za mało było w nich podejścia zdroworozsądkowego i naukowego. Podtrzymując duch ich romantycznej natury, zmieniłem wejście do komnaty w ich prywatne mauzoleum, kazałem nawet przenieść ich ulubioną sentencję z pierwotnej kaplicy do ich nowego miejsca pochówku. Udało mi się nawet zabezpieczyć wejście z jej pomocą by dodatkowo ich upamiętnić.
 
 Jeśli dobrze rozumiem, zabrakło im czynnika wiążącego i stabilizującego. Sam artefakt nie wystarczy, on sam jest jedynie jak łańcuch łączący okręt i kotwicę. Kotwicą jest tutaj osoba przeprowadzająca rytuał. Ale żeby statek się zatrzymał, żeby stworzyć połączenie potrzebne jest coś, w czym kotwica może osiąść, coś co utrzyma ją w miejscu by ona, mogła utrzymać w miejscu okręt.
 

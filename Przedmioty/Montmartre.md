@@ -21,7 +21,7 @@ twórcy: []
 ## Opis
 
 [[Okręty]] Wyruszył w 1791 w Styczniu roku z portu w [[Paryż]] i płynął do [[Nowy Jork]]. Planowo przepłynął przez porty
-w Wielkiej Brytanii – [[Plymouth]] i [[QueensTown]] w [[Irlandia]]
+w Wielkiej Brytanii – [[Plymouth]] i [[Queenstown]] w [[Irlandia]]
 
 Kapitan François Le Clerc
 - 50 lat
@@ -29,11 +29,11 @@ Kapitan François Le Clerc
 Pierwszy oficer [[Jean Dupont]]
 
 Ostatnie
-miejsce, gdzie widziano ten statek :
+miejsce, gdzie widziano ten statek:
 
 14
-Stycznia był widziany przez statek Amerykański SS PENLAND, jest dokładny log
-kapitana, wypłyną u wybrzeżu Florydy. Pomiędzy Florydą i Bermudami napotkał
+stycznia był widziany przez statek Amerykański SS PENLAND, jest dokładny log
+kapitana, wypłynął u wybrzeży Florydy. Pomiędzy Florydą i Bermudami napotkał
 statek, który nie odpowiadał na wezwania za pomocą FLAG – czy jest na dużym
 kursie, czy potrzebuje pomocy. Montmarte nie odpowiadał, brak flag, nawet flaga
 krajowa nie była zawieszona – raczej się tak nie robi.\
@@ -48,11 +48,11 @@ odbił na północ, jakby w swoim kierunku…. Ale był wtedy jeszcze daleko
 Logi:
 
 Załadunek: ładunek jest delikatny, zaplombowany, nie do
-wglądu załogu, skrzynie zapełnione woskiem, żeby było widać zalepione pieczęcie,
+wglądu załogi, skrzynie zapełnione woskiem, żeby było widać zalepione pieczęcie,
 
 Skrzynie z obrazami z Paryża
 
-Skrzynie z  [[Rennes Le Château]]
+Skrzynie z [[Rennes Le Château]]
 
 Plymouth trunki
 
@@ -60,7 +60,7 @@ Irlandia – logu pokładowego brak: albo nic nie
 doładowywali, albo było coś na lewo
 
 Nic nie doszło do logów pokładowych, może coś wyładowano, ale
-o tym nie ma wzmianki,  ani o zmianie
+o tym nie ma wzmianki, ani o zmianie
 ilości osób na statku. Wypłynęli po paru godzinach.
 
 ## Podrzędne

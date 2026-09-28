@@ -2,7 +2,7 @@
 name: "Posiadłość Marshallów"
 kategoria: "lokacja"
 typ: "Dom"
-rodzic: "[[Capitoll Hill]]"
+rodzic: "[[Capitol Hill]]"
 tagi: []
 prywatne: false
 image: "[[Posiadłość Marshallów.jpg]]"
@@ -14,7 +14,7 @@ kanka_id: 9260537
 
 ## Opis
 
-Dom w [[Capitoll Hill]] w [[Denver]]. Mieszka w nim [[Dewey C. Bailey]] wraz z żoną [[Adella Brown Bailey]].
+Dom w [[Capitol Hill]] w [[Denver]]. Mieszka w nim [[Dewey C. Bailey]] wraz z żoną [[Adella Brown Bailey]].
 
 Dawno temu zaprojektowany przez [[Ophelia Harding]].
 

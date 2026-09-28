@@ -1,5 +1,5 @@
 ---
-name: "Dante Aligheri"
+name: "Dante Alighieri"
 kategoria: "postać"
 typ: "NPC"
 tytuł: "Pisarz"
@@ -31,7 +31,7 @@ ataki: []
 tagi: []
 prywatne: false
 image:
-aliases: []
+aliases: ["Dante Aligheri"]
 cssclasses: ["karta-postaci"]
 kanka_id: 7138361
 ---
@@ -42,7 +42,7 @@ kanka_id: 7138361
 
 ## Opis
 
-Dante Alighieri (ur. w maju lub czerwcu 1265 we Florencji, zm. 13 lub 14 września 1321 w Rawennie) – włoski poeta, filozof i polityk,często nazywany „ostatnim poetą średniowiecza i jednocześnie pierwszym poetą nowych czasów”[2].
+Dante Alighieri (ur. w maju lub czerwcu 1265 we Florencji, zm. 13 lub 14 września 1321 w Rawennie) – włoski poeta, filozof i polityk, często nazywany „ostatnim poetą średniowiecza i jednocześnie pierwszym poetą nowych czasów”[2].
 
 Jego najwybitniejszym dziełem jest poemat [[Boska Komedia]], uważany za arcydzieło literatury światowej i szczytowe osiągnięcie literatury średniowiecznej. Utwór jest w całości napisany po włosku.
 

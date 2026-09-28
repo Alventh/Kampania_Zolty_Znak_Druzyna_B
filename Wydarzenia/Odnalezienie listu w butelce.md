@@ -19,7 +19,7 @@ fc-date: "1920-08-09"
 
 ## Opis
 
-[[Lucke Klausen]] łowi ryby jak zwykle w [[Jezioro Sloan]] kiedy nagle w swoich sieciach natrafia na [[Butelka z listem]] zawierającą [[List Z Butelki]]. Widząc wagę tego znaleziska oddaje butelkę do [[Muzeum Natury i Nauki (lokacja)|Muzeum Natury i Nauki]] gdzie trafia w końcu w ręce [[Edward Herbert Tomson]]
+[[Lucke Klausen]] łowi ryby jak zwykle w [[Jezioro Sloan]] kiedy nagle w swoich sieciach natrafia na [[Butelka z listem]] zawierającą [[List z Butelki]]. Widząc wagę tego znaleziska oddaje butelkę do [[Muzeum Natury i Nauki (lokacja)|Muzeum Natury i Nauki]] gdzie trafia w końcu w ręce [[Edward Herbert Tomson]]
 
 ## Podrzędne
 

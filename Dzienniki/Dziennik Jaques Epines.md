@@ -29,9 +29,9 @@ Po ponad 20 latach odkąd tu jesteśmy, w tej zapomnianej przez wszystkich górs
 
 Wyprawimy z tej okazji biesiadę dla mieszkańców. Rzecz jasna nie podamy im prawdziwego powodu. Nazwiemy to festiwalem wiosennym lub innym tego typu frazesem. Perette zajmie się organizacją i tą całą maskaradą, to wprost jej powołanie.
 
-Żaden z górników rzecz jasna nie ma pojęcia jak istotnego odkrycia w historii całej ludzkości dokonali. Nawet Pan Galloway, człowiek niezwykłe bystry jak na swoje nie-szlacheckie pochodzenie, nie wydaje się podejrzewać wagi tegoż odkrycia.
+Żaden z górników rzecz jasna nie ma pojęcia jak istotnego odkrycia w historii całej ludzkości dokonali. Nawet Pan Galloway, człowiek niezwykle bystry jak na swoje nie-szlacheckie pochodzenie, nie wydaje się podejrzewać wagi tegoż odkrycia.
 
-Wielkie rzeczy bywają niepozorne, tak też niepozorna narazie jest mała komnata, którą nakazaliśmy wybudować w pustej grocie wokół źródła i połączyć bezpośrednio z naszą posiadłością. Każdą z części wybudował inny górnik, tak, aby żaden nie mógł domyśleć się prawdziwego przeznaczenia tego, co robił.
+Wielkie rzeczy bywają niepozorne, tak też niepozorna na razie jest mała komnata, którą nakazaliśmy wybudować w pustej grocie wokół źródła i połączyć bezpośrednio z naszą posiadłością. Każdą z części wybudował inny górnik, tak, aby żaden nie mógł domyśleć się prawdziwego przeznaczenia tego, co robił.
 
 Galloway nie został wtajemniczony celowo. Zbyt długo suszy mi on już głowę o to, że kopalnie nie przynoszą zysków i że powinniśmy zakończyć kopanie w tym miejscu. Zaczynało mi już brakować wymówek, niedopowiedzeń i przestrzeni do ignorowania jego ciągłego ględzenia, na szczęście będziemy mogli wkrótce z tym skończyć. Źródło znalezione! Zatem i farsę z kopalnią można zakończyć. Utrzymamy jeszcze minimalną ekipę dla zachowania pozorów przez kilka miesięcy a później…
 

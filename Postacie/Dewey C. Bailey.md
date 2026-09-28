@@ -54,9 +54,9 @@ To on sprowadził do Denver i jego
 
 Ma żonę [[Adella Brown Bailey]]
 
-Po działaniach [[Agencja Detektywistyczna Phelps & Harding]], śmierci Candlisha oraz uwolnieniu Holdema, 20 Sierpnia pojawił się [[Artykuł o anomaliach]], napisany przez samego  który zdawał się przekreślać jego szansę na kolejną kadencję. Jakimś cudem został ponownie wybrany burmistrzem.
+Po działaniach [[Agencja Detektywistyczna Phelps & Harding]], śmierci Candlisha oraz uwolnieniu Holdema, 20 sierpnia pojawił się [[Artykuł o anomaliach]], napisany przez samego który zdawał się przekreślać jego szansę na kolejną kadencję. Jakimś cudem został ponownie wybrany burmistrzem.
 
-Po porażce popadł w paranoję. Używa [[Zapiski Z Carcossy]] już nie jak środka do władzy i bogactwa, a jak Biblii której poświęcił się bez reszty.
+Po porażce popadł w paranoję. Używa [[Zapiski z Carcossy]] już nie jak środka do władzy i bogactwa, a jak Biblii której poświęcił się bez reszty.
 
 ## Powiązane wpisy
 

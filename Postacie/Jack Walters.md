@@ -46,7 +46,7 @@ Gwiazdor filmowy, kochanek [[Elle Flynn]]. Kiedy zaginęła, wynajął [[Agencja
 
 Uczestniczył w śledztwie bo jak stwierdził "Chce się lepiej przygotować do roli detektywa". Miał odgrywać taką postać w jego nadchodzącym filmie "Sleeping with the Fishes"
 
-Brał udział w wydarzeniach w [[Chinatown (wydarzenie)|Chinatown]] ([[Chinatown (lokacja)|Chinatown]] - miejsce) oraz pomagał przedostać się do posiadłosci [[Basil Torrance]]. Zniknął w niewyjaśnionych okolicznościach pozostawiając po sobie jedynie kopię [[Król w Żółci]]
+Brał udział w wydarzeniach w [[Chinatown (wydarzenie)|Chinatown]] ([[Chinatown (lokacja)|Chinatown]] - miejsce) oraz pomagał przedostać się do posiadłości [[Basil Torrance]]. Zniknął w niewyjaśnionych okolicznościach pozostawiając po sobie jedynie kopię [[Król w Żółci]]
 
 ## Powiązane wpisy
 

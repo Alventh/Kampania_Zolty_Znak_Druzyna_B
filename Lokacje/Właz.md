@@ -14,9 +14,9 @@ kanka_id: 7138313
 
 ## Opis
 
-Znajdujący się na terenie na którym wcześniej było [[Jezioro Sloan]] właz do [[Placówka Yithian]]. Odnaleziony przez [[Nolan Hawthorne]] który uznał go za wejście do [[Piekło]] niczym te opisane w [[Boska Komedia]] autorstwa [[Dante Aligheri]]
+Znajdujący się na terenie na którym wcześniej było [[Jezioro Sloan]] właz do [[Placówka Yithian]]. Odnaleziony przez [[Nolan Hawthorne]] który uznał go za wejście do [[Piekło]] niczym te opisane w [[Boska Komedia]] autorstwa [[Dante Alighieri]]
 
-Wydostawała się tędy [[czarnaMaź]] z Placówka Yithian, kiedy wody zaczęły opadać.
+Wydostawała się tędy [[Czarna Maź]] z Placówka Yithian, kiedy wody zaczęły opadać.
 
 ## Podrzędne
 

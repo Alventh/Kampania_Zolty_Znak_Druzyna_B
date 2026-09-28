@@ -44,7 +44,7 @@ kanka_id: 6933956
 
 Szef [[Policja w Denver]]. Bliski współpracownik Burmistrza [[Dewey C. Bailey]].
 
-Candlish był również "Wielkim Czarownikiem" [[Ku Klux Klan]]. Członków zarówno Policji jak i Klanu ( często jego współpracownicy należeli do obu tych ugrupowań) wykorzystywał do porywania ludzi których planował wraz [[Kult Hastura]] złożyć w ofierze na [[Farma Goździków]] w trakcie [[Pełnia Aldebaran]] w 1920 roku. Większość członków jego świty nie było świadomych jego okultystycznych zapędów, myśleli że przeprowadzają czystki na tle rasowym.
+Candlish był również "Wielkim Czarownikiem" [[Ku Klux Klan]]. Członków zarówno Policji jak i Klanu (często jego współpracownicy należeli do obu tych ugrupowań) wykorzystywał do porywania ludzi których planował wraz [[Kult Hastura]] złożyć w ofierze na [[Farma Goździków]] w trakcie [[Pełnia Aldebaran]] w 1920 roku. Większość członków jego świty nie było świadomych jego okultystycznych zapędów, myśleli że przeprowadzają czystki na tle rasowym.
 
 Candlish był jednym z oryginalnych członków Kultu Hastura, co zostało wspomniane w [[Opowieść Arthura]].
 

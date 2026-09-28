@@ -42,7 +42,7 @@ kanka_id: 7937544
 
 ## Opis
 
-Żona [[Dewey C. Bailey]], nie świadoma działalności okultystycznej męża.
+Żona [[Dewey C. Bailey]], nieświadoma działalności okultystycznej męża.
 
 ## Powiązane wpisy
 

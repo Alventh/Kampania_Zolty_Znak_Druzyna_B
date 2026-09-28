@@ -21,7 +21,7 @@ fc-date: "0001-08-08"
 
 Zrównanie się w jednej linii wszystkich gwiazd z gromady [[Hiady]] w konstelacji byka w tym gwiazdy [[Aldebaran]] pozwalające na największy wpływ [[Carcossa]] i [[Hastur]] na ludzi i Ziemię.
 
-Zdarza się raz do roku 8 Sierpnia.
+Zdarza się raz do roku 8 sierpnia.
 
 ## Podrzędne
 

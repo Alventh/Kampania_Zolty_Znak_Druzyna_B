@@ -1,5 +1,5 @@
 ---
-name: "Bransoleta  z koniem"
+name: "Bransoleta z koniem"
 kategoria: "przedmiot"
 typ: "Artefakt"
 rodzic: "[[Artefakty]]"

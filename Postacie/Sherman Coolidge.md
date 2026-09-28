@@ -42,9 +42,9 @@ kanka_id: 6934430
 
 ## Opis
 
-Sherman był [[Górnicy Cripple Creek]] i pracował całe życie w [[Kopalnia w Cripple Creek]]  Urodzony w 1842 w [[Cripple Creek]]. Ma indiańskie korzenie plemienia [[Arapaho (organizacja)|Arapaho]]
+Sherman był [[Górnicy Cripple Creek]] i pracował całe życie w [[Kopalnia w Cripple Creek]] Urodzony w 1842 w [[Cripple Creek]]. Ma indiańskie korzenie plemienia [[Arapaho (organizacja)|Arapaho]]
 
-w 1865 roku wziął sobie za żonę [[Sophie Coolidge]] z domu Loren. 1870 Sophie umiera na gruźlicę. Sherman obwinia o to [[Percival Donahew]] lokalnego prałata z [[Kościół św Kevina]] który nie pożyczył wozu Shermanowi aby ten mógł przetransportować żonę do szpitala w [[Denver]]. Zamiast tego polecił on gorliwie się modlić.
+W 1865 roku wziął sobie za żonę [[Sophie Coolidge]] z domu Loren. 1870 Sophie umiera na gruźlicę. Sherman obwinia o to [[Percival Donahew]] lokalnego prałata z [[Kościół św. Kevina]] który nie pożyczył wozu Shermanowi aby ten mógł przetransportować żonę do szpitala w [[Denver]]. Zamiast tego polecił on gorliwie się modlić.
 
 Sherman przeklął prałata i boga. Pochował żonę we własnym ogrodzie i nigdy już nie wstąpił na teren kościoła.
 
@@ -56,13 +56,13 @@ Sherman obiecuje osobom w kłopotach zwłaszcza zdrowotnych pomoc i wsparcie duc
 
 Zrzesza w swoich szeregach rodzinę [[Caldwell]] oraz [[Turner]]
 
-Kierowany coraz silniejszymi sugestiami od Ethana Epines, sugeruje zarządcy kopalni [[Carl Bradshaw]] użycie dynamitu do poszerzenia najniższego pokładu kopalni. Otwiera tym samym drogę na zasypane stare tunele kopalni uwalniając ducha Ethana oraz [[Leo Galloway]]. Doprowadza to śmierci [[Albert Quint]] oraz [[Robert „Bob” Sanders|Robert "Bob" Sanders]],a z czasem do zachorowań wśród górników w tym [[Jeremy Folger]] a finalnie i [[Zamknięcie Kopalni]]
+Kierowany coraz silniejszymi sugestiami od Ethana Epines, sugeruje zarządcy kopalni [[Carl Bradshaw]] użycie dynamitu do poszerzenia najniższego pokładu kopalni. Otwiera tym samym drogę na zasypane stare tunele kopalni uwalniając ducha Ethana oraz [[Leo Galloway]]. Doprowadza to do śmierci [[Albert Quint]] oraz [[Robert „Bob” Sanders|Robert "Bob" Sanders]], a z czasem do zachorowań wśród górników w tym [[Jeremy Folger]] a finalnie i [[Zamknięcie Kopalni]]
 
 Twórca [[Ołtarz w górach]].
 
-Po przyjeździe badaczy wraz [[Cecile Caldwell]] otwierał nocami okna w [[Szkoła]] kościele i domach mieszkańców aby pnącza mogły się posilić.
+Po przyjeździe badaczy wraz z [[Cecile Caldwell]] otwierał nocami okna w [[Szkoła]] kościele i domach mieszkańców aby pnącza mogły się posilić.
 
-Zniknął po porzuceniu [[Lilian Harding]], [[Benjamin Smith]], [[Edmund]], [[Hank Miller]] oraz [[Archibald Bradford]] w kopalni. zwabił ich na najniższy pokład i udał awarię windy. Kiedy wszyscy poszli eksplorować tunelę, sam został pod pretekstem naprawy windy. Kiedy pozostali członkowie ekspedycji odeszli tunelami dostatecznie daleko, uruchomił ją i wyjechał na powierzchnię.
+Zniknął po porzuceniu [[Lilian Harding]], [[Benjamin Smith]], [[Edmund]], [[Hank Miller]] oraz [[Archibald Bradford]] w kopalni. Zwabił ich na najniższy pokład i udał awarię windy. Kiedy wszyscy poszli eksplorować tunele, sam został pod pretekstem naprawy windy. Kiedy pozostali członkowie ekspedycji odeszli tunelami dostatecznie daleko, uruchomił ją i wyjechał na powierzchnię.
 
 Zmarł wyssany przez Pnącza w tunelu prowadzącym do [[Komnata pod posiadłością Bethania]]
 

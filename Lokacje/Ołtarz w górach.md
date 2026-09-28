@@ -14,7 +14,7 @@ kanka_id: 6940061
 
 ## Opis
 
-Ołtarz [[Palamque]] wykorzystywany przez [[Sherman Coolidge]], [[Cecile Caldwell]] oraz część rodzin z [[Cripple Creek]]. Wokół ołtarza rosły [[Pnącza Czarnych Róż]] które pożywiały się z przynoszonych przez mieszkańców słoiów z krwią.
+Ołtarz [[Palamque]] wykorzystywany przez [[Sherman Coolidge]], [[Cecile Caldwell]] oraz część rodzin z [[Cripple Creek]]. Wokół ołtarza rosły [[Pnącza Czarnych Róż]] które pożywiały się z przynoszonych przez mieszkańców słoików z krwią.
 
 Wysadzony przez [[Edmund]] za pomocą dynamitu
 

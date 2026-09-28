@@ -42,7 +42,7 @@ kanka_id: 7012167
 
 ## Opis
 
-laureat Nagrody Nobla w dziedzinie chemii w 1918 roku za syntezę amoniaku z azotu i wodoru.
+Laureat Nagrody Nobla w dziedzinie chemii w 1918 roku za syntezę amoniaku z azotu i wodoru.
 
 W roku 1913 przedsiębiorstwo BASF wybudowało w Ludwigshafen fabrykę, w której rozpoczęto produkcję amoniaku z wodoru i azotu z atmosfery. W prasie pisano w tym czasie, że Haber „zrobił chleb z powietrza”. Dziś światowa produkcja nawozów azotowych, wytwarzanych metodą Habera-Boscha, osiąga kilkaset milionów ton rocznie[8]. Dzięki produkcji nawozów azotowych Haber został milionerem.
 

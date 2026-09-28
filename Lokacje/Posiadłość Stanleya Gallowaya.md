@@ -1,18 +1,18 @@
 ---
-name: "Posiadłość Stanleya Galloway"
+name: "Posiadłość Stanleya Gallowaya"
 kategoria: "lokacja"
 typ: "Dom"
-rodzic: "[[Capitoll Hill]]"
+rodzic: "[[Capitol Hill]]"
 tagi: []
 prywatne: false
 image:
-aliases: []
+aliases: ["Posiadłość Stanleya Galloway"]
 kanka_id: 9260536
 ---
 
 ## Opis
 
-Dom w której mieszka [[Stanley Galloway]] potomek [[Edward Galloway]]
+Dom w którym mieszka [[Stanley Galloway]] potomek [[Edward Galloway]]
 
 ## Podrzędne
 

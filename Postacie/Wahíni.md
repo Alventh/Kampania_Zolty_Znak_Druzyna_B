@@ -43,9 +43,9 @@ kanka_id: 8152866
 ## Opis
 
 Wahíni to stara 79 kobieta z plemienia [[Arapaho (organizacja)|Arapaho]]. Mieszka w [[Wioska Arapaho]] w rezerwacie niedaleko [[Boulder]] w [[Colorado]].
-Wahini wraz z [[Niibéíhei (Przepowiadający Deszcz)]] są duchowymi przewodnikami społeczności. Posiada ona dużą wiedzą o przeszłości plemienia, chociaż nie wie wszystkiego tak dobrze jak Niibéíhei.
+Wahini wraz z [[Niibéíhei (Przepowiadający Deszcz)]] są duchowymi przewodnikami społeczności. Posiada ona dużą wiedzę o przeszłości plemienia, chociaż nie wie wszystkiego tak dobrze jak Niibéíhei.
 
-Kiedy [[Benjamin Smith]] [[Lilian Harding]] [[Eleanor „Nellie” Harding|Eleanor "Nellie" Harding]] [[William Boothby]] oraz [[Victoria Woodhull]] przyjechali do Wioski, testowała ich za pomocą długiej kościanej igły. Smakowała ich krew i od razu wyczuła, że są pod zgubnym wpływem Carcossy. Szaleństwo w ich krwii daje o sobie znać, ale najbardziej naznaczona jest Nellie.
+Kiedy [[Benjamin Smith]] [[Lilian Harding]] [[Eleanor „Nellie” Harding|Eleanor "Nellie" Harding]] [[William Boothby]] oraz [[Victoria Woodhull]] przyjechali do Wioski, testowała ich za pomocą długiej kościanej igły. Smakowała ich krew i od razu wyczuła, że są pod zgubnym wpływem Carcossy. Szaleństwo w ich krwi daje o sobie znać, ale najbardziej naznaczona jest Nellie.
 
 Zaprowadziła ich do Tipi wodza.
 

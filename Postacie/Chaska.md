@@ -42,9 +42,9 @@ kanka_id: 8152872
 
 ## Opis
 
-12 letni chłopak mieszkający w [[Wioska Arapaho]], jest ciekawy świata, chce zostać wojownikiem.
+12-letni chłopak mieszkający w [[Wioska Arapaho]], jest ciekawy świata, chce zostać wojownikiem.
 
-Kiedy Gracze przyjechali do wioski, był zafascynowany psem [[William Boothby]] o imieniu [[Legat]].  Kiedy Gracze zostali rozbrojeni w lesie. Przywłaszczył sobie [[Rękawica]] należącą do [[Benjamin Smith]]
+Kiedy Gracze przyjechali do wioski, był zafascynowany psem [[William Boothby]] o imieniu [[Legat]]. Kiedy Gracze zostali rozbrojeni w lesie. Przywłaszczył sobie [[Rękawica]] należącą do [[Benjamin Smith]]
 
 ## Powiązane wpisy
 

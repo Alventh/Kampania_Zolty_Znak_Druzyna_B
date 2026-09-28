@@ -1,5 +1,5 @@
 ---
-name: "Lilian spotyka się z Axelem."
+name: "Lilian spotyka się z Axelem"
 kategoria: "wydarzenie"
 typ:
 rodzic:

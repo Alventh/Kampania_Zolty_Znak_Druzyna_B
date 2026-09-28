@@ -1,5 +1,5 @@
 ---
-name: "List Z Butelki"
+name: "List z Butelki"
 kategoria: "dziennik"
 typ:
 rodzic:
@@ -11,7 +11,7 @@ lokacja: "[[Jezioro Sloan]]"
 tagi: []
 prywatne: false
 image: "[[Butelka z listem.png]]"
-aliases: []
+aliases: ["List Z Butelki"]
 kanka_id: 6938330
 ---
 
@@ -19,7 +19,7 @@ kanka_id: 6938330
 
 ## Podsumowanie
 
-Montmartre,  3 maj 1791
+Montmartre, 3 maj 1791
 
 [[Jean Dupont]], pierwszy oficer
 
@@ -29,9 +29,9 @@ Dni na naszym statku są policzone. Sztorm, który nawiedził nas wczoraj wieczo
 
 Załoga traci zdrowy rozsądek, a kapitan zamknął się w swojej kajucie, bełkocząc bez przerwy w języku, którego nie rozumiem. Nie wiem, ile minęło czasu, bo ciemność wokół nas jest wszechobecna, a powietrze stało się... ciężkie, jakby coś nas otaczało, coś gęstszego niż mgła.
 
-Latarnia na dziobie zgasła, a miejsce nieba zajęła dziwna, lśniąca czerń.  Statek zachowuje się jakby na czymś osiadł, nie czuje żadnego falowania. Próbowaliśmy zrzucić szalupę, ale plasnęła głośno a potem rozłupała się na pół na jakimś kamieniu. Czyżby mielizna?
+Latarnia na dziobie zgasła, a miejsce nieba zajęła dziwna, lśniąca czerń. Statek zachowuje się jakby na czymś osiadł, nie czuje żadnego falowania. Próbowaliśmy zrzucić szalupę, ale plasnęła głośno a potem rozłupała się na pół na jakimś kamieniu. Czyżby mielizna?
 
-Kiedy opuszczamy pokład, faktycznie pod kilku centymetrową warstwą wody, czuć jakiś grunt, a stłumione echo naszych kroków odbija się od czegoś, co nie jest oceanem. Ktoś powiedział, że czuje zapach ziemi. Nie wiem, co to oznacza, słońce powinno dawno temu wzejść.
+Kiedy opuszczamy pokład, faktycznie pod kilkucentymetrową warstwą wody, czuć jakiś grunt, a stłumione echo naszych kroków odbija się od czegoś, co nie jest oceanem. Ktoś powiedział, że czuje zapach ziemi. Nie wiem, co to oznacza, słońce powinno dawno temu wzejść.
 
 Ktokolwiek to znalazł...
 

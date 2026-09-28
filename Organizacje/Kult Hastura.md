@@ -15,7 +15,7 @@ kanka_id: 6933959
 
 ## Opis
 
-Kult założony przez [[Algernon Witherby]], [[William Candlish]] , [[Manny DeMarco]] [[Arthur Holdem]], [[Dorian Shaw]], [[Carl Bradshaw]] w trakcie [[Powstanie Kultu Hastura w Denver]]opisane w [[Opowieść Arthura]]
+Kult założony przez [[Algernon Witherby]], [[William Candlish]], [[Manny DeMarco]] [[Arthur Holdem]], [[Dorian Shaw]], [[Carl Bradshaw]] w trakcie [[Powstanie Kultu Hastura w Denver]] opisane w [[Opowieść Arthura]]
 
 **Role członków:**
 

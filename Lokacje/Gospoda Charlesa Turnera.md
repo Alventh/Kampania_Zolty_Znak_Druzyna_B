@@ -1,12 +1,12 @@
 ---
-name: "Gospoda Charlsa Turnera"
+name: "Gospoda Charlesa Turnera"
 kategoria: "lokacja"
 typ: "Gospoda"
 rodzic: "[[Cripple Creek]]"
 tagi: []
 prywatne: false
 image:
-aliases: []
+aliases: ["Gospoda Charlsa Turnera"]
 kanka_id: 6940132
 ---
 

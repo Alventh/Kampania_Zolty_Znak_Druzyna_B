@@ -22,9 +22,9 @@ twórcy: []
 
 Księga w języku łacińskim opisująca różne rytuały związane z kontrolą nad czasem.
 
-To tej księgi uzył [[Richard Uchrmaher]] aby przyzwać [[Dawca Czasu]] i zakląć go w [[ZłotyZegarekUchrmachera]].
+To tej księgi użył [[Richard Uchrmaher]] aby przyzwać [[Dawca Czasu]] i zakląć go w [[Złoty Zegarek Uchrmahera]].
 
-Kopia tej księgi, zniszczona, była w [[Biblioteka Carcosy]]. Druka należała do [[Posiadłość Stanleya Galloway]] i była przekazywana z pokolenia na pokolenie. Lata temu [[Wilhelm Galloway]] zdobył ją na prośbe [[Jaques Epines]] i została ona dostaczona do [[Edward Galloway]]. Po śmierci Jaques Epines została w rodzinie Gallowayów.
+Kopia tej księgi, zniszczona, była w [[Biblioteka Carcosy]]. Druga należała do [[Posiadłość Stanleya Gallowaya]] i była przekazywana z pokolenia na pokolenie. Lata temu [[Wilhelm Galloway]] zdobył ją na prośbę [[Jaques Epines]] i została ona dostarczona do [[Edward Galloway]]. Po śmierci Jaques Epines została w rodzinie Gallowayów.
 
 ## Podrzędne
 

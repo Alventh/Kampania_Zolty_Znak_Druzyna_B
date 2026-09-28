@@ -42,9 +42,9 @@ kanka_id: 6934348
 
 ## Opis
 
-Górnik( Na fot. z lewej)  który został wysłany przez [[Carl Bradshaw]]wraz z jego towarzyszem [[Albert Quint]] aby wykonać kilka strategicznych wystrzałów dynamitem by poszerzyć tunele i odnaleźć bogate żyły złota.
+Górnik (Na fot. z lewej) który został wysłany przez [[Carl Bradshaw]] wraz z jego towarzyszem [[Albert Quint]] aby wykonać kilka strategicznych wystrzałów dynamitem by poszerzyć tunele i odnaleźć bogate żyły złota.
 
-W wyniku błędu w pomiarach ( po drugiej stronie ściany nie była lita skała jak zakładali, a pusta przetrzeń starych tuneli porzuconych kopalnii) zawalił się na nich strop. Sanders zmarł pod zawałem. Jego ciało zostało wyssane przez [[Pnącza Czarnych Róż]] A jego duch pozostał przywiązany do rumowiska pod którym zginął.
+W wyniku błędu w pomiarach (po drugiej stronie ściany nie była lita skała jak zakładali, a pusta przestrzeń starych tuneli porzuconych kopalni) zawalił się na nich strop. Sanders zmarł pod zawałem. Jego ciało zostało wyssane przez [[Pnącza Czarnych Róż]] A jego duch pozostał przywiązany do rumowiska pod którym zginął.
 
 ## Powiązane wpisy
 

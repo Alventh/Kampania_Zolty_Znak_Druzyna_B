@@ -14,7 +14,7 @@ kanka_id: 6934612
 
 ## Opis
 
-Gromada gwiazd w konstelacji byka. Jej najjaśniejszą gwiazdą jest [[Aldebaran]]
+Gromada gwiazd w konstelacji Byka. Jej najjaśniejszą gwiazdą jest [[Aldebaran]]
 
 ## Podrzędne
 

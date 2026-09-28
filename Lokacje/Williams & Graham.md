@@ -16,7 +16,7 @@ kanka_id: 6938250
 
 Tajny bar ukryty za fasadą księgarni. To tam grywał [[Robert Johnson]]. W tym też miejscu spotkali się [[Owen Pierce]] i [[Arthur Holdem]] przed pojmaniem ich przez [[William Candlish]].
 
-8 Sierpnia 1920 roku tuż przed [[Pełnia Aldebaran]] [[Lilian Harding]], [[Cole Phelps]], [[Benjamin Smith]] i [[Axel Bonton]] zostali tutaj złapani i wywiezieni na [[Farma Goździków]]
+8 sierpnia 1920 roku tuż przed [[Pełnia Aldebaran]] [[Lilian Harding]], [[Cole Phelps]], [[Benjamin Smith]] i [[Axel Bonton]] zostali tutaj złapani i wywiezieni na [[Farma Goździków]]
 
 ## Podrzędne
 

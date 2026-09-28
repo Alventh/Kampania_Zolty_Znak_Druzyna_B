@@ -1,26 +1,20 @@
 ---
-name: "Kościół św Kevina"
+name: "Ogród przy domu Shermana Coolidge'a"
 kategoria: "lokacja"
-typ: "Kościół"
+typ: "Ogród"
 rodzic: "[[Cripple Creek]]"
 tagi: []
 prywatne: false
-image: "[[Kościół św Kevina.png]]"
-aliases: []
-kanka_id: 6940056
+image: "[[Ogród przy domu Shermana Coolidge'a.webp]]"
+aliases: ["Ogród przy domu Shermana Coolidge"]
+kanka_id: 8877103
 ---
 
-![[Kościół św Kevina.png|300]]
+![[Ogród przy domu Shermana Coolidge'a.webp|300]]
 
 ## Opis
 
-Budynek należący do [[Kościół Katolicki]]
-
-Prałatem jest tam [[Edmund]], wcześniej [[Percival Donahew]]
-
-Na pobliskim cmentarzu pochowani są mieszkańcy [[Cripple Creek]] między innymi rodzina [[Galloway]].
-
-W podziemiach kościoła znajdują się katakumby. Po [[Trzęsienie ziemi]] odkryła się wcześniej zamurowana komnata będąca kiedyś mauzoleum rodziny [[Epines]].
+Ogród koło domu [[Sherman Coolidge]] w [[Cripple Creek]]. Rośnie w nim wielki dąb na którym wiszą spiralne symbole związane z [[Arapaho (rasa, Car)|Arapaho]] i [[Palamque]]
 
 ## Podrzędne
 

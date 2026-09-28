@@ -59,7 +59,7 @@ Latarnia zawsze była i tak pozostanie
 
 W jakim momencie życia by tu nie zawitał
 
-Chory czy zdrowy rozpaczyczy euforii
+Chory czy zdrowy rozpaczy czy euforii
 
 Znajdzie ją tu zawsze czekającą cicho pośród eonów swej historii
 

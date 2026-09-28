@@ -17,7 +17,7 @@ kanka_id: 6934719
 
 Studio filmowe [[Manny DeMarco]]
 
-To tu miał powstać film [[Basil Torrance]]Torrance na podstawie książki [[Król w Żółci]]
+To tu miał powstać film [[Basil Torrance]] na podstawie książki [[Król w Żółci]]
 
 Kolejna przykrywka [[Kult Hastura]]
 
