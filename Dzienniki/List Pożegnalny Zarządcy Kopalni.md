@@ -23,21 +23,6 @@ fc-date: "1920-08-22"
 
 ![[9d87c101-928c-4d1a-986c-3ffa98197da9_9a8b29c5.png]]
 
-## Wątki
-
-
-## Łupy i wskazówki
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

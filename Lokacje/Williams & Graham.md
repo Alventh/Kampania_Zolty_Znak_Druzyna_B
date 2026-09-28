@@ -18,15 +18,6 @@ Tajny bar ukryty za fasadą księgarni. To tam grywał [[Robert Johnson]]. W tym
 
 8 Sierpnia 1920 roku tuż przed [[Pełnia Aldebaran]] [[Lilian Harding]], [[Cole Phelps]], [[Benjamin Smith]] i [[Axel Bonton]] zostali tutaj złapani i wywiezieni na [[Farma Goździków]]
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

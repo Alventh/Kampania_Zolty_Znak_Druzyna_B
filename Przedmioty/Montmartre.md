@@ -63,15 +63,6 @@ Nic nie doszło do logów pokładowych, może coś wyładowano, ale
 o tym nie ma wzmianki,  ani o zmianie
 ilości osób na statku. Wypłynęli po paru godzinach.
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

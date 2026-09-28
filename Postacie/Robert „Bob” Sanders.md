@@ -46,21 +46,6 @@ Górnik( Na fot. z lewej)  który został wysłany przez [[Carl Bradshaw]]wraz z
 
 W wyniku błędu w pomiarach ( po drugiej stronie ściany nie była lita skała jak zakładali, a pusta przetrzeń starych tuneli porzuconych kopalnii) zawalił się na nich strop. Sanders zmarł pod zawałem. Jego ciało zostało wyssane przez [[Pnącza Czarnych Róż]] A jego duch pozostał przywiązany do rumowiska pod którym zginął.
 
-## Wygląd
-
-
-## Osobowość
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Powiązane wpisy
 
 ```dataviewjs

@@ -24,15 +24,6 @@ Pierwotnie podarowana [[Elle Flynn]] przez [[Benjamin Smith]]. Zaginęła razem 
 
 Benjamin odnalazł ją w skrzyni w antykwariacie [[Algernon Witherby]]. Szybko po dotknięciu okazało się, iż teraz przedmiot ma nadnaturalne właściwości i przenosi właściciela na dziwną polanę z niebem o dwojgu słońcach na której można porozmawiać z [[Dobroczyńca]]
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

@@ -126,21 +126,6 @@ mieście, spadające poparcie. No wszystko wskazywało i nadal wskazuje, że kol
 kadencji nie uda mu się wygrać. Wtedy na którymś ze spotkań przedstawił nam
 swój genialny plan. To był dzień w którym powiedziałem sobie, że mam dość.
 
-## Wątki
-
-
-## Łupy i wskazówki
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

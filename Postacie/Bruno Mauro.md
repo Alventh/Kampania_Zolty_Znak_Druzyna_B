@@ -44,21 +44,6 @@ kanka_id: 7387338
 
 Zarządca [[Restauracja Gaetano's]], prawa ręka Braci Carlino.
 
-## Wygląd
-
-
-## Osobowość
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Powiązane wpisy
 
 ```dataviewjs

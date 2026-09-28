@@ -21,15 +21,6 @@ fc-date: "1784-06-12"
 
 Narodziny [[Ethan Epines]] syna [[Pierette Epines]] i [[Jaques Epines]] w [[Rennes Le Château]].
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

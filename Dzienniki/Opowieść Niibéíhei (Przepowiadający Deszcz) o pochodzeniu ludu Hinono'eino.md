@@ -29,21 +29,6 @@ Nauczyli oni ludzi, jak przetrwać, bo sami uciekali przed wielką wojną i ulit
 
 Z czasem odeszli, wody otulające świat opadły, a mój lud zamieszkiwał te ziemie, aż nie przybyli nowi najeźdcy zza wielkich wód. Wy...
 
-## Wątki
-
-
-## Łupy i wskazówki
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

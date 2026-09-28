@@ -44,21 +44,6 @@ kanka_id: 8770269
 
 Mieszkanka [[Cripple Creek]], żona burmistrza [[Hank Miller]] oraz matka [[William „Billy” Miller|William "Billy" Miller]] i [[Ruth Miller]]
 
-## Wygląd
-
-
-## Osobowość
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Powiązane wpisy
 
 ```dataviewjs

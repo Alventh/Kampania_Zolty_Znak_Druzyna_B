@@ -52,21 +52,6 @@ Opracował Cyklon B.
 
 Uczestnik [[Aukcja]] gdzie został poproszony przez [[Charlotte Reed]] o udział w [[Ekspedycja]]
 
-## Wygląd
-
-
-## Osobowość
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Powiązane wpisy
 
 ```dataviewjs

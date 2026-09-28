@@ -50,21 +50,6 @@ Ustalił iż pochodzi on ze statku [[Montmartre]] i nie ma możliwości aby znal
 
 W związku z brakiem funduszy i czasu na prowadzenie badań na własną rękę, zgłosił się do [[Agencja Detektywistyczna Phelps & Harding]] znanej w mieście z rozwiązywania dziwnych spraw.
 
-## Wygląd
-
-
-## Osobowość
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Powiązane wpisy
 
 ```dataviewjs

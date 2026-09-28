@@ -44,21 +44,6 @@ kanka_id: 7138312
 
 Student wychowania fizycznego, kumpel i pomocnik [[Nolan Hawthorne]]
 
-## Wygląd
-
-
-## Osobowość
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Powiązane wpisy
 
 ```dataviewjs

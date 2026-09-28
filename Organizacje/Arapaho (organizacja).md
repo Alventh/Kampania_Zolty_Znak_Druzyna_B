@@ -11,18 +11,6 @@ aliases: ["Arapaho"]
 kanka_id: 6940053
 ---
 
-## Opis
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

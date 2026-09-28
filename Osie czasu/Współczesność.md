@@ -42,15 +42,6 @@ Okres istnienia ludzkości na planecie [[Ziemia]]
 - **2 Listopada 1920** — [[Chinatown (wydarzenie)]]
 - **5 Listopada 1920** — [[Śmierć Basila Torrence]]
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

@@ -50,21 +50,6 @@ Odnalazła [[Dr. Ernest Ceriani Raport Medyczny]] w krzakach nad strumieniem i p
 
 Zmarła w [[Komnata pod posiadłością Bethania]] w trakcie wydarzenia [[Śmierć Ethana Epines]]
 
-## Wygląd
-
-
-## Osobowość
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Powiązane wpisy
 
 ```dataviewjs

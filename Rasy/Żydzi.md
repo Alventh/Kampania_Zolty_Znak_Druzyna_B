@@ -11,18 +11,6 @@ aliases: []
 kanka_id: 7012166
 ---
 
-## Opis
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

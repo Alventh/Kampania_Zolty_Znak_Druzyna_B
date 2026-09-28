@@ -23,15 +23,6 @@ Siły policyjne w [[Denver]].
 | --- | --- |
 | [[William Candlish]] | Szef Policji w Denver |
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

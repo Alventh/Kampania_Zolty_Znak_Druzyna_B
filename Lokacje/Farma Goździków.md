@@ -20,15 +20,6 @@ To tu przetrzymywany był [[Arthur Holdem]].
 
 Była miejscem częstych spotkań Kultu od momentu jego powstania ([[Powstanie Kultu Hastura w Denver]]) aż do wydarzeń [[Bitwa Płonących Krzyży]] w której spłonęła.
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

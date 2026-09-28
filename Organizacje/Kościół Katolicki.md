@@ -21,15 +21,6 @@ kanka_id: 6935834
 | --- | --- |
 | [[Edmund]] | Ksiądz |
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

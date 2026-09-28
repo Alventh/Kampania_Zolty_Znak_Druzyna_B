@@ -18,15 +18,6 @@ Antykwariat należący do [[Dale Cooper]]. Kolekcjonera rzadkich okazów książ
 
 Gdy Październiku 1920 roku wyjechał z [[Denver]] z niejaką Panną Dyer, archeolożką. Pozostawił swój sklep pod opieką [[Victoria Woodhull]].
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

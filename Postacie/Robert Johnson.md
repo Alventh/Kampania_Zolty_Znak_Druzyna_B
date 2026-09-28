@@ -50,21 +50,6 @@ Stracił możliwość grania na gitarze po uszkodzeniu przedramion przez gwoźdz
 
 Zatrudnił się na kolei, pracował razem z Benjaminem Smithem.
 
-## Wygląd
-
-
-## Osobowość
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Powiązane wpisy
 
 ```dataviewjs

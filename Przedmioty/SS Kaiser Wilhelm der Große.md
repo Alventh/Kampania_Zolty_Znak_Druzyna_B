@@ -38,15 +38,6 @@ Po zejściu na ląd, wisiały na Tobie ubrania. Pamiętasz że słońce raziło 
 
 Po zejściu na ląd na Borysie wisiały ubrania i strasznie raziło go słońce, nikt nie chciał mu niczego wyjaśnić. W swoich rzeczach [[Borys Schmidt]] znalazł węglowy szkic, ewidentnie stworzony przez niego. Przedstawiający latarnię morską w jakiejś grocie.
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

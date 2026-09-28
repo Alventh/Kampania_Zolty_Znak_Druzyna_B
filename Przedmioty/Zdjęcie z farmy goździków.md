@@ -25,15 +25,6 @@ Zdjęcie znalezione przez badaczy na [[Farma Goździków]], przedstawiające ory
 Od lewej z góry [[Carl Bradshaw]], [[William Candlish]] [[Dewey C. Bailey]] [[Dorian Shaw]]
 od lewej niżej [[Algernon Witherby]] [[Manny DeMarco]] [[Basil Torrance]] [[Arthur Holdem]]
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

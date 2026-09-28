@@ -25,15 +25,6 @@ Walka na [[Farma Goździków]] pomiędzy [[William Candlish]] i lojalnymi mu cz�
 
 Zakończyła się śmiercią Williama Candlisha oraz jego lojalistów i zwycięstwem badaczy.
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

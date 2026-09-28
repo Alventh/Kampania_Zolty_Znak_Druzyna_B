@@ -58,21 +58,6 @@ Po działaniach [[Agencja Detektywistyczna Phelps & Harding]], śmierci Candlish
 
 Po porażce popadł w paranoję. Używa [[Zapiski Z Carcossy]] już nie jak środka do władzy i bogactwa, a jak Biblii której poświęcił się bez reszty.
 
-## Wygląd
-
-
-## Osobowość
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Powiązane wpisy
 
 ```dataviewjs

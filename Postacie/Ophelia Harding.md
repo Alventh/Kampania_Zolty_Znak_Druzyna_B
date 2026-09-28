@@ -54,21 +54,6 @@ W końcu postanowiła zmienić [[Rezydencja Harding]] w [[Pluckley]] w "Wieczny 
 
 Niestety jej umysł skorumpowany wpływem króla w żółci, wymuszał na niej ciągłe poprawki i udoskonalanie projektu. Remont i przebudowy rozciągnęły się na całe dekady. Dziewczynki zdążyły dorosnąć, a gdy wyjechały z domu, Ophelia zupełnie postradała zmysły. Tworząc coraz to bardziej zagmatwane plątaniny korytarzy. Dom obniża się ku swojemu centrów które jest kilka metrów niżej niż reszta domu, co sprawia, że z zewnątrz dom wydaje się dużo mniejszy niż jest w rzeczywistości.W końcu gdy dom stał się kwintesencją jej życiowej dewizy, przyciągając do tego stopnia, że zmarli w okolicy nie mogą już odejść w zaświaty. Dom zmienił się w studnię dusz.
 
-## Wygląd
-
-
-## Osobowość
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Powiązane wpisy
 
 ```dataviewjs

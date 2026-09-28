@@ -29,15 +29,6 @@ Artefakt przez stulecie podtrzymywał moc rytuału który w końcu został przer
 
 Po walce odzyskany na prośbę [[Dobroczyńca]] przez [[Benjamin Smith]]
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

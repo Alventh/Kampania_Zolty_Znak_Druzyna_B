@@ -17,15 +17,6 @@ Rodzina Harding z miasta [[Pluckley]]
 
 Jedynymi żyjącymi przedstawicielkami są [[Lilian Harding]] i [[Eleanor „Nellie” Harding|Eleanor "Nellie" Harding]]
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

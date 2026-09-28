@@ -44,21 +44,6 @@ kanka_id: 7138311
 
 Student Chemii na [[Uniwersytet Denver (lokacja)|Uniwersytet Denver]] kumpel [[Nolan Hawthorne]] oraz
 
-## Wygląd
-
-
-## Osobowość
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Powiązane wpisy
 
 ```dataviewjs

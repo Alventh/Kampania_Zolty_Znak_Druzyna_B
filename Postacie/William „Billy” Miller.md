@@ -54,21 +54,6 @@ Uczęszczał na zajęcia w [[Szkoła]] gdzie uczyła go [[Victoria Woodhull]]
 
 Zmarł w [[Komnata pod posiadłością Bethania]] w trakcie wydarzenia [[Śmierć Ethana Epines]]
 
-## Wygląd
-
-
-## Osobowość
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Powiązane wpisy
 
 ```dataviewjs

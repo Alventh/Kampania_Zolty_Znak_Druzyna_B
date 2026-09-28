@@ -13,9 +13,6 @@ kanka_id: 6547711
 
 ![[Kalendarz.jpg|300]]
 
-## Opis
-
-
 ## Miesiące i dni tygodnia
 
 **Bieżąca data w grze:** 1920-11-10
@@ -42,9 +39,6 @@ kanka_id: 6547711
 | Z kim | Relacja | Stosunek |
 | --- | --- | --- |
 | [[Współczesność]] | Kalendarz |  |
-
-> [!mg]- Tylko dla MG
-> 
 
 ## Podrzędne
 

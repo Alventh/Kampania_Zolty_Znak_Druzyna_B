@@ -21,15 +21,6 @@ fc-date: "1920-11-05"
 
 [[Basil Torrance]] umiera w swojej posiadłości, wysadzony w powietrze przez dynamit rzucony przez [[Benjamin Smith]]
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

@@ -18,15 +18,6 @@ Miasto w [[Illinois]]
 
 Pochodzi stąd [[John „Blackjack” Jerome|John "Blackjack" Jerome]] oraz jego [[Agencja Detektywistyczna Johnna „Blackjacka” Jerome|Agencja Detektywistyczna Johnna "Blackjacka" Jerome]]
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

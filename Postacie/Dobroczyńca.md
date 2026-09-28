@@ -52,21 +52,6 @@ W zamian za informację ostrzeżenie przed "Gwiazdą" poprosił [[Benjamin Smith
 
 Po odzyskaniu przez Benjamina artefaktu, Dobroczyńca udzielił mu informacji, że człowiekiem który wie coś na temat jego żony jest @JackWalters. W zamian za tę informację, poprosił o zakopanie Artefaktu na [[Pusta Działka w Denver]]
 
-## Wygląd
-
-
-## Osobowość
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Powiązane wpisy
 
 ```dataviewjs

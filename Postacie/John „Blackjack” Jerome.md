@@ -48,21 +48,6 @@ Został wynajęty przez Burmistrza [[Denver]] [[Dewey C. Bailey]] do stłamszeni
 
 Tak naprawdę miał służyć jedynie jako kozioł ofiarny dla niecnych planów [[Kult Hastura]]
 
-## Wygląd
-
-
-## Osobowość
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Powiązane wpisy
 
 ```dataviewjs

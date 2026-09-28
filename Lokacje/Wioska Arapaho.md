@@ -16,15 +16,6 @@ kanka_id: 7200547
 
 Wioska Arapaho w [[Colorado]] położona niedaleko [[Boulder]] należąca do [[Rezerwat Arapaho]]. Jej wodzem jest [[Niibéíhei (Przepowiadający Deszcz)]].
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

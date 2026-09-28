@@ -44,21 +44,6 @@ kanka_id: 7139732
 
 Jane Harwood pochodząca z [[Sutton]] w stanie [[Massachusets]]Jest asystentką [[Adam H. Morrison]] w [[Redakcja Denver Post]]
 
-## Wygląd
-
-
-## Osobowość
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Powiązane wpisy
 
 ```dataviewjs

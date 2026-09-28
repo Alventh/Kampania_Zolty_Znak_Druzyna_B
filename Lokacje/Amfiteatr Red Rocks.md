@@ -12,18 +12,6 @@ kanka_id: 6547836
 
 ![[Amfiteatr Red Rocks.jpg|300]]
 
-## Opis
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

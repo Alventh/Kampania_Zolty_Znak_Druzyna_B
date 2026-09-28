@@ -16,15 +16,6 @@ kanka_id: 6547192
 
 Część kraju [[USA (lokacja)|USA]]
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

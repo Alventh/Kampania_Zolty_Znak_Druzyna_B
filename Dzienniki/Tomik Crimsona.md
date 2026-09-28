@@ -65,21 +65,6 @@ Znajdzie ją tu zawsze czekającą cicho pośród eonów swej historii
 
 Bo latarnia jest tu zawsze, była i będzie i tak pozostanie
 
-## Wątki
-
-
-## Łupy i wskazówki
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

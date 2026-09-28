@@ -16,15 +16,6 @@ kanka_id: 6932764
 
 Miasto portowe w [[Niemcy]]. Główny ośrodek transportu transatlantyckiego z tego regionu [[Europa]]
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

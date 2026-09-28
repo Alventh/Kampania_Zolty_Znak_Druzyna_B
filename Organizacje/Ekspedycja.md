@@ -19,15 +19,6 @@ kanka_id: 7861228
 | --- | --- |
 | [[Charlotte Reed]] | Przywódca |
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

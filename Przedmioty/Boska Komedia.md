@@ -26,15 +26,6 @@ Pierwsze wydanie drukiem Boskiej komedii, w języku włoskim, wyszło w 1472 r. 
 
 Poemat przedstawia wizję wędrówki poety przez zaświaty – [[Piekło]], Czyściec i Raj. Pomysł wędrówki w zaświaty (zwany katabazą) Dante zaczerpnął od swoich poprzedników – motyw ten pojawia się w literaturze starożytnego Rzymu (bezpośrednią inspiracją Dantego była Eneida Wergiliusza[2]) jak i literaturze okresu średniowiecza. Dante rozwinął ten motyw w obszerny poemat, czyniąc samego siebie głównym bohaterem, chociaż należy mieć świadomość, że w poemacie mamy do czynienia z dwoma wcieleniami Dantego – po pierwsze bohatera, który wędruje po zaświatach, po drugie narratora, który z perspektywy czasu opowiada historię swojej wędrówki.
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

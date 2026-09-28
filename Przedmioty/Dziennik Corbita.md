@@ -18,18 +18,6 @@ twórcy: ["[[Corbit]]"]
 
 ![[Dziennik Corbita.png|300]]
 
-## Opis
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

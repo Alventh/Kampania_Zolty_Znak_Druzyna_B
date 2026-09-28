@@ -27,15 +27,6 @@ To do nich należy [[Kino Rivoli]] w którym [[Benjamin Smith]] uszkodził proje
 | [[Enzo „Gruby” Bianchi]] | Członek |
 | [[Bruno Mauro]] | Członek |
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

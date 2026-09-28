@@ -46,21 +46,6 @@ Rybak w średnim wieku, pochodzący z Niemiec ([[Niemcy]])
 
 Całymi dniami przesiaduje nad brzegiem [[Jezioro Sloan]] i łowi ryby. To on odnalazł [[Butelka z listem]] i przekazał ją [[Edward Herbert Tomson]]
 
-## Wygląd
-
-
-## Osobowość
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Powiązane wpisy
 
 ```dataviewjs

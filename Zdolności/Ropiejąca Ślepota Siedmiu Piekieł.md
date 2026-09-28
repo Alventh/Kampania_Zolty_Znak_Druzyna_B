@@ -35,15 +35,6 @@ na skórze są widoczne tylko niewielkie odbarwienia.
 Każde takie doświadczenie kosztuje ofiarę 1/1K6+1 punktów
 Poczytalności.
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

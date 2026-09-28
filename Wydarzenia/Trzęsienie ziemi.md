@@ -25,15 +25,6 @@ Było spowodowane agresywną ekspancją [[Pnącza Czarnych Róż]] w tunelach po
 
 Efektem były zniszczone domy, odkryte pomieszczenie w katakumbach [[Kościół św Kevina]], zawalony tunel wyjazdowy z miasteczka, oraz zapadnięcie się gruntu pod autem badaczy zaparkowanym koło szkoły.
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

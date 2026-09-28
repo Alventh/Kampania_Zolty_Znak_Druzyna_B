@@ -46,21 +46,6 @@ Antykwariusz. Właściciel [[Antykwariat Biały Kruk]] w [[Denver]]
 
 Wyjechał wraz z Eve Dyer aby uratować znanego poetę Crimsona. Pozostawił antykwariat pod okiem [[Victoria Woodhull]]
 
-## Wygląd
-
-
-## Osobowość
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Powiązane wpisy
 
 ```dataviewjs

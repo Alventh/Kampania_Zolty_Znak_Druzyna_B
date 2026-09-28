@@ -24,15 +24,6 @@ Rytualny nóż stworzony przez [[Corbit]]. Był jedyną rzeczą mogącą przebi�
 
 Miał własną świadomość i lewitował nad ziemią, Gdy [[Lilian Harding]] i [[Cole Phelps]] zeszli do piwnicy [[Dom Corbita]], zaatakował ich.  Cole pochwycił go i wbił w ciało Corbitta.
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

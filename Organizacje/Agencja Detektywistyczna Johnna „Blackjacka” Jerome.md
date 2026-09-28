@@ -17,15 +17,6 @@ kanka_id: 6934504
 
 Agencja z [[Chicago]]. Zostali wynajęci do stłamszenia zamieszek w [[Denver]] w 1920 roku
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

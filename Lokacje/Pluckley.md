@@ -16,15 +16,6 @@ Niewielkie miasteczko w [[Colorado]] w pobliżu [[Boulder]] i [[Wioska Arapaho]]
 
 Rodzinna miejscowość rodziny *(usunięty wpis)*
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

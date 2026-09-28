@@ -18,15 +18,6 @@ Szkoła w której nauczała [[Victoria Woodhull]]. Jedyna placówka edukacyjna w
 
 Swój tymczasowy gabinet lekarski miał tutaj [[Ernest Ceriani]].
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

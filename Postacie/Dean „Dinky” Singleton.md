@@ -44,21 +44,6 @@ kanka_id: 6547823
 
 Właściciel [[Redakcja Denver Post]] oraz udziałowiec wielu innych instytucji oraz miejsc takich jak [[Amfiteatr Red Rocks]] czy [[Kopalnia w Cripple Creek]]
 
-## Wygląd
-
-
-## Osobowość
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Powiązane wpisy
 
 ```dataviewjs

@@ -44,21 +44,6 @@ kanka_id: 7937544
 
 Żona [[Dewey C. Bailey]], nie świadoma działalności okultystycznej męża.
 
-## Wygląd
-
-
-## Osobowość
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Powiązane wpisy
 
 ```dataviewjs

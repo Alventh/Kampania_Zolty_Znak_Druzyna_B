@@ -23,15 +23,6 @@ fc-date: "1920-08-21"
 
 Pomocy po wypadku udziela im [[Ernest Ceriani]] [[Victoria Woodhull]] oraz [[Edmund]]
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

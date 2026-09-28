@@ -21,15 +21,6 @@ fc-date: "1916-01-12"
 
 Dzień w którym [[Elle Flynn]] nie wytrzymuje dłużej zapijaczonego męża [[Benjamin Smith]] i opuszcza ich mieszkanie. Wkrótce potem zmienia swoje nazwisko "Smith" na panieńskie "Flynn"
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

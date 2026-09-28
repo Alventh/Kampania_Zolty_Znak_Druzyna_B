@@ -50,21 +50,6 @@ Bardzo dba o swoich ludzi, wspierał wszystkich po [[Zamknięcie Kopalni]]. Siln
 
 Mąż [[Eunice Miller]] ,ojciec [[Ruth Miller]] i  którzy zmarli w trakcie wydarzenia [[Śmierć Ethana Epines]]
 
-## Wygląd
-
-
-## Osobowość
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Powiązane wpisy
 
 ```dataviewjs

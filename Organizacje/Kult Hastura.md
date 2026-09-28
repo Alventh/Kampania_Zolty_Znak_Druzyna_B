@@ -29,15 +29,6 @@ Kult założony przez [[Algernon Witherby]], [[William Candlish]] , [[Manny DeMa
 | [[Manny DeMarco]] | Członek |
 | [[Owen Pierce]] | Członek |
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

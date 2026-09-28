@@ -27,15 +27,6 @@ tags: ["mg"]
 
 ![[9d86e3cc-d9d6-4235-80ec-a8692862ac08_412df979.jpg]]
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

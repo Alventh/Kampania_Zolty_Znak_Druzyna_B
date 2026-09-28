@@ -18,15 +18,6 @@ Dom w [[Boston]] należący pierwotnie do  [[Corbit]]. Był przez Corbita nawied
 
 [[Agencja Detektywistyczna Phelps & Harding]] przyjęła zlecenie na zbadanie tej sprawy. Zakończyło się to pokonaniem Corbitta i oczyszczeniem domu.
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

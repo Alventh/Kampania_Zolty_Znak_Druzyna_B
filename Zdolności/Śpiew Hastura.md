@@ -38,15 +38,6 @@ ofiary spadnie do zera lub gdy ofiara umrze wskutek utraty punktów
 Wytrzymałości, jej ciało puchnie i eksploduje z obrzydliwym hukiem, a parująca
 posoka rozlewa się po ziemi.
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

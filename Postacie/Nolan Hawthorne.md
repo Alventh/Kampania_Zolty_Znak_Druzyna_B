@@ -46,21 +46,6 @@ Student w [[Uniwersytet Denver (organizacja)|Uniwersytet Denver]]. Jego główny
 
 Wraz z [[Molly Whitmore]], [[Tommy „Spryciarz” Malone|Tommy "Spryciarz" Malone]] oraz [[Jack „Byk” Callahan|Jack "Byk" Callahan]] próbuje otworzyć [[Właz]] na [[Jezioro Sloan]], wierząc że są to *(usunięty wpis)*
 
-## Wygląd
-
-
-## Osobowość
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Powiązane wpisy
 
 ```dataviewjs

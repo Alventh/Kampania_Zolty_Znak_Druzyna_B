@@ -44,21 +44,6 @@ kanka_id: 7937556
 
 Kandydat na burmistrza [[Denver]], był głównym przeciwnikiem [[Dewey C. Bailey]] w wyborach po [[Pełnia Aldebaran]] w Sierpniu 1920 roku. Nie udało mu się wygrać, ale był silnym kandydatem który nawet po przegranych wyborach stanowił silną opozycję w mieście dla rzędów Baileya.
 
-## Wygląd
-
-
-## Osobowość
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Powiązane wpisy
 
 ```dataviewjs

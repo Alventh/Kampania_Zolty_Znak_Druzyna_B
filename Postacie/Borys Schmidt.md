@@ -97,8 +97,6 @@ Rzut testu: `dice: 1d100` · Kość premiowa/karna: `dice: 1d10`
 
 ### Ekwipunek i majątek
 
-
-
 ## Historia
 
 [[SS Kaiser Wilhelm der Große]] którym płynąłeś wypływał z [[Bremerhaven]] do [[Southampton]] a później przez atlantyk.
@@ -126,21 +124,6 @@ Później było tylko gorzej.  Następnego ranka sprawdził się twój obraz. Je
  Po 9 sierpnia miałeś około 2 tygodnie spokoju, później kilka obrazów tygodniowo, później znowu spokój, do początku listopada, i znów obraz za obrazem. Bez wytchnienia.
 
 A między każdym dużym obrazem, na marginesach, na kartkach nawet przysypiając, latarnia. [[Szkic latarni]]
-
-## Wygląd
-
-
-## Osobowość
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
 
 ## Powiązane wpisy
 

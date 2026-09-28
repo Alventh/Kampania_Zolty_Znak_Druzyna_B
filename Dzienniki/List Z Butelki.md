@@ -35,21 +35,6 @@ Kiedy opuszczamy pokład, faktycznie pod kilku centymetrową warstwą wody, czu�
 
 Ktokolwiek to znalazł...
 
-## Wątki
-
-
-## Łupy i wskazówki
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

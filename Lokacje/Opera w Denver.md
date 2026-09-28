@@ -16,15 +16,6 @@ kanka_id: 7807276
 
 Gmach Opery w [[Denver]]
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

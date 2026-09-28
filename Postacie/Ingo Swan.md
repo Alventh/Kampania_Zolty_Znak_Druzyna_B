@@ -97,26 +97,6 @@ Rzut testu: `dice: 1d100` · Kość premiowa/karna: `dice: 1d10`
 
 ### Ekwipunek i majątek
 
-
-
-## Historia
-
-
-## Wygląd
-
-
-## Osobowość
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Powiązane wpisy
 
 ```dataviewjs

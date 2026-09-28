@@ -18,15 +18,6 @@ Znajdujący się na terenie na którym wcześniej było [[Jezioro Sloan]] właz 
 
 Wydostawała się tędy [[czarnaMaź]] z Placówka Yithian, kiedy wody zaczęły opadać.
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

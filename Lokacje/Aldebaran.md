@@ -20,15 +20,6 @@ To tam według wierzeń znajduje się [[Carcossa]]
 
 Każdego roku 8 sierpnia dochodzi do tak zwanej [[Pełnia Aldebaran]] w trakcie której możliwy jest znacznie silniejszy kontakt między [[Ziemia]] a Carcossa.
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

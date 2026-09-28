@@ -44,21 +44,6 @@ kanka_id: 7937587
 
 Był Mistrzem ceremonii w trakcie [[Aukcja]] w [[Opera w Denver]]. To on zaproponował dla [[William Boothby]] pracę przy tej uroczystości. Prawdziwy specjalista w swoim fachu.
 
-## Wygląd
-
-
-## Osobowość
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Powiązane wpisy
 
 ```dataviewjs

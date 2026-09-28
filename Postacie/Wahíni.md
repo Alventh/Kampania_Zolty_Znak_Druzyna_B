@@ -49,21 +49,6 @@ Kiedy [[Benjamin Smith]] [[Lilian Harding]] [[Eleanor „Nellie” Harding|Elean
 
 Zaprowadziła ich do Tipi wodza.
 
-## Wygląd
-
-
-## Osobowość
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Powiązane wpisy
 
 ```dataviewjs

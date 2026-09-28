@@ -48,21 +48,6 @@ Wykorzystany przez [[Sherman Coolidge]] do włamywania się do domów, otwierani
 
 Skonfrontował się z badaczami w piwnicy [[Bethania]] gdzie popadł w szaleństwo uderzając się własnym młotkiem po głowie. Uspokojony przez [[Victoria Woodhull]], został rozjuszony przez głośne egzorcyzmy odprawiane przez [[Edmund]]. Zaatakował badaczy. Zmarł postrzelony przez  [[Cole Phelps]] w samo serce.
 
-## Wygląd
-
-
-## Osobowość
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Powiązane wpisy
 
 ```dataviewjs

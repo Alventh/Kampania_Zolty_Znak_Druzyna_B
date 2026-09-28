@@ -23,15 +23,6 @@ Operująca głównie w [[Chinatown (lokacja)|Chinatown]] organizacja przestępcz
 | --- | --- |
 | [[Madam Feng]] | Qíngfù |
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

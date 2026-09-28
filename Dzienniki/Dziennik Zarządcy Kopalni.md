@@ -77,21 +77,6 @@ Kopalnia musi pozostać zamknięta, sam tego dopilnuję. O królu. Nie wiedział
 
 Nikt nie może tam zejść, rozgniewaliśmy go, nikt nie może tam zejść, już nigdy. Upewnię się! Zablokuję te cholerną windę, już nikt tam nie zjedzie i…
 
-## Wątki
-
-
-## Łupy i wskazówki
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

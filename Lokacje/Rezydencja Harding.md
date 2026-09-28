@@ -14,15 +14,6 @@ kanka_id: 9260893
 
 Dom rodzinny [[Harding]]
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

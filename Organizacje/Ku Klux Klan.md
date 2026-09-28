@@ -21,15 +21,6 @@ w 1920 roku działająca dość jawnie na Republikańskich terenach jakim było 
 
 Przywódcą (Wielkim Czarownikiem) Klanu w Denver w 1920 roku był [[William Candlish]] Do sił klanu należało mnóstwo członków [[Policja w Denver]].
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

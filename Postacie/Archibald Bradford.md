@@ -46,21 +46,6 @@ Szeryf miasteczka [[Cripple Creek]]. Od czasu [[Zamknięcie Kopalni]] popadł w 
 
 Brał udział w eksploracji [[Kopalnia w Cripple Creek]] wraz z badaczami oraz w [[Śmierć Ethana Epines]] w [[Komnata pod posiadłością Bethania]]
 
-## Wygląd
-
-
-## Osobowość
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Powiązane wpisy
 
 ```dataviewjs

@@ -29,15 +29,6 @@ Cały plan miał doprowadzić do złożenia w ofierze ogromnej ilości ludzi w t
 
 Plany zostały ostatecznie udaremnione przez badaczy [[Cole Phelps]] ,[[Lilian Harding]], [[Benjamin Smith]] oraz [[Axel Bonton]] którzy nie tylko zabili Williama Candlisha, ale też uratowali [[Arthur Holdem]] członka klanu który zdezerterował.
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

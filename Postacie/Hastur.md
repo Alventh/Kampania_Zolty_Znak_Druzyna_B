@@ -46,21 +46,6 @@ kanka_id: 6934347
 
 ![[9d879f30-5a7f-49f6-b997-0f7090f0f960_a8777a97.jpg]]
 
-## Wygląd
-
-
-## Osobowość
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Powiązane wpisy
 
 ```dataviewjs

@@ -12,18 +12,6 @@ kanka_id: 6938308
 
 ![[Muzeum Natury i Nauki (lokacja).png|300]]
 
-## Opis
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

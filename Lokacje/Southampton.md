@@ -16,15 +16,6 @@ Główny port w [[Anglia]] z którego odpływały transatlantyckie statki do [[U
 
 Stąd wypływały statki [[Montmartre]] oraz [[SS Kaiser Wilhelm der Große]]
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

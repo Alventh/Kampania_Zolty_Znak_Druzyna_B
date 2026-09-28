@@ -48,21 +48,6 @@ Kiedy umierała poczuła skruchę i opowiedziała księdzu [[Edmund]], że przez
 
 Zmarła zostawiając swojego chorego umysłowo 40 letniego syna [[Cecile Caldwell]]
 
-## Wygląd
-
-
-## Osobowość
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Powiązane wpisy
 
 ```dataviewjs

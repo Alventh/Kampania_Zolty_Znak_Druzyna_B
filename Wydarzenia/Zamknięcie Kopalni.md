@@ -23,15 +23,6 @@ Po śmierci [[Albert Quint]] oraz [[Robert „Bob” Sanders|Robert "Bob" Sander
 
 Wspomniane między innymi w [[Dziennik Zarządcy Kopalni]]
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

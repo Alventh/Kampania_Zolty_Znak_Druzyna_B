@@ -52,21 +52,6 @@ To on przetrzymywał [[Owen Pierce]] po tym gdy ten został przyłapany na prób
 
 Mimo pokrzyżowanych planów Kultu i śmierci Candlisha. Dalej pozostaje na swojej funkcji ordynatora, gotów do pomocy Kultowi w każdej chwili.
 
-## Wygląd
-
-
-## Osobowość
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Powiązane wpisy
 
 ```dataviewjs

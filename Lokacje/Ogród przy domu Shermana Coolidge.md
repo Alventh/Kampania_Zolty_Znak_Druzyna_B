@@ -16,15 +16,6 @@ kanka_id: 8877103
 
 Ogrod koło domu [[Sherman Coolidge]] w [[Cripple Creek]]. Rośnie w nim wielki dąb na którym wiszą spiralne symbole związene z [[Arapaho (rasa, Car)|Arapaho]] i [[Palamque]]
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

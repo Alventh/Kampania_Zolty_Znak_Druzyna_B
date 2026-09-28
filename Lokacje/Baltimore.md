@@ -16,15 +16,6 @@ kanka_id: 6932911
 
 Miasto portowe w [[USA (lokacja)|USA]]
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

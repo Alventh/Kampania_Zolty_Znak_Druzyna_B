@@ -23,15 +23,6 @@ Dzień w którym [[Algernon Witherby]] zjednał sobie [[Arthur Holdem]] [[Dewey 
 
 Wydarzenie opisane w [[Opowieść Arthura]]
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

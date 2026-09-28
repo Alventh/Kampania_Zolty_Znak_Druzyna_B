@@ -28,15 +28,6 @@ Jednym z jej pracowników był zaginiony [[Arthur Holdem]]
 | [[Jane Harwood]] | Pracownik |
 | [[Adam H. Morrison]] | Dziennikarz |
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

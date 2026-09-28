@@ -16,15 +16,6 @@ kanka_id: 6937552
 
 Biuro [[Agencja Detektywistyczna Phelps & Harding]] znajdujące się na Washington Street w [[Denver]] nieopodal [[Redakcja Denver Post]]. Służy również za mieszkanie [[Lilian Harding]] i [[Cole Phelps]]
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

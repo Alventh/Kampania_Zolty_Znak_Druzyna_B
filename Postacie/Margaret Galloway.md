@@ -46,21 +46,6 @@ kanka_id: 6932787
 
 Gdy zaginął jej mąż oraz syn, mieszkała jeszcze przez kilka lat w [[Cripple Creek]] po czym zmarła ze złamanego serca.
 
-## Wygląd
-
-
-## Osobowość
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Powiązane wpisy
 
 ```dataviewjs

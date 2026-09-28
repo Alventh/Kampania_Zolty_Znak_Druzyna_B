@@ -16,15 +16,6 @@ kanka_id: 6935926
 
 Port San Juan w Puerto Rico w Ameryce południowej
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

@@ -41,21 +41,6 @@ Jedyne co nam teraz pozostało, to przygotowania. Mamy mnóstwo pracy, ale myśl
 
 Już wkrótce, mój Panie!
 
-## Wątki
-
-
-## Łupy i wskazówki
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

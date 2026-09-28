@@ -44,21 +44,6 @@ kanka_id: 7807274
 
 Pierwszy raz spotkana w [[Opera w Denver]] w trakcie [[Aukcja]]
 
-## Wygląd
-
-
-## Osobowość
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Powiązane wpisy
 
 ```dataviewjs

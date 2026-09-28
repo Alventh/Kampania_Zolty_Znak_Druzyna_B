@@ -21,15 +21,6 @@ fc-date: "1920-11-19"
 
 Aukcja zorganizowana w [[Opera w Denver]] w trakcie której licytowano [[Scenariusz Basila Torrance]], [[Obrazy]] [[Borys Schmidt]] oraz Artefakty z podróży [[Charlotte Reed]].
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

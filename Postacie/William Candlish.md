@@ -48,21 +48,6 @@ Candlish był również "Wielkim Czarownikiem" [[Ku Klux Klan]]. Członków zar�
 
 Candlish był jednym z oryginalnych członków Kultu Hastura, co zostało wspomniane w [[Opowieść Arthura]].
 
-## Wygląd
-
-
-## Osobowość
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Powiązane wpisy
 
 ```dataviewjs

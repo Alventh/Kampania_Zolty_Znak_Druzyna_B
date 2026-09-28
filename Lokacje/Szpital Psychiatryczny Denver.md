@@ -20,15 +20,6 @@ Jego Ordynatorem jest [[Dorian Shaw]]
 
 To tutaj został osadzony [[Owen Pierce]] i tutaj też zmarł.
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

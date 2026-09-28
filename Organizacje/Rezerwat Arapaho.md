@@ -21,15 +21,6 @@ kanka_id: 7200546
 | --- | --- |
 | [[Niibéíhei (Przepowiadający Deszcz)]] | Wódz |
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

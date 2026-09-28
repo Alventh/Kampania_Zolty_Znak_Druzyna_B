@@ -24,15 +24,6 @@ Chaotyczny dziennik który [[Algernon Witherby]] przywiózł ze swoich podróży
 
 Wspomniany przez [[Arthur Holdem]] w [[Opowieść Arthura]]. Nigdy nie odnaleziony. Najpewniej w posiadaniu [[Dewey C. Bailey]]
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

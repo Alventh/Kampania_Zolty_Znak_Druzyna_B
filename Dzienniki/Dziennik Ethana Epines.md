@@ -65,21 +65,6 @@ Może zaangażuję do przygotowań samego Leo? Będzie mi łatwiej zaciągnąć 
 
 Już, dziś.
 
-## Wątki
-
-
-## Łupy i wskazówki
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

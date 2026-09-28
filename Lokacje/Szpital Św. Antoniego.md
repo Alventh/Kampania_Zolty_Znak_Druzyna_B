@@ -20,15 +20,6 @@ Jego Ordynatorem jest [[Dorian Shaw]]
 
 Pracuje tu między innymi siostra [[Marry Boothby]]
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

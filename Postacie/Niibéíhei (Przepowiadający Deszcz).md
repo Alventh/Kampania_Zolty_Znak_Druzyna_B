@@ -44,21 +44,6 @@ kanka_id: 7200540
 
 Twórca [[Opowieść Niibéíhei (Przepowiadający Deszcz) o pochodzeniu ludu Hinono'eino|Opowieść Niibéíhei (Przepowiadający Deszcz) o pochodzeniu ludu  Hinono'eino]] Wódz [[Wioska Arapaho]] należącej do [[Rezerwat Arapaho]]
 
-## Wygląd
-
-
-## Osobowość
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Powiązane wpisy
 
 ```dataviewjs

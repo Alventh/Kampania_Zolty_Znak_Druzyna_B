@@ -18,15 +18,6 @@ Dzielnica w [[Denver]]. Rządzą nią [[Triady]] pod przywództwem [[Madam Feng]
 
 Miejsce wydarzeń [[Chinatown (wydarzenie)|Chinatown]]
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

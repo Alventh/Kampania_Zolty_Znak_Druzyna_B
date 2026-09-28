@@ -16,15 +16,6 @@ kanka_id: 6547299
 
 Cripple Creek. Miasto w [[Colorado]] Założone przez rodzinę [[Epines]] jako górnicza osada w Górach skalistych.
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

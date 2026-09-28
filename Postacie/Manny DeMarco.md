@@ -44,21 +44,6 @@ kanka_id: 6933957
 
 Szef [[Thule Studios]] i jeden z oryginalnych założycieli [[Kult Hastura]]
 
-## Wygląd
-
-
-## Osobowość
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Powiązane wpisy
 
 ```dataviewjs

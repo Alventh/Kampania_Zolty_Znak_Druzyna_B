@@ -14,15 +14,6 @@ kanka_id: 9260535
 
 Bogata dzielnica pełna dużych rezydencji w centrum [[Denver]]. To tutaj znajduje się między innymi [[Posiadłość Stanleya Galloway]] czy [[Posiadłość Marshallów]]
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

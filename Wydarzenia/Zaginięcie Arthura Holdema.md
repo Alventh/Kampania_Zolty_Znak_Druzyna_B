@@ -25,15 +25,6 @@ W rzeczywistości Arthur umówił się z [[Owen Pierce]] w ukrytym barze [[Willi
 
 Zostali jednak nakryci przez [[William Candlish]]. Owen został zamknięty jeszcze tej samej nocy w [[Szpital Psychiatryczny Denver]], a Arthura wywieziono na [[Farma Goździków]]
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

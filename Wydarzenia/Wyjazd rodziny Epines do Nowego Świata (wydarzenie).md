@@ -21,15 +21,6 @@ fc-date: "1789-10-21"
 
 [[Jaques Epines]], [[Pierette Epines]] i mały [[Ethan Epines]] (5 lat) uciekają z [[Rennes Le Château]] do [[USA (mapa)|USA]] aby nie dosięgła ich [[Rewolucja Francuska]]
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

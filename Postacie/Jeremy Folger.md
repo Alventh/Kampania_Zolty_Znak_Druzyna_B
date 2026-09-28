@@ -48,21 +48,6 @@ Mąż [[Jane Folger]] i ojciec [[Marvin Folger]]
 
 Umarł niedługo po śmierci [[Albert Quint]] i  . Jako jeden z niewielu zdecydował się próbować ich odkopać. Zobaczył ducha [[Leo Galloway]] i przerażony umarł kiedy w panice uciekając nadział się oczodołem na własny kilof.
 
-## Wygląd
-
-
-## Osobowość
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Powiązane wpisy
 
 ```dataviewjs

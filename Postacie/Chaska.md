@@ -46,21 +46,6 @@ kanka_id: 8152872
 
 Kiedy Gracze przyjechali do wioski, był zafascynowany psem [[William Boothby]] o imieniu [[Legat]].  Kiedy Gracze zostali rozbrojeni w lesie. Przywłaszczył sobie [[Rękawica]] należącą do [[Benjamin Smith]]
 
-## Wygląd
-
-
-## Osobowość
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Powiązane wpisy
 
 ```dataviewjs

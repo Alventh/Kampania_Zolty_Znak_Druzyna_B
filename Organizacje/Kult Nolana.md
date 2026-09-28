@@ -22,15 +22,6 @@ kanka_id: 7139748
 | [[Jack „Byk” Callahan]] | Członek |
 | [[Tommy „Spryciarz” Malone]] | Członek |
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

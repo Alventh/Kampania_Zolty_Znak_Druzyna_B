@@ -21,18 +21,6 @@ tags: ["mg"]
 
 > [!mg] Wpis prywatny w Kance — tylko dla MG
 
-## Opis
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

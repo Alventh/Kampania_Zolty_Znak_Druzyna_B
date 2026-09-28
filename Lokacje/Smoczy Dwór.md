@@ -20,15 +20,6 @@ Pracowała tu chodź krótko [[Elle Flynn]], zanim została zabrana przez [[Basi
 
 Miejsce wydarzeń [[Chinatown (wydarzenie)|Chinatown]]
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

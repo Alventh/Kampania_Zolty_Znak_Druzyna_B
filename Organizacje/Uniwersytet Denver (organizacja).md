@@ -22,15 +22,6 @@ kanka_id: 6938378
 | [[Jack „Byk” Callahan]] | Student |
 | [[Nolan Hawthorne]] | Student |
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

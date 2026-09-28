@@ -46,21 +46,6 @@ Dante Alighieri (ur. w maju lub czerwcu 1265 we Florencji, zm. 13 lub 14 wrześn
 
 Jego najwybitniejszym dziełem jest poemat [[Boska Komedia]], uważany za arcydzieło literatury światowej i szczytowe osiągnięcie literatury średniowiecznej. Utwór jest w całości napisany po włosku.
 
-## Wygląd
-
-
-## Osobowość
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Powiązane wpisy
 
 ```dataviewjs

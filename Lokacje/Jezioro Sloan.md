@@ -23,15 +23,6 @@ To tutaj [[Lucke Klausen]] odnalazł [[Butelka z listem]]
 
 Jezioro powstało w 1866 roku na miejscu wcześniej przeznaczonym na pola uprawne. Ówczesny Prezydent miasta Andrew Johnson przekazał miasto niejakiemu Thomasowi M. Sloan. Który wykopał na tych terenach studnię trafiając na jakiś podwodny akwen. Wedle legendy, kolejnego ranka obudził się część jego farmy była pod wodą.
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

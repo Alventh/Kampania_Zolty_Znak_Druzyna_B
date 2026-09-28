@@ -44,21 +44,6 @@ kanka_id: 7937661
 
 Była żona [[William Boothby]]. Pracuje w [[Szpital Św. Antoniego]].
 
-## Wygląd
-
-
-## Osobowość
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Powiązane wpisy
 
 ```dataviewjs

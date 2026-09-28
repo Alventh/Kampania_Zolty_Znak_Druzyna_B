@@ -14,15 +14,6 @@ kanka_id: 6938344
 
 Miasto portowe w południowej [[Irlandia]]
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

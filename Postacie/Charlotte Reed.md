@@ -63,21 +63,6 @@ tags: ["mg"]
 
 Obecnie wynajęta przez [[Dewey C. Bailey]] do przeprowadzenia prac nad nowo odkrytymi ruinami w [[Jezioro Sloan]].
 
-## Wygląd
-
-
-## Osobowość
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Powiązane wpisy
 
 ```dataviewjs

@@ -18,15 +18,6 @@ Pusty Plac w [[Denver]]
 
 [[Benjamin Smith]] zakopał tutaj [[Artefakt Z Cripple Creek]] na prośbę [[Dobroczyńca]]
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

@@ -24,15 +24,6 @@ Górnicy pracujący w [[Kopalnia w Cripple Creek]]
 | [[Robert „Bob” Sanders]] | Górnik |
 | [[Albert Quint]] | Górnik |
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

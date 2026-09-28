@@ -50,21 +50,6 @@ Percival odmówił twierdząć że wystarczy żarliwie się modlić.
 
 @Sophie zmarła, a Sherman pochował ją w swoim ogrodzie. Jego noga przez kolejnych 50 lat nie stanęła na kościelnej ziemi.
 
-## Wygląd
-
-
-## Osobowość
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Powiązane wpisy
 
 ```dataviewjs

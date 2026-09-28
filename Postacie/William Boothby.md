@@ -97,27 +97,10 @@ Rzut testu: `dice: 1d100` · Kość premiowa/karna: `dice: 1d10`
 
 ### Ekwipunek i majątek
 
-
-
 ## Historia
 
 Barman w [[Restauracja Gaetano's]] zarządzanej przez [[Bruno Mauro]] ale należącej do [[Rodzina Carlino]].
 Ma psa, Rottweilera imieniem [[Legat]]. W trakcie [[Dźwięk na jeziorze Sloan]] był na brzegu gdzie napotkał [[Jack „Byk” Callahan|Jack "Byk" Callahan]], [[Nolan Hawthorne]] oraz [[Tommy „Spryciarz” Malone|Tommy "Spryciarz" Malone]]. Zaatakowali oni Williama oraz mocno poturbowali Legata.
-
-## Wygląd
-
-
-## Osobowość
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
 
 ## Powiązane wpisy
 

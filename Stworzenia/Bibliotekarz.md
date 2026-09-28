@@ -15,18 +15,6 @@ kanka_id: 8212766
 
 Strażnik zbiorów w [[Biblioteka Carcosy]]
 
-## Statystyki
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

@@ -19,15 +19,6 @@ fc-date: "1920-11-14"
 
 Do siedziby Agencji trafia dwóch mężczyzn o włoskich korzeniach. [[Enzo „Gruby” Bianchi|Enzo "Gruby" Bianchi]] oraz [[Vito „Łamacz” Moretti|Vito "Łamacz" Moretti]] przybyli poinformować graczy o długu jaki mają wobec Rodziny Carlino za uszkodzenie projektora w [[Kino Rivoli]]
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

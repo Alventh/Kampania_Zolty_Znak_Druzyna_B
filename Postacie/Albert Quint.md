@@ -48,21 +48,6 @@ W wyniku błędu w pomiarach ( po drugiej stronie ściany nie była lita skała 
 
 Quint był w akcji ratunkowej Sandersa, zobaczył jednak jego ducha oraz ducha [[Leo Galloway]] co doprowadziło do jego samobójstwa przez rozbiegnięcie się w panice w ścianę tunelu i nadzianie się na własny kilof.
 
-## Wygląd
-
-
-## Osobowość
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Powiązane wpisy
 
 ```dataviewjs

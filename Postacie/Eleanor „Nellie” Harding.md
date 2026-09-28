@@ -50,21 +50,6 @@ Mieszka w posiadłości rodowej w [[Pluckley]] od dziecka. Mimo, że jest młods
 
 Po śmierci jej narzeczonego [[Vincent Fontain]], zamknęła się w sobie. Jedyną osobą jaka dotrzymuje jej towarzystwa jest jej znajomy farmaceuta [[Aaron Adelmann]].
 
-## Wygląd
-
-
-## Osobowość
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Powiązane wpisy
 
 ```dataviewjs

@@ -14,15 +14,6 @@ kanka_id: 6938343
 
 Port w południowej [[Anglia]]
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

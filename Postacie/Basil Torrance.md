@@ -46,21 +46,6 @@ Gwiazda filmowa z [[Denver]] pracująca w [[Thule Studios]].
 
 Kierowany szaleńczymi podszeptami po przeczytaniu [[Król w Żółci]] planował nakręcić film na podstawie przeklętej sztuki i wyemitować go w kinach zarażając szaleństwem całe [[USA (lokacja)|USA]] Stał za zniknięciem [[Elle Flynn]] którą planował oddać [[Hastur]] jako "żonę"
 
-## Wygląd
-
-
-## Osobowość
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Powiązane wpisy
 
 ```dataviewjs

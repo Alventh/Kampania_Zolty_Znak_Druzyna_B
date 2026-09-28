@@ -27,15 +27,6 @@ Poszukiwania kończą się ustaleniami, że Elle została przekazana w ręce nie
 
 Jack przeglądając pierwsze piętro natrafia na scenografię okultystyczno-erotycznego filmu, oraz kamerę z nagraniem. Zostaje nakryty przez ochronę lokalu i musi uciekać przez okno i dachy. Spada z dachu na ulicę po czym wraz z resztą badaczy ucieka z Chinatown.
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

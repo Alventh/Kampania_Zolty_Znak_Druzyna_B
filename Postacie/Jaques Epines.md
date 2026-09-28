@@ -53,21 +53,6 @@ Po latach poszukiwań i tworzeniu ogromnej sieci tuneli wokół swojej posiadło
 
 Nieudana próba otwarcia bramy doprowadziła do [[Śmierć Jaques i Pierette Epines]] w 1815 roku.
 
-## Wygląd
-
-
-## Osobowość
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Powiązane wpisy
 
 ```dataviewjs

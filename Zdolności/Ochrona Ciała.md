@@ -17,15 +17,6 @@ kanka_id: 6935881
 
 Zaklęcie chroniące rzucającego przed obrażeniami fizycznymi, aż do momentu gdy zużyje się jego "ładunek".
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

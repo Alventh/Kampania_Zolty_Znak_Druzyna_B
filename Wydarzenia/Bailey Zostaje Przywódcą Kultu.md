@@ -21,15 +21,6 @@ fc-date: "1919-11-28"
 
 28 Listopada 1919 [[Dewey C. Bailey]] obejmuje pozycję Przywódcy [[Kult Hastura]] po tym jak jego oryginalny założyciel [[Algernon Witherby]] postradał zmysły.
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

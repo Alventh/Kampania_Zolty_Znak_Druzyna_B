@@ -60,21 +60,6 @@ Na prośbę Victorii, zwrócił się do swojego kolegi [[Nathan S. Kline]] o prz
 
 12 Listopada 1920 roku, w trakcie dyżuru został poproszony przez Axela, o możliwość rozmowy z Lilian. Zadzwonił do niej i pokierował ją do jej byłego współpracownika.
 
-## Wygląd
-
-
-## Osobowość
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Powiązane wpisy
 
 ```dataviewjs

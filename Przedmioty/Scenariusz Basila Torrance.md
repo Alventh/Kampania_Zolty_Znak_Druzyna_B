@@ -22,15 +22,6 @@ twórcy: []
 
 Scenariusz napisany na podstawie [[Król w Żółci]] przez [[Basil Torrance]]
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

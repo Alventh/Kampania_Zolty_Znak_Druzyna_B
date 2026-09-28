@@ -44,21 +44,6 @@ kanka_id: 6940054
 
 Żona [[Sherman Coolidge]] zmarła na gruźlicę kiedy ksiądz [[Percival Donahew]] nie użyczył im wozu aby mogli pojechać do szpitala.
 
-## Wygląd
-
-
-## Osobowość
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Powiązane wpisy
 
 ```dataviewjs

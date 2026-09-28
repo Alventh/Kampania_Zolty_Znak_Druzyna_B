@@ -16,15 +16,6 @@ kanka_id: 6934350
 
 Miasto w stanie [[Colorado]] znajdujące się na północ od [[Denver]]
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

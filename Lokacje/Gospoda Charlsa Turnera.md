@@ -14,15 +14,6 @@ kanka_id: 6940132
 
 Gospoda w [[Cripple Creek]] położona w połowie drogi między tunelem wjazdowym do miasteczka a [[Kopalnia w Cripple Creek]]. Jej właścicielem jest [[Charles Turner]], prowadzi ją wraz ze swoją córką [[Elisabeth Turner]]. Często można tutaj znaleźć [[Górnicy Cripple Creek]] oraz zapitego do nieprzytomności [[Archibald Bradford]].
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

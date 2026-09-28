@@ -56,21 +56,6 @@ Pochowany przez [[Edmund]] i [[Benjamin Smith]]
 
 Zmienił się w szczurowca
 
-## Wygląd
-
-
-## Osobowość
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Powiązane wpisy
 
 ```dataviewjs

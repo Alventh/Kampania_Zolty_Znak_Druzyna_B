@@ -48,21 +48,6 @@ Spętał swego ducha we własnych zwłokach i nawiedzał po śmierci swój dom p
 
 Ostatecznie zniszczony przez [[Lilian Harding]] i [[Cole Phelps]] z [[Agencja Detektywistyczna Phelps & Harding]] z pomocą [[Rytualny Nóż]] po tym gdy 6 funkcjonariuszy [[Policja]] umarło w piwnicy. Uszkodzili oni jednak na tyle jego magiczną osłonę, umożliwiając badaczom zwycięstwo.
 
-## Wygląd
-
-
-## Osobowość
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Powiązane wpisy
 
 ```dataviewjs

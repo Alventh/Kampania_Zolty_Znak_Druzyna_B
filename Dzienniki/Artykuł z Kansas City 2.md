@@ -21,21 +21,6 @@ kanka_id: 9260894
 
 Artykuł z gazety Kansas City Star o dziwnych wypadkach w okolicy budynku który projektowała [[Ophelia Harding]]
 
-## Wątki
-
-
-## Łupy i wskazówki
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

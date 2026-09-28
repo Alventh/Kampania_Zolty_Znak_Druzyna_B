@@ -20,15 +20,6 @@ W mieszkaniu znajdującym się nad antykwariatem miało miejsce [[Powstanie Kult
 
 To tu w skrzyni spoczywała [[Bransoleta z koniem|Bransoleta  z koniem]].
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

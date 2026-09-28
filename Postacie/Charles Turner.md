@@ -46,21 +46,6 @@ Mieszkaniec [[Cripple Creek]] i właściciel [[Gospoda Charlsa Turnera]] którą
 
 Był jednym z mieszkańców których namówił [[Sherman Coolidge]] do składania ofiar z krwi na [[Ołtarz w górach]].
 
-## Wygląd
-
-
-## Osobowość
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Powiązane wpisy
 
 ```dataviewjs

@@ -46,21 +46,6 @@ Stara Chinka, właścicielka [[Smoczy Dwór]] oraz osoba trzęsąca całym [[Chi
 
 Do działań jej organizacji należy handel narkotykami (przede wszystkim opium), szmuglowanie kontrabandy takiej jak alkohol i antyki oraz artefakty orientu. Nie stronią również od sutenerstwa. Nazywana jest Qíngfù (Mistrzyni).
 
-## Wygląd
-
-
-## Osobowość
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Powiązane wpisy
 
 ```dataviewjs

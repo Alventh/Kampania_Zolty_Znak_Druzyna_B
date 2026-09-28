@@ -21,15 +21,6 @@ fc-date: "1920-08-25"
 
 Śmierć [[Ethan Epines]] w [[Komnata pod posiadłością Bethania]] z rąk [[Lilian Harding]], [[Cole Phelps]], [[Benjamin Smith]], [[Edmund]]  przy wsparciu [[Archibald Bradford]] i [[Hank Miller]]
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

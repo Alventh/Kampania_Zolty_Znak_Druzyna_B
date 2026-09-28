@@ -14,15 +14,6 @@ kanka_id: 9260536
 
 Dom w której mieszka [[Stanley Galloway]] potomek [[Edward Galloway]]
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

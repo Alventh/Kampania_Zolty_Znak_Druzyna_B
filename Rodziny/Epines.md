@@ -21,15 +21,6 @@ Przeprowadzili się oni w trakcie rewolucji Francuskiej do USA.
 
 Byli założycielami miasteczka [[Cripple Creek]].
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

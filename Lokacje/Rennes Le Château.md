@@ -12,18 +12,6 @@ kanka_id: 6547339
 
 ![[Rennes Le Château.jpg|300]]
 
-## Opis
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

@@ -16,15 +16,6 @@ kanka_id: 7387292
 
 Kino należące do [[Rodzina Carlino]]
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

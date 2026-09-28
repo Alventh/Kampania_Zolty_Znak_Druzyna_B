@@ -11,21 +11,6 @@ aliases: []
 kanka_id: 9260626
 ---
 
-## Opis
-
-
-## Statystyki
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

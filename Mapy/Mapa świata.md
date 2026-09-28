@@ -37,18 +37,6 @@ marker: default,354.617,334.587,[[Anglia]],Anglia
 marker: default,345.019,335.802,[[Southampton]],Southampton
 ```
 
-## Opis
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

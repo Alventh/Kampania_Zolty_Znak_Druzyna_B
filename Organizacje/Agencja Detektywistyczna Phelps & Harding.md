@@ -21,15 +21,6 @@ kanka_id: 6547740
 | --- | --- |
 | [[Victoria Woodhull]] | Asystentka |
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

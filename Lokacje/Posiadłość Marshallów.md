@@ -18,15 +18,6 @@ Dom w [[Capitoll Hill]] w [[Denver]]. Mieszka w nim [[Dewey C. Bailey]] wraz z �
 
 Dawno temu zaprojektowany przez [[Ophelia Harding]].
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

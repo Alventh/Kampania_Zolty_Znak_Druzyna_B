@@ -44,21 +44,6 @@ kanka_id: 9260543
 
 Rodzony brat [[Wilhelm Galloway]], stryj [[Leo Galloway]] oraz pradziadek [[Stanley Galloway]]. To do niego Wilhelm wysłał [[Liber Temporis]] i planował ją od niego odebrać. Ale gdy [[Jaques Epines]] dla którego księga była zamówiona zmarł, książka nigdy nie została odebrana. Była przekazywana z pokolenia na pokolenia aż otrzymał ją Stanley.
 
-## Wygląd
-
-
-## Osobowość
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Powiązane wpisy
 
 ```dataviewjs

@@ -28,15 +28,6 @@ Kolejna przykrywka [[Kult Hastura]]
 | [[Manny DeMarco]] | Szef |
 | [[Basil Torrance]] | Członek |
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

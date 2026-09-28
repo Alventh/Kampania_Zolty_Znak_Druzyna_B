@@ -21,18 +21,6 @@ W wyniku [[Nieudany Rytuał Otwarcia Bramy]] [[Ethan Epines]] związał w [[Komn
 
 Gdy nastąpiła [[Śmierć Ethana Epines]], uschły i przestały istnieć.
 
-## Statystyki
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

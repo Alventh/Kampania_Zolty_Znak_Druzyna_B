@@ -46,20 +46,11 @@ Bogaty przemysłowiec mieszkający w [[Posiadłość Stanleya Galloway]] w [[Cap
 
 Posiadał przekazywaną z pokolenia na pokolenie księgę [[Liber Temporis]]
 
-## Wygląd
-
-
-## Osobowość
-
-
 ## Powiązania
 
 | Z kim | Relacja | Stosunek |
 | --- | --- | --- |
 | [[Posiadłość Stanleya Galloway]] | Lokacja |  |
-
-> [!mg]- Tylko dla MG
-> 
 
 ## Powiązane wpisy
 

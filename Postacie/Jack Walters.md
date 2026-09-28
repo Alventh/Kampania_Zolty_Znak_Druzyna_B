@@ -48,21 +48,6 @@ Uczestniczył w śledztwie bo jak stwierdził "Chce się lepiej przygotować do 
 
 Brał udział w wydarzeniach w [[Chinatown (wydarzenie)|Chinatown]] ([[Chinatown (lokacja)|Chinatown]] - miejsce) oraz pomagał przedostać się do posiadłosci [[Basil Torrance]]. Zniknął w niewyjaśnionych okolicznościach pozostawiając po sobie jedynie kopię [[Król w Żółci]]
 
-## Wygląd
-
-
-## Osobowość
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Powiązane wpisy
 
 ```dataviewjs

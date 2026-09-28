@@ -66,21 +66,6 @@ Zniknął po porzuceniu [[Lilian Harding]], [[Benjamin Smith]], [[Edmund]], [[Ha
 
 Zmarł wyssany przez Pnącza w tunelu prowadzącym do [[Komnata pod posiadłością Bethania]]
 
-## Wygląd
-
-
-## Osobowość
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Powiązane wpisy
 
 ```dataviewjs

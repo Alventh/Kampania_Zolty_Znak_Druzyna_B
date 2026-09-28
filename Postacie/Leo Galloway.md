@@ -46,21 +46,6 @@ kanka_id: 6932788
 
 Złożony w ofierze w trakcie rytuału przez [[Ethan Epines]] w podziemiach [[Bethania]]
 
-## Wygląd
-
-
-## Osobowość
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Powiązane wpisy
 
 ```dataviewjs

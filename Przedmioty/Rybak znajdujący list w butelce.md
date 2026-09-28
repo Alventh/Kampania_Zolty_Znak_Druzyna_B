@@ -22,15 +22,6 @@ twórcy: ["[[Borys Schmidt]]"]
 
 ![[9d8db4d4-5cd2-4f6e-a68e-eb867de96ba8_85bdf65c.jpg]]
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

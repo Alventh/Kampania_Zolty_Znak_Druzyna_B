@@ -30,18 +30,6 @@ marker: default,322.087,305.117,[[Denver]],
 marker: default,289.914,295.04,[[Cripple Creek]],
 ```
 
-## Opis
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

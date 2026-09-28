@@ -23,15 +23,6 @@ Zrównanie się w jednej linii wszystkich gwiazd z gromady [[Hiady]] w konstelac
 
 Zdarza się raz do roku 8 Sierpnia.
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

@@ -12,18 +12,6 @@ kanka_id: 6938375
 
 ![[Uniwersytet Denver (lokacja).png|300]]
 
-## Opis
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

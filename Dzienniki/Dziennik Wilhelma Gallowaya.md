@@ -43,21 +43,6 @@ Nie wspomniałem mu też, że kilku mężczyzn próbowało wyłupać ów dziwny 
 
 Ludzie donoszą mi, iż Pan Epines, zaczął bezpośrednio nadzorować kilka swoich pomniejszych projektów, w które mnie kompletnie nie wtajemniczył. Nie rozumiem skąd taki nagły brak zaufania wobec mnie, ale nie poruszałem z nim tego tematu nie chcąc wchodzić na cienki lód jakim stała się nasza relacja. Bezpieczniej dla mnie będzie wycofać się nieco. Skoro mam mniej pracy, to mogę więcej czasu spędzać z Margaret i Leo.
 
-## Wątki
-
-
-## Łupy i wskazówki
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

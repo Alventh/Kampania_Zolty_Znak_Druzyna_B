@@ -22,15 +22,6 @@ Na pobliskim cmentarzu pochowani są mieszkańcy [[Cripple Creek]] między innym
 
 W podziemiach kościoła znajdują się katakumby. Po [[Trzęsienie ziemi]] odkryła się wcześniej zamurowana komnata będąca kiedyś mauzoleum rodziny [[Epines]].
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

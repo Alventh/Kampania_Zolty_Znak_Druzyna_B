@@ -46,21 +46,6 @@ Pierwszy oficer na francuskim ([[Francja]]) okręcie [[Montmartre]]. Statek wyp�
 
 Jean napisał w nieokreślonym momencie rejsu [[List Z Butelki]] który został odnaleziony 9 Sierpnia 1920 roku w [[Jezioro Sloan]]
 
-## Wygląd
-
-
-## Osobowość
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Powiązane wpisy
 
 ```dataviewjs

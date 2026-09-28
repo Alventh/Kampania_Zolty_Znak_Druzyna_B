@@ -62,9 +62,19 @@ body {
   --statblock-section-heading-font-color: var(--zz-zloto);
   --statblock-section-heading-border-color: var(--zz-zloto);
   --statblock-image-border-color: var(--zz-zloto);
-  --statblock-image-width: 120px;
-  --statblock-image-height: 120px;
+  --statblock-image-width: 260px;
+  --statblock-image-height: 330px;
   --statblock-image-border-size: 3px;
+}
+/* portret: prostokąt w złotej ramce zamiast małego kółka */
+.statblock-plugin-container .image img {
+  border-radius: 6px;
+  object-position: top;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.6);
+}
+.is-mobile .statblock-plugin-container {
+  --statblock-image-width: 150px;
+  --statblock-image-height: 190px;
 }
 .statblock-plugin-container a,
 .statblock-plugin-container .internal-link { color: var(--zz-link); }

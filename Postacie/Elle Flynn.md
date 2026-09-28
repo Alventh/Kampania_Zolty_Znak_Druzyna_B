@@ -46,21 +46,6 @@ kanka_id: 6934755
 
 Benjamin odnalazł ją w [[Denver]] w szponach [[Kult Hastura]] a przede wszystkim [[Basil Torrance]]. Miała zostać gwiazdą filmową w [[Thule Studios]] ale zamiast tego uwięziono ją i trzymano jako "żonę" dla [[Hastur]] . Zaślubiny miały być częścią filmu tworzonego przez studio, na podstawie sztuki [[Król w Żółci]]
 
-## Wygląd
-
-
-## Osobowość
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Powiązane wpisy
 
 ```dataviewjs

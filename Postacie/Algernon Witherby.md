@@ -58,21 +58,6 @@ Dewey C.  Bailey zastepuje go w roli przywódcy kultu w 1919 roku ([[Bailey Zost
 
 Jest oryginalnym posiadaczem [[Bransoleta z koniem|Bransoleta  z koniem]].
 
-## Wygląd
-
-
-## Osobowość
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Powiązane wpisy
 
 ```dataviewjs

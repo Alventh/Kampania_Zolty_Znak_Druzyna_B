@@ -16,15 +16,6 @@ kanka_id: 7387339
 
 Należąca do [[Rodzina Carlino]] restauracja będąca przykrywką dla baru
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

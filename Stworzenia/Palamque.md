@@ -11,21 +11,6 @@ aliases: []
 kanka_id: 6940057
 ---
 
-## Opis
-
-
-## Statystyki
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

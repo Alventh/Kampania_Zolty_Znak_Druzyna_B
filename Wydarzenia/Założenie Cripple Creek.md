@@ -17,18 +17,6 @@ fc-date: "1794-03-19"
 
 ![[Założenie Cripple Creek.png|300]]
 
-## Opis
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

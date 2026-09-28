@@ -22,15 +22,6 @@ twórcy: ["[[Benjamin Smith]]"]
 
 Rękawica ze zbroi rycerskiej którą [[Benjamin Smith]] ukradł z [[Antykwariat Witherby]]. Słuzy mu wiernie za główną broń.
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

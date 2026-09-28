@@ -17,24 +17,6 @@ fc-calendar: "Kalendarz"
 fc-date: "1920-01-15"
 ---
 
-## Podsumowanie
-
-
-## Wątki
-
-
-## Łupy i wskazówki
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

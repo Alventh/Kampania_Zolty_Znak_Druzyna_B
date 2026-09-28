@@ -17,18 +17,6 @@ fc-date: "1789-07-14"
 
 ![[Rewolucja Francuska.jpg|300]]
 
-## Opis
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

@@ -26,15 +26,6 @@ Okazało się że przed tym wydarzeniem, [[Borys Schmidt]] namalował obraz [[Ry
 
 Pochodzi z Francuskiego ([[Francja]]) statku [[Montmartre]] z 1791 roku. List znajdujący się w środku napisał pierwszy oficer [[Jean Dupont]]
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

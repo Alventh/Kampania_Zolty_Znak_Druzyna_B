@@ -52,21 +52,6 @@ Owen oszalał w wyniku tego procesu.
 
 Zmarł w Listopadzie 1920 roku, kilka dni przed tym jak [[Lilian Harding]] pobita przez [[Benjamin Smith]] trafiła do [[Szpital Św. Antoniego]] znajdującego się po sąsiedzku od Szpitala Psychiatrycznego
 
-## Wygląd
-
-
-## Osobowość
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Powiązane wpisy
 
 ```dataviewjs

@@ -97,28 +97,11 @@ Rzut testu: `dice: 1d100` · Kość premiowa/karna: `dice: 1d10`
 
 ### Ekwipunek i majątek
 
-
-
 ## Historia
 
 Współzałożyciel [[Agencja Detektywistyczna Phelps & Harding]]. Urodzony w Bostonie. Obecnie prowadzi swoją agencję w [[Denver]] Gdzie pod protektoratem [[Dean „Dinky” Singleton|Dean "Dinky" Singleton]] rozwiązuje sprawy o charakterze paranormalnym. Jego długoletnią partnerką zawodową jest medium [[Lilian Harding]].
 
 Ostatnio rozpoczął współpracę z @Victoria oraz [[Benjamin Smith]]
-
-## Wygląd
-
-
-## Osobowość
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
 
 ## Powiązane wpisy
 

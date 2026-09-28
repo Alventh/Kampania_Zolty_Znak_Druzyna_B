@@ -18,15 +18,6 @@ Ołtarz [[Palamque]] wykorzystywany przez [[Sherman Coolidge]], [[Cecile Caldwel
 
 Wysadzony przez [[Edmund]] za pomocą dynamitu
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

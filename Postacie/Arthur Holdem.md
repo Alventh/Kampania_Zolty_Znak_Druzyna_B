@@ -56,21 +56,6 @@ Poprosił o pomoc innego kultystę, młodego inspektora straży pożarnej [[Owen
 
 Uratowany z [[Farma Goździków]] przez [[Axel Bonton]] [[Benjamin Smith]] [[Cole Phelps]] oraz Lilian Harding
 
-## Wygląd
-
-
-## Osobowość
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Powiązane wpisy
 
 ```dataviewjs

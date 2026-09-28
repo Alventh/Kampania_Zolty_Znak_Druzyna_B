@@ -18,15 +18,6 @@ Stolica [[Francja]]
 
 Miejsce wypłynięcia statku [[Montmartre]] w 1791 roku.
 
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
-
 ## Podrzędne
 
 ```dataview

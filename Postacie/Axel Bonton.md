@@ -97,8 +97,6 @@ Rzut testu: `dice: 1d100` · Kość premiowa/karna: `dice: 1d10`
 
 ### Ekwipunek i majątek
 
-
-
 ## Historia
 
 Poszukiwacz przygód który pomagał [[Lilian Harding]] [[Cole Phelps]] i [[Benjamin Smith]] w poszukiwaniach [[Arthur Holdem]] na zlecenie [[Dean „Dinky” Singleton|Dean "Dinky" Singleton]]
@@ -112,21 +110,6 @@ Sam został porażony przez [[Śpiew Hastura]] rzucany przez Candlisha. Po wszys
 Jego lekarzem jest [[Ernest Ceriani]] . znalazł on w krwi Axela jakąś substację, która nie daje się przebadać, aktywnie "ucieka" przed próbami pobrania próbki.
 
 Axel gdy dowiedział się o tym, że Lilian również przebywa w szpitalu, poprosił doktora Ceriani o spotkanie z nią. Bredził i opowiadał o mrocznych wizjach końca świata.
-
-## Wygląd
-
-
-## Osobowość
-
-
-## Powiązania
-
-| Z kim | Relacja | Stosunek |
-| --- | --- | --- |
-|  |  |  |
-
-> [!mg]- Tylko dla MG
-> 
 
 ## Powiązane wpisy
 
