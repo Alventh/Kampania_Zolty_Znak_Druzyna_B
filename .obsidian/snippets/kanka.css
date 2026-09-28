@@ -2,6 +2,17 @@ body {
   --zz-accent: #c9a227;          /* złoto Żółtego Znaku */
   --zz-accent-rgb: 201, 162, 39;
   --zz-mg-rgb: 170, 40, 40;
+
+  /* paleta karty: ciemny mahoń + pergamin + złoto */
+  --zz-mahon-1: #2a130e;
+  --zz-mahon-2: #3d1d14;
+  --zz-mahon-3: #52271a;
+  --zz-pergamin: #ecdcbc;
+  --zz-pergamin-dim: #c9b48c;
+  --zz-zloto: #d4ad3f;
+  --zz-zloto-dim: rgba(212, 173, 63, 0.45);
+  --zz-miedz: #e08a5f;
+  --zz-link: #f0c75e;
 }
 
 /* Callout dla tresci tylko dla MG: > [!mg] */
@@ -18,62 +29,6 @@ body {
   --callout-icon: lucide-heart-pulse;
 }
 
-/* ---------- Ramka z portretem (widoki/infobox.js) ---------- */
-.zz-infobox {
-  float: right;
-  width: 300px;
-  margin: 0 0 1em 1.5em;
-  padding: 0.75em;
-  background: var(--background-secondary);
-  border: 1px solid var(--background-modifier-border);
-  border-top: 4px solid var(--zz-accent);
-  border-radius: 8px;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
-}
-.zz-infobox.zz-private { border-top-color: rgb(var(--zz-mg-rgb)); }
-.zz-infobox-img {
-  display: block;
-  width: 100%;
-  max-height: 380px;
-  object-fit: cover;
-  object-position: top;
-  border-radius: 6px;
-}
-.zz-infobox.zz-dead .zz-infobox-img { filter: grayscale(1) contrast(0.9) brightness(0.85); }
-.zz-infobox-title {
-  margin: 0.6em 0 0;
-  text-align: center;
-  font-size: 1.25em;
-  font-weight: 700;
-  font-variant: small-caps;
-  letter-spacing: 0.03em;
-}
-.zz-infobox-sub {
-  text-align: center;
-  font-style: italic;
-  color: var(--text-muted);
-}
-.zz-badge {
-  margin: 0.4em auto 0;
-  width: fit-content;
-  padding: 0.1em 0.6em;
-  border-radius: 999px;
-  font-size: 0.8em;
-}
-.zz-badge-mg { background: rgba(var(--zz-mg-rgb), 0.2); color: rgb(var(--zz-mg-rgb)); }
-.zz-infobox table { width: 100%; margin: 0.6em 0 0; font-size: 0.9em; border-collapse: collapse; }
-.zz-infobox thead { display: none; }
-.zz-infobox td { border: none; border-top: 1px solid var(--background-modifier-border); padding: 0.3em 0.2em; vertical-align: top; }
-.zz-infobox td:first-child { width: 1%; white-space: nowrap; padding-right: 0.8em; font-weight: 600; color: var(--text-muted); }
-.zz-infobox ul { margin: 0; padding-left: 1.1em; }
-
-/* telefon / wąskie okno: ramka nad tekstem */
-@media (max-width: 700px) {
-  .zz-infobox { float: none; width: auto; margin: 0 0 1em; }
-}
-.is-mobile .zz-infobox { float: none; width: auto; margin: 0 0 1em; }
-.is-mobile .zz-infobox-img { max-height: 320px; }
-
 /* ---------- Indeksy modułów: tabela z miniaturami (jak lista w Kance) ---------- */
 .indeks-z-obrazkami .table-view-table td:first-child { width: 56px; padding: 4px; }
 .indeks-z-obrazkami .table-view-table td:first-child img,
@@ -87,19 +42,113 @@ body {
 .indeks-z-obrazkami .table-view-table td { vertical-align: middle; }
 .indeks-z-obrazkami .table-view-table th:first-child { width: 56px; }
 
-/* ---------- Karta (Fantasy Statblocks) ---------- */
-.karta-postaci .statblock { margin-bottom: 1.5em; }
-
-/* ---------- Karta postaci ---------- */
-.karta-postaci h2 {
-  font-variant: small-caps;
-  letter-spacing: 0.03em;
-  border-bottom: 1px solid rgba(var(--zz-accent-rgb), 0.6);
-  padding-bottom: 0.15em;
+/* ======================================================================
+   Statblock (Fantasy Statblocks) - motyw mahoniowy dla wszystkich kart
+   ====================================================================== */
+.statblock-plugin-container {
+  --statblock-background-color: var(--zz-mahon-2);
+  --statblock-font-color: var(--zz-pergamin);
+  --statblock-primary-color: var(--zz-zloto);
+  --statblock-rule-color: var(--zz-zloto);
+  --statblock-bar-color: var(--zz-zloto);
+  --statblock-bar-border-color: var(--zz-mahon-1);
+  --statblock-border-color: var(--zz-zloto-dim);
+  --statblock-box-shadow-color: rgba(0, 0, 0, 0.6);
+  --statblock-heading-font-color: var(--zz-zloto);
+  --statblock-heading-font: "Georgia", "Libre Baskerville", serif;
+  --statblock-subheading-font-style: italic;
+  --statblock-property-name-font-color: var(--zz-miedz);
+  --statblock-property-font-color: var(--zz-pergamin);
+  --statblock-section-heading-font-color: var(--zz-zloto);
+  --statblock-section-heading-border-color: var(--zz-zloto);
+  --statblock-image-border-color: var(--zz-zloto);
+  --statblock-image-width: 120px;
+  --statblock-image-height: 120px;
+  --statblock-image-border-size: 3px;
 }
-.karta-postaci h3 { color: var(--zz-accent); }
-/* sekcje pod ramką nie ściskają się obok niej */
-.karta-postaci .callout,
-.karta-postaci .block-language-dataviewjs:not(.zz-infobox) { clear: both; }
-.karta-postaci table td:has(.mb-input) { text-align: center; }
+.statblock-plugin-container a,
+.statblock-plugin-container .internal-link { color: var(--zz-link); }
+
+/* ======================================================================
+   Karta postaci: cała notatka = jedna karta
+   ====================================================================== */
+.karta-postaci {
+  --h2-color: var(--zz-zloto);
+  --h3-color: var(--zz-zloto);
+  --text-normal: var(--zz-pergamin);
+  --text-muted: var(--zz-pergamin-dim);
+  --link-color: var(--zz-link);
+  --link-color-hover: #ffe08a;
+  --link-unresolved-color: var(--zz-pergamin-dim);
+  --table-border-color: var(--zz-zloto-dim);
+  --table-header-background: var(--zz-mahon-3);
+  --table-header-color: var(--zz-zloto);
+  --blockquote-border-color: var(--zz-zloto);
+}
+
+/* powtórzony tytuł nad kartą */
+.karta-postaci .inline-title { display: none; }
+
+/* tło karty na całej stronie (czytanie i edycja) */
+.markdown-preview-view.karta-postaci .markdown-preview-sizer,
+.markdown-source-view.karta-postaci .cm-sizer {
+  background: linear-gradient(180deg, var(--zz-mahon-2) 0%, var(--zz-mahon-1) 100%);
+  color: var(--zz-pergamin);
+  border: 1px solid var(--zz-zloto-dim);
+  border-top: 6px solid var(--zz-zloto);
+  border-bottom: 6px solid var(--zz-zloto);
+  border-radius: 4px;
+  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.55), inset 0 0 60px rgba(0, 0, 0, 0.35);
+  padding: 1.5em 2.2em 2em !important;
+  margin-top: 1em;
+  margin-bottom: 2em;
+}
+
+/* statblock wtapia się w stronę: bez własnej ramki, na całą szerokość */
+.karta-postaci .statblock-plugin-container {
+  --statblock-background-color: transparent;
+  --statblock-border-size: 0px;
+  --statblock-box-shadow-blur: 0px;
+  --statblock-column-width: 100%;
+}
+.karta-postaci .statblock-plugin-parent,
+.karta-postaci .statblock-plugin-container,
+.karta-postaci .statblock { width: 100%; max-width: none; margin: 0; }
+.karta-postaci .statblock-content-container,
+.karta-postaci .statblock-content { width: 100%; max-width: none; }
+
+/* nagłówki sekcji jak w statblocku */
+.karta-postaci h2 {
+  font-family: "Georgia", "Libre Baskerville", serif;
+  font-variant: small-caps;
+  letter-spacing: 0.04em;
+  font-size: 1.35em;
+  color: var(--zz-zloto);
+  border-bottom: 2px solid var(--zz-zloto);
+  padding-bottom: 0.1em;
+  margin-top: 1.4em;
+}
+.karta-postaci h3 {
+  font-family: "Georgia", serif;
+  font-style: italic;
+  color: var(--zz-zloto);
+}
+.karta-postaci strong { color: var(--zz-miedz); }
+.karta-postaci p, .karta-postaci li { line-height: 1.6; }
+.karta-postaci table { background: rgba(0, 0, 0, 0.15); }
+.karta-postaci .callout { background: rgba(0, 0, 0, 0.25); }
+
+/* puste sekcje z szablonu chowają się, dopóki czegoś nie wpiszesz (tryb czytania) */
+.karta-postaci .el-h2:has(+ .el-h2),
+.karta-postaci .el-h2:has(+ .el-table tbody tr:only-child td:first-child:empty),
+.karta-postaci .el-table:has(tbody tr:only-child td:first-child:empty) { display: none; }
+/* pusty, zwinięty blok MG */
+.karta-postaci .callout[data-callout="mg"]:has(.callout-content:empty) { display: none; }
+
+/* sekcja "Karta badacza" (Meta Bind) */
 .karta-postaci .mb-input-type-number input { width: 4.5em; text-align: center; }
+.karta-postaci table td:has(.mb-input) { text-align: center; }
+
+/* telefon: mniej paddingu */
+.is-mobile .markdown-preview-view.karta-postaci .markdown-preview-sizer,
+.is-mobile .markdown-source-view.karta-postaci .cm-sizer { padding: 1em 1em 1.5em !important; }
