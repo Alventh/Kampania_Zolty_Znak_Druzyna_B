@@ -36,12 +36,28 @@
                   "type": "subheading",
                   "id": "128eba2c4d457d49",
                   "properties": [
-                    "typ",
-                    "tytuł",
-                    "zawód"
+                    "typ"
                   ],
                   "conditioned": true,
                   "separator": " · "
+                },
+                {
+                  "type": "property",
+                  "id": "e2ee51783fce6ad7",
+                  "properties": [
+                    "tytuł"
+                  ],
+                  "display": "Tytuł",
+                  "conditioned": true
+                },
+                {
+                  "type": "property",
+                  "id": "a5c6dc367600eea3",
+                  "properties": [
+                    "zawód"
+                  ],
+                  "display": "Zawód",
+                  "conditioned": true
                 },
                 {
                   "type": "property",

@@ -126,6 +126,14 @@ body {
 .karta-postaci .statblock { width: 100%; max-width: none; margin: 0; }
 .karta-postaci .statblock-content-container,
 .karta-postaci .statblock-content { width: 100%; max-width: none; }
+/* wtyczka wpisuje kolumnie stałe 400px - karta ma zająć całą szerokość */
+.karta-postaci .statblock-content > .column { width: 100% !important; max-width: none !important; }
+/* górny wiersz: dane po lewej rozciągnięte, portret dosunięty do prawej */
+.karta-postaci .statblock-item-inline { justify-content: space-between; align-items: flex-start; gap: 1.5em; }
+.karta-postaci .statblock-item-inline > .statblock-inline-item.group-container { flex: 1 1 auto; min-width: 0; }
+.karta-postaci .statblock-item-inline > .statblock-inline-item.image-container { flex: 0 0 auto; margin-left: auto; }
+/* telefon: portret nad danymi */
+.is-mobile .karta-postaci .statblock-item-inline { flex-direction: column-reverse; align-items: center; }
 
 /* nagłówki sekcji jak w statblocku */
 .karta-postaci h2 {
