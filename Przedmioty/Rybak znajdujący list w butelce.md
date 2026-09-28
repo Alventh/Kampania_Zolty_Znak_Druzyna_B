@@ -1,0 +1,37 @@
+---
+kategoria: "przedmiot"
+typ:
+rodzic: "[[Obrazy]]"
+właściciel: "[[Borys Schmidt]]"
+lokacja:
+cena:
+rozmiar:
+waga:
+twórcy: ["[[Borys Schmidt]]"]
+tagi: []
+prywatne: false
+obraz: "[[Rybak znajdujący list w butelce.jpg]]"
+aliases: []
+kanka_id: 6945254
+---
+
+![[Rybak znajdujący list w butelce.jpg|300]]
+
+## Opis
+
+![[9d8db4d4-5cd2-4f6e-a68e-eb867de96ba8_85bdf65c.jpg]]
+
+## Powiązania
+
+| Z kim | Relacja | Stosunek |
+| --- | --- | --- |
+|  |  |  |
+
+> [!mg]- Tylko dla MG
+> 
+
+## Podrzędne
+
+```dataview
+LIST FROM "Przedmioty" WHERE rodzic = this.file.link SORT file.name
+```

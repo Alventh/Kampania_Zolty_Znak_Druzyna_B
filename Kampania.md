@@ -17,10 +17,10 @@ dv.table(["Moduł", "Wpisów", "Prywatnych"], moduly.map(f => {
 ## Ostatnie dzienniki
 
 ```dataview
-TABLE WITHOUT ID file.link AS "Dziennik", data, lokacja
+TABLE WITHOUT ID file.link AS "Dziennik", data_w_grze, lokacja
 FROM "Dzienniki"
 WHERE kategoria = "dziennik"
-SORT data DESC
+SORT data_w_grze DESC
 LIMIT 5
 ```
 

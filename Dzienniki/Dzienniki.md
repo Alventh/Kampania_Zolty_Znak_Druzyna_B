@@ -13,8 +13,8 @@ await dv.view("_Szablony/widoki/drzewo", { folder: "Dzienniki" })
 ## Lista
 
 ```dataview
-TABLE WITHOUT ID file.link AS "Nazwa", data, autor, lokacja
+TABLE WITHOUT ID file.link AS "Nazwa", data_w_grze, data, autor, lokacja
 FROM "Dzienniki"
 WHERE file.path != this.file.path
-SORT data DESC
+SORT data_w_grze DESC
 ```

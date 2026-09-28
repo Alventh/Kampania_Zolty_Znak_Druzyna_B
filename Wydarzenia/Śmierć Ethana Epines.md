@@ -1,0 +1,36 @@
+---
+kategoria: "wydarzenie"
+typ:
+rodzic:
+data_w_grze: "25 Sierpnia 1920"
+kalendarz: "[[Kalendarz]]"
+lokacja: "[[Komnata pod posiadłością Bethania]]"
+fc-calendar: "Kalendarz"
+fc-date: "1920-08-25"
+tagi: []
+prywatne: false
+obraz: "[[Śmierć Basila Torrence.png]]"
+aliases: []
+kanka_id: 6934629
+---
+
+![[Śmierć Basila Torrence.png|300]]
+
+## Opis
+
+Śmierć [[Ethan Epines]] w [[Komnata pod posiadłością Bethania]] z rąk [[Lilian Harding]], [[Cole Phelps]], [[Benjamin Smith]], [[Edmund]]  przy wsparciu [[Archibald Bradford]] i [[Hank Miller]]
+
+## Powiązania
+
+| Z kim | Relacja | Stosunek |
+| --- | --- | --- |
+|  |  |  |
+
+> [!mg]- Tylko dla MG
+> 
+
+## Podrzędne
+
+```dataview
+LIST FROM "Wydarzenia" WHERE rodzic = this.file.link SORT file.name
+```
