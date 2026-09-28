@@ -37,6 +37,7 @@ kanka_id: 6937559
 ---
 
 ```statblock
+{}
 ```
 
 ## Opis

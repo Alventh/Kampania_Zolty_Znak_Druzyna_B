@@ -38,6 +38,7 @@ tags: ["mg"]
 ---
 
 ```statblock
+{}
 ```
 
 ## Opis

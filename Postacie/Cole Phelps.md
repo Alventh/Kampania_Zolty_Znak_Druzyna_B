@@ -46,6 +46,7 @@ kanka_id: 6547728
 ---
 
 ```statblock
+{}
 ```
 
 ## Karta badacza
