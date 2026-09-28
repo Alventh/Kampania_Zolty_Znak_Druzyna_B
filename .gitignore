@@ -1,0 +1,25 @@
+# Stan okien Obsidiana - inny na kazdym komputerze, generuje konflikty
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspaces.json
+
+# Kosz Obsidiana i cache wtyczek
+.trash/
+.obsidian/plugins/*/data.json.bak
+.obsidian/cache
+
+# Wtyczka Obsidian Git - lokalny plik z hasłem/stanem nie powinien trafic do repo
+.obsidian/plugins/obsidian-git/data.json.lock
+
+# Pliki systemowe
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Tymczasowe
+*.tmp
+~$*
+
+# Na wszelki wypadek - tokeny i eksporty maja zyc poza vaultem
+*API*.txt
+kanka-export/
